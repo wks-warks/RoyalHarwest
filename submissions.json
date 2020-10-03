@@ -10874,6 +10874,25 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF94554136": {
+    "contest_id": 266,
+    "language": "Java 11",
+    "path": "codeforces/266/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Queue at the School",
+    "problem_url": "https://codeforces.com/contest/266/problem/B",
+    "submission_id": "CF94554136",
+    "submission_url": "https://codeforces.com/contest/266/submission/94554136",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "implementation",
+      "shortest paths",
+      "*800"
+    ],
+    "timestamp": "Oct/03/2020 14:17"
+  },
   "CF94614290": {
     "contest_id": 110,
     "language": "Java 11",
