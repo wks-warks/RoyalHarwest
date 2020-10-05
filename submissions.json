@@ -10874,6 +10874,22 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF94731829": {
+    "contest_id": 467,
+    "language": "Java 11",
+    "path": "codeforces/467/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "George and Accommodation",
+    "problem_url": "https://codeforces.com/contest/467/problem/A",
+    "submission_id": "CF94731829",
+    "submission_url": "https://codeforces.com/contest/467/submission/94731829",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/05/2020 08:50"
+  },
   "CF94732600": {
     "contest_id": 271,
     "language": "Java 11",
