@@ -10874,6 +10874,22 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF94881425": {
+    "contest_id": 337,
+    "language": "Java 11",
+    "path": "codeforces/337/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzles",
+    "problem_url": "https://codeforces.com/contest/337/problem/A",
+    "submission_id": "CF94881425",
+    "submission_url": "https://codeforces.com/contest/337/submission/94881425",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Oct/08/2020 09:57"
+  },
   "CF94881917": {
     "contest_id": 200,
     "language": "Java 11",
