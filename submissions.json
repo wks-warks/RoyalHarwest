@@ -10874,6 +10874,23 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF94956513": {
+    "contest_id": 443,
+    "language": "Java 11",
+    "path": "codeforces/443/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Letters",
+    "problem_url": "https://codeforces.com/contest/443/problem/A",
+    "submission_id": "CF94956513",
+    "submission_url": "https://codeforces.com/contest/443/submission/94956513",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/09/2020 09:30"
+  },
   "CF94956701": {
     "contest_id": 1328,
     "language": "Java 11",
