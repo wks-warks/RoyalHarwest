@@ -10874,6 +10874,22 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF94954979": {
+    "contest_id": 228,
+    "language": "Java 11",
+    "path": "codeforces/228/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Is your horseshoe on the other hoof?",
+    "problem_url": "https://codeforces.com/contest/228/problem/A",
+    "submission_id": "CF94954979",
+    "submission_url": "https://codeforces.com/contest/228/submission/94954979",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/09/2020 08:41"
+  },
   "CF94955933": {
     "contest_id": 144,
     "language": "Java 11",
