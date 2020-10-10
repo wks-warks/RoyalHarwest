@@ -10874,6 +10874,24 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF95029349": {
+    "contest_id": 4,
+    "language": "Java 11",
+    "path": "codeforces/4/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Registration System",
+    "problem_url": "https://codeforces.com/contest/4/problem/C",
+    "submission_id": "CF95029349",
+    "submission_url": "https://codeforces.com/contest/4/submission/95029349",
+    "tags": [
+      "data structures",
+      "hashing",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Oct/10/2020 09:08"
+  },
   "CF95029369": {
     "contest_id": 4,
     "language": "Java 11",

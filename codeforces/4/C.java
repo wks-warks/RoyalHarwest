@@ -7,7 +7,7 @@ public class CF4C {
     static final Scanner SC = new Scanner(System.in);
     public static void main(String[] args) {
         int names = SC.nextInt(); // Number of names to be inserted
-        Map<String, Integer> namesMap = new HashMap<String, Integer>();
+        Map<String, Integer> namesMap = new HashMap<>();
 
         for(int n = 0; n < names; ++n) {
             String nameRequest = SC.next();
