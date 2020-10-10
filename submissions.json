@@ -10874,6 +10874,23 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF95059682": {
+    "contest_id": 189,
+    "language": "Java 11",
+    "path": "codeforces/189/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cut Ribbon",
+    "problem_url": "https://codeforces.com/contest/189/problem/A",
+    "submission_id": "CF95059682",
+    "submission_url": "https://codeforces.com/contest/189/submission/95059682",
+    "tags": [
+      "brute force",
+      "dp",
+      "*1300"
+    ],
+    "timestamp": "Oct/10/2020 13:18"
+  },
   "CF95060533": {
     "contest_id": 1352,
     "language": "Java 11",
