@@ -10874,6 +10874,23 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF95077396": {
+    "contest_id": 581,
+    "language": "Java 11",
+    "path": "codeforces/581/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vasya the Hipster",
+    "problem_url": "https://codeforces.com/contest/581/problem/A",
+    "submission_id": "CF95077396",
+    "submission_url": "https://codeforces.com/contest/581/submission/95077396",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/10/2020 17:30"
+  },
   "CF95078259": {
     "contest_id": 1154,
     "language": "Java 11",
