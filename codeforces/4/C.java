@@ -1,13 +1,13 @@
 // Codeforces 4C
 import java.util.Scanner;
 import java.util.Map;
-import java.util.HashMap;
+import java.util.TreeMap;
 
 public class CF4C {
     static final Scanner SC = new Scanner(System.in);
     public static void main(String[] args) {
         int names = SC.nextInt(); // Number of names to be inserted
-        Map<String, Integer> namesMap = new HashMap<>();
+        Map<String, Integer> namesMap = new TreeMap<>();
 
         for(int n = 0; n < names; ++n) {
             String nameRequest = SC.next();
