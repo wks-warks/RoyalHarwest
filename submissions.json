@@ -10874,6 +10874,23 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF95271651": {
+    "contest_id": 1343,
+    "language": "Java 11",
+    "path": "codeforces/1343/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Balanced Array",
+    "problem_url": "https://codeforces.com/contest/1343/problem/B",
+    "submission_id": "CF95271651",
+    "submission_url": "https://codeforces.com/contest/1343/submission/95271651",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/11/2020 20:11"
+  },
   "CF95276522": {
     "contest_id": 732,
     "language": "Java 11",
