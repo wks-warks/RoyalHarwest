@@ -12860,6 +12860,22 @@
     ],
     "timestamp": "Oct/12/2020 08:17"
   },
+  "CF95370640": {
+    "contest_id": 1399,
+    "language": "Java 11",
+    "path": "codeforces/1399/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gifts Fixing",
+    "problem_url": "https://codeforces.com/contest/1399/problem/B",
+    "submission_id": "CF95370640",
+    "submission_url": "https://codeforces.com/contest/1399/submission/95370640",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Oct/13/2020 00:07"
+  },
   "CF95371109": {
     "contest_id": 1374,
     "language": "Java 11",
