@@ -12860,6 +12860,22 @@
     ],
     "timestamp": "Oct/12/2020 08:17"
   },
+  "CF95371109": {
+    "contest_id": 1374,
+    "language": "Java 11",
+    "path": "codeforces/1374/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Required Remainder",
+    "problem_url": "https://codeforces.com/contest/1374/problem/A",
+    "submission_id": "CF95371109",
+    "submission_url": "https://codeforces.com/contest/1374/submission/95371109",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/13/2020 00:15"
+  },
   "CF95371509": {
     "contest_id": 703,
     "language": "Java 11",
