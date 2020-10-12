@@ -12860,6 +12860,22 @@
     ],
     "timestamp": "Oct/12/2020 08:17"
   },
+  "CF95371509": {
+    "contest_id": 703,
+    "language": "Java 11",
+    "path": "codeforces/703/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mishka and Game",
+    "problem_url": "https://codeforces.com/contest/703/problem/A",
+    "submission_id": "CF95371509",
+    "submission_url": "https://codeforces.com/contest/703/submission/95371509",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/13/2020 00:21"
+  },
   "CF95372609": {
     "contest_id": 1348,
     "language": "Java 11",
