@@ -12860,6 +12860,23 @@
     ],
     "timestamp": "Oct/12/2020 08:17"
   },
+  "CF95364386": {
+    "contest_id": 313,
+    "language": "Java 11",
+    "path": "codeforces/313/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ilya and Bank Account",
+    "problem_url": "https://codeforces.com/contest/313/problem/A",
+    "submission_id": "CF95364386",
+    "submission_url": "https://codeforces.com/contest/313/submission/95364386",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Oct/12/2020 22:28"
+  },
   "CF95366618": {
     "contest_id": 379,
     "language": "Java 11",
