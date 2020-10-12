@@ -13015,6 +13015,22 @@
     ],
     "timestamp": "Oct/12/2020 23:00"
   },
+  "CF95366651": {
+    "contest_id": 379,
+    "language": "Java 11",
+    "path": "codeforces/379/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Candles",
+    "problem_url": "https://codeforces.com/contest/379/problem/A",
+    "submission_id": "CF95366651",
+    "submission_url": "https://codeforces.com/contest/379/submission/95366651",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/12/2020 23:01"
+  },
   "CF95369584": {
     "contest_id": 1353,
     "language": "Java 11",

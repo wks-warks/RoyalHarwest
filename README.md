@@ -850,7 +850,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 69 | [B - Gifts Fixing](https://codeforces.com/contest/1399/problem/B) | [Java 11](./codeforces/1399/B.java) | `greedy` `*800` | Oct/13/2020 00:07 | 
 68 | [A - Minimal Square](https://codeforces.com/contest/1360/problem/A) | [Java 11](./codeforces/1360/A.java) | `greedy` `math` `*800` | Oct/12/2020 23:55 | 
 67 | [B - Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | [Java 11](./codeforces/1353/B.java) | `greedy` `sortings` `*800` | Oct/12/2020 23:49 | 
-66 | [A - New Year Candles](https://codeforces.com/contest/379/problem/A) | [Java 11](./codeforces/379/A.java) | `implementation` `*1000` | Oct/12/2020 23:00 | 
+66 | [A - New Year Candles](https://codeforces.com/contest/379/problem/A) | [Java 11](./codeforces/379/A.java) | `implementation` `*1000` | Oct/12/2020 23:01 | 
 65 | [A - Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | [Java 11](./codeforces/313/A.java) | `implementation` `number theory` `*900` | Oct/12/2020 22:28 | 
 64 | [A - Choosing Teams](https://codeforces.com/contest/432/problem/A) | [Java 11](./codeforces/432/A.java) | `greedy` `implementation` `sortings` `*800` | Oct/12/2020 22:09 | 
 63 | [A - Vasya and Socks](https://codeforces.com/contest/460/problem/A) | [Java 11](./codeforces/460/A.java) | `brute force` `implementation` `math` `*900` | Oct/12/2020 21:58 | 
