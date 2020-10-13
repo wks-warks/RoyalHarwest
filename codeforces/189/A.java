@@ -1,35 +1,36 @@
-// Codeforces 189A
+// Codeforces 189A - DP approach
 import java.util.Scanner;
-import java.util.Arrays;
+import java.util.HashMap;
 
-public class CF189A {
+public class CF189Adp {
     static final Scanner SC = new Scanner(System.in);
     public static void main(String[] args) {
-        int ribbonLen = SC.nextInt(); // Length of ribbon
-        int[] pieceSizes = new int[3]; // Allowed piece sizes
+        int ribbonLen = SC.nextInt();
+        int[] pieceSizes = new int[3];
         for (int i = 0; i < 3; ++i)
             pieceSizes[i] = SC.nextInt();
-        int maxPieces = computeMaxPieces(ribbonLen, pieceSizes);
+        HashMap<Integer, Integer> solutions = new HashMap<>(); // Solutions for intermediate steps
+        int maxPieces = getMaxPieces(ribbonLen, pieceSizes, solutions);
         System.out.println(maxPieces);
     }
 
-    // Computes and returns maximum number of pieces that the ribbon can be cut into
-    static int computeMaxPieces(int ribbonLen, int[] pieceSizes) {
-        Arrays.sort(pieceSizes);
-        int maxPieces = 0;
-        int typeThreeMax = ribbonLen / pieceSizes[2];        
-        for (int i = 0; i <= typeThreeMax; ++i) {
-            int takenLen = i * pieceSizes[2];
-            for (int j = 0; j * pieceSizes[1] <= ribbonLen - takenLen; ++j) {
-                takenLen += j * pieceSizes[1];
-                int k = (ribbonLen - takenLen) / pieceSizes[0];
-                takenLen += k * pieceSizes[0];
-                if (ribbonLen == takenLen)
-                    maxPieces = Math.max(maxPieces, i+j+k); // i-pieces of size1, j of size-2, k of size-3
-                takenLen = i * pieceSizes[2]; // So that changes from a prior loop don't follow onto the next loop
-                // Alternatively, takenLen could've been kept local to the innermost loop but we do it this way as we'd like to keep this potential bug in check
-            }
+    // Computes and returns maximum number of pieces possible    
+    static int getMaxPieces(int ribbonLen, int[] pieceSizes, HashMap<Integer, Integer> solutions) {
+        // Base cases
+        if (solutions.containsKey(ribbonLen))
+            return solutions.get(ribbonLen);
+        if (ribbonLen < 0)
+            return -1; // i.e Impossible
+        if (ribbonLen == 0)
+            return 0;
+        // Key not present so far
+        int pieces = -1;
+        for (int i = 0; i < 3; ++i) {
+            int piecesBefore = getMaxPieces(ribbonLen-pieceSizes[i], pieceSizes, solutions);
+            if (piecesBefore != -1)
+                pieces = Math.max(pieces, 1+piecesBefore);
         }
-        return maxPieces;
+        solutions.put(ribbonLen, pieces);
+        return pieces;
     }
 }
