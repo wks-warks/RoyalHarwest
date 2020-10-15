@@ -12878,6 +12878,22 @@
     ],
     "timestamp": "Oct/15/2020 20:43"
   },
+  "CF95600261": {
+    "contest_id": 579,
+    "language": "Java 11",
+    "path": "codeforces/579/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Raising Bacteria",
+    "problem_url": "https://codeforces.com/contest/579/problem/A",
+    "submission_id": "CF95600261",
+    "submission_url": "https://codeforces.com/contest/579/submission/95600261",
+    "tags": [
+      "bitmasks",
+      "*1000"
+    ],
+    "timestamp": "Oct/15/2020 20:53"
+  },
   "CF95601805": {
     "contest_id": 489,
     "language": "Java 11",
