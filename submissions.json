@@ -12860,6 +12860,23 @@
     ],
     "timestamp": "Oct/12/2020 08:17"
   },
+  "CF95598373": {
+    "contest_id": 1360,
+    "language": "Java 11",
+    "path": "codeforces/1360/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Honest Coach",
+    "problem_url": "https://codeforces.com/contest/1360/problem/B",
+    "submission_id": "CF95598373",
+    "submission_url": "https://codeforces.com/contest/1360/submission/95598373",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Oct/15/2020 20:31"
+  },
   "CF95599344": {
     "contest_id": 1353,
     "language": "Java 11",
