@@ -13235,6 +13235,25 @@
     ],
     "timestamp": "Oct/15/2020 20:53"
   },
+  "CF95600909": {
+    "contest_id": 749,
+    "language": "Java 11",
+    "path": "codeforces/749/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bachgold Problem",
+    "problem_url": "https://codeforces.com/contest/749/problem/A",
+    "submission_id": "CF95600909",
+    "submission_url": "https://codeforces.com/contest/749/submission/95600909",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Oct/15/2020 21:03"
+  },
   "CF95601805": {
     "contest_id": 489,
     "language": "Java 11",
