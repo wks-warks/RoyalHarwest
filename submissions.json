@@ -10874,6 +10874,27 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF95678558": {
+    "contest_id": 520,
+    "language": "Java 11",
+    "path": "codeforces/520/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Buttons",
+    "problem_url": "https://codeforces.com/contest/520/problem/B",
+    "submission_id": "CF95678558",
+    "submission_url": "https://codeforces.com/contest/520/submission/95678558",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math",
+      "shortest paths",
+      "*1400"
+    ],
+    "timestamp": "Oct/16/2020 21:48"
+  },
   "CF95692132": {
     "contest_id": 1370,
     "language": "Java 11",
