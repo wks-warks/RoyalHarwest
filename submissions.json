@@ -10874,6 +10874,22 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF95738337": {
+    "contest_id": 1374,
+    "language": "Java 11",
+    "path": "codeforces/1374/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Multiply by 2, divide by 6",
+    "problem_url": "https://codeforces.com/contest/1374/problem/B",
+    "submission_id": "CF95738337",
+    "submission_url": "https://codeforces.com/contest/1374/submission/95738337",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/17/2020 18:16"
+  },
   "CF95739260": {
     "contest_id": 1097,
     "language": "Java 11",
