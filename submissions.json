@@ -10874,6 +10874,24 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF95739871": {
+    "contest_id": 1311,
+    "language": "Java 11",
+    "path": "codeforces/1311/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Add Odd or Subtract Even",
+    "problem_url": "https://codeforces.com/contest/1311/problem/A",
+    "submission_id": "CF95739871",
+    "submission_url": "https://codeforces.com/contest/1311/submission/95739871",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/17/2020 18:36"
+  },
   "CF95839225": {
     "contest_id": 1294,
     "language": "Java 11",
