@@ -10874,6 +10874,24 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF95844029": {
+    "contest_id": 519,
+    "language": "Java 11",
+    "path": "codeforces/519/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "A and B and Compilation Errors",
+    "problem_url": "https://codeforces.com/contest/519/problem/B",
+    "submission_id": "CF95844029",
+    "submission_url": "https://codeforces.com/contest/519/submission/95844029",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Oct/18/2020 11:36"
+  },
   "CF95943102": {
     "contest_id": 1337,
     "language": "Java 11",
