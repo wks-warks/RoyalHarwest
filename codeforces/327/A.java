@@ -23,7 +23,10 @@ public class CF327A {
                 gainAfterFlip[i] = gainAfterFlip[i-1] - 1;
         int initialOnes = countOnes(arr);
         int additionalOnes = computeMaxGain(gainAfterFlip);
-        return initialOnes + additionalOnes;
+        if (additionalOnes != 0)
+            return initialOnes + additionalOnes;
+        else
+            return initialOnes - 1;
     }
  
     // Computes and returns number of ones in the array
@@ -37,7 +40,7 @@ public class CF327A {
  
     // Computes and returns max gain possible
     static int computeMaxGain(int[] gains) {
-        int maxGain = -1;
+        int maxGain = 0;
         for (int i = 0; i < gains.length; ++i)
             maxGain = Math.max(maxGain, gains[i]);
         return maxGain;
