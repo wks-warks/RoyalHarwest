@@ -13201,6 +13201,24 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF96474700": {
+    "contest_id": 1343,
+    "language": "Java 11",
+    "path": "codeforces/1343/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Alternating Subsequence",
+    "problem_url": "https://codeforces.com/contest/1343/problem/C",
+    "submission_id": "CF96474700",
+    "submission_url": "https://codeforces.com/contest/1343/submission/96474700",
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Oct/24/2020 00:01"
+  },
   "CF96475625": {
     "contest_id": 1343,
     "language": "Java 11",
