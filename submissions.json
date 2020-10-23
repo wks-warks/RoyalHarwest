@@ -13201,6 +13201,22 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF96408062": {
+    "contest_id": 1353,
+    "language": "Java 11",
+    "path": "codeforces/1353/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Board Moves",
+    "problem_url": "https://codeforces.com/contest/1353/problem/C",
+    "submission_id": "CF96408062",
+    "submission_url": "https://codeforces.com/contest/1353/submission/96408062",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/23/2020 08:37"
+  },
   "CF96408755": {
     "contest_id": 474,
     "language": "Java 11",
