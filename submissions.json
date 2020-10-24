@@ -13201,6 +13201,22 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF96504242": {
+    "contest_id": 474,
+    "language": "Java 11",
+    "path": "codeforces/474/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Keyboard",
+    "problem_url": "https://codeforces.com/contest/474/problem/A",
+    "submission_id": "CF96504242",
+    "submission_url": "https://codeforces.com/contest/474/submission/96504242",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Oct/24/2020 13:09"
+  },
   "CF96504835": {
     "contest_id": 540,
     "language": "Java 11",
