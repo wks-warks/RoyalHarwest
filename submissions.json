@@ -13201,6 +13201,22 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF96755367": {
+    "contest_id": 119,
+    "language": "Java 11",
+    "path": "codeforces/119/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Epic Game",
+    "problem_url": "https://codeforces.com/contest/119/problem/A",
+    "submission_id": "CF96755367",
+    "submission_url": "https://codeforces.com/contest/119/submission/96755367",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/26/2020 13:08"
+  },
   "CF96807346": {
     "contest_id": 1368,
     "language": "Java 11",
