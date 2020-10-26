@@ -13201,6 +13201,22 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF96808465": {
+    "contest_id": 1382,
+    "language": "Java 11",
+    "path": "codeforces/1382/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Common Subsequence",
+    "problem_url": "https://codeforces.com/contest/1382/problem/A",
+    "submission_id": "CF96808465",
+    "submission_url": "https://codeforces.com/contest/1382/submission/96808465",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Oct/27/2020 01:04"
+  },
   "CF96808906": {
     "contest_id": 1341,
     "language": "Java 11",
