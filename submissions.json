@@ -13201,6 +13201,25 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF96966535": {
+    "contest_id": 1360,
+    "language": "Java 11",
+    "path": "codeforces/1360/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Similar Pairs",
+    "problem_url": "https://codeforces.com/contest/1360/problem/C",
+    "submission_id": "CF96966535",
+    "submission_url": "https://codeforces.com/contest/1360/submission/96966535",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Oct/28/2020 13:07"
+  },
   "CF96969970": {
     "contest_id": 467,
     "language": "Java 11",
