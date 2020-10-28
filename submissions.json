@@ -13467,6 +13467,22 @@
     ],
     "timestamp": "Oct/28/2020 13:57"
   },
+  "CF97007377": {
+    "contest_id": 599,
+    "language": "Java 11",
+    "path": "codeforces/599/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Patrick and Shopping",
+    "problem_url": "https://codeforces.com/contest/599/problem/A",
+    "submission_id": "CF97007377",
+    "submission_url": "https://codeforces.com/contest/599/submission/97007377",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/28/2020 19:35"
+  },
   "CF97153342": {
     "contest_id": 1426,
     "language": "Java 11",
