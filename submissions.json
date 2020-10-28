@@ -13467,6 +13467,24 @@
     ],
     "timestamp": "Oct/28/2020 13:57"
   },
+  "CF96999491": {
+    "contest_id": 149,
+    "language": "Java 11",
+    "path": "codeforces/149/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Business trip",
+    "problem_url": "https://codeforces.com/contest/149/problem/A",
+    "submission_id": "CF96999491",
+    "submission_url": "https://codeforces.com/contest/149/submission/96999491",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Oct/28/2020 19:06"
+  },
   "CF97006084": {
     "contest_id": 499,
     "language": "Java 11",
