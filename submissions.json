@@ -13201,6 +13201,25 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF96969970": {
+    "contest_id": 467,
+    "language": "Java 11",
+    "path": "codeforces/467/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fedor and New Game",
+    "problem_url": "https://codeforces.com/contest/467/problem/B",
+    "submission_id": "CF96969970",
+    "submission_url": "https://codeforces.com/contest/467/submission/96969970",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Oct/28/2020 13:19"
+  },
   "CF96974377": {
     "contest_id": 1397,
     "language": "Java 11",
