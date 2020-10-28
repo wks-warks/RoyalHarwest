@@ -13467,6 +13467,23 @@
     ],
     "timestamp": "Oct/28/2020 13:57"
   },
+  "CF97006084": {
+    "contest_id": 499,
+    "language": "Java 11",
+    "path": "codeforces/499/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lecture",
+    "problem_url": "https://codeforces.com/contest/499/problem/B",
+    "submission_id": "CF97006084",
+    "submission_url": "https://codeforces.com/contest/499/submission/97006084",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Oct/28/2020 19:20"
+  },
   "CF97007377": {
     "contest_id": 599,
     "language": "Java 11",
