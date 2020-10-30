@@ -13467,6 +13467,24 @@
     ],
     "timestamp": "Oct/28/2020 13:57"
   },
+  "CF97201537": {
+    "contest_id": 1359,
+    "language": "Java 11",
+    "path": "codeforces/1359/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Berland Poker",
+    "problem_url": "https://codeforces.com/contest/1359/problem/A",
+    "submission_id": "CF97201537",
+    "submission_url": "https://codeforces.com/contest/1359/submission/97201537",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/31/2020 01:53"
+  },
   "CF97795636": {
     "contest_id": 1333,
     "language": "Java 11",
