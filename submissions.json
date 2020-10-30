@@ -13467,6 +13467,22 @@
     ],
     "timestamp": "Oct/28/2020 13:57"
   },
+  "CF97201166": {
+    "contest_id": 1345,
+    "language": "Java 11",
+    "path": "codeforces/1345/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzle Pieces",
+    "problem_url": "https://codeforces.com/contest/1345/problem/A",
+    "submission_id": "CF97201166",
+    "submission_url": "https://codeforces.com/contest/1345/submission/97201166",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/31/2020 01:44"
+  },
   "CF97201537": {
     "contest_id": 1359,
     "language": "Java 11",
