@@ -15248,6 +15248,23 @@
     ],
     "timestamp": "Nov/01/2020 23:12"
   },
+  "CF97399815": {
+    "contest_id": 1401,
+    "language": "Java 11",
+    "path": "codeforces/1401/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Distance and Axis",
+    "problem_url": "https://codeforces.com/contest/1401/problem/A",
+    "submission_id": "CF97399815",
+    "submission_url": "https://codeforces.com/contest/1401/submission/97399815",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/02/2020 11:05"
+  },
   "CF97400435": {
     "contest_id": 1296,
     "language": "Java 11",
