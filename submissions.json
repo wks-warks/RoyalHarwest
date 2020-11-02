@@ -15248,6 +15248,23 @@
     ],
     "timestamp": "Nov/01/2020 23:12"
   },
+  "CF97404060": {
+    "contest_id": 1328,
+    "language": "Java 11",
+    "path": "codeforces/1328/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ternary XOR",
+    "problem_url": "https://codeforces.com/contest/1328/problem/C",
+    "submission_id": "CF97404060",
+    "submission_url": "https://codeforces.com/contest/1328/submission/97404060",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Nov/02/2020 12:24"
+  },
   "CF97418172": {
     "contest_id": 580,
     "language": "Java 11",
