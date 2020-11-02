@@ -15248,6 +15248,24 @@
     ],
     "timestamp": "Nov/01/2020 23:12"
   },
+  "CF97508584": {
+    "contest_id": 1220,
+    "language": "Java 11",
+    "path": "codeforces/1220/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/1220/problem/A",
+    "submission_id": "CF97508584",
+    "submission_url": "https://codeforces.com/contest/1220/submission/97508584",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/03/2020 01:40"
+  },
   "CF97508980": {
     "contest_id": 34,
     "language": "Java 11",
