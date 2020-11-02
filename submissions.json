@@ -15248,6 +15248,23 @@
     ],
     "timestamp": "Nov/01/2020 23:12"
   },
+  "CF97401778": {
+    "contest_id": 268,
+    "language": "Java 11",
+    "path": "codeforces/268/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Buttons",
+    "problem_url": "https://codeforces.com/contest/268/problem/B",
+    "submission_id": "CF97401778",
+    "submission_url": "https://codeforces.com/contest/268/submission/97401778",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Nov/02/2020 11:43"
+  },
   "CF97402276": {
     "contest_id": 268,
     "language": "Java 11",
