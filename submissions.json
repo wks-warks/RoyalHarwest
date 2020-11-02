@@ -15248,6 +15248,22 @@
     ],
     "timestamp": "Nov/01/2020 23:12"
   },
+  "CF97400889": {
+    "contest_id": 43,
+    "language": "Java 11",
+    "path": "codeforces/43/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Football",
+    "problem_url": "https://codeforces.com/contest/43/problem/A",
+    "submission_id": "CF97400889",
+    "submission_url": "https://codeforces.com/contest/43/submission/97400889",
+    "tags": [
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Nov/02/2020 11:26"
+  },
   "CF97401778": {
     "contest_id": 268,
     "language": "Java 11",
