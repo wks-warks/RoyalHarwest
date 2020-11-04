@@ -15248,6 +15248,23 @@
     ],
     "timestamp": "Nov/01/2020 23:12"
   },
+  "CF97659964": {
+    "contest_id": 1326,
+    "language": "Java 11",
+    "path": "codeforces/1326/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bad Ugly Numbers",
+    "problem_url": "https://codeforces.com/contest/1326/problem/A",
+    "submission_id": "CF97659964",
+    "submission_url": "https://codeforces.com/contest/1326/submission/97659964",
+    "tags": [
+      "constructive algorithms",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Nov/05/2020 01:04"
+  },
   "CF97660598": {
     "contest_id": 1350,
     "language": "Java 11",
