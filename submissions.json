@@ -13201,6 +13201,22 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF97796464": {
+    "contest_id": 124,
+    "language": "Java 11",
+    "path": "codeforces/124/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The number of positions",
+    "problem_url": "https://codeforces.com/contest/124/problem/A",
+    "submission_id": "CF97796464",
+    "submission_url": "https://codeforces.com/contest/124/submission/97796464",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Nov/06/2020 23:01"
+  },
   "CF97796861": {
     "contest_id": 1304,
     "language": "Java 11",
