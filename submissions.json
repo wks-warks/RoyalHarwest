@@ -13201,6 +13201,24 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF97857238": {
+    "contest_id": 1391,
+    "language": "Java 11",
+    "path": "codeforces/1391/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fix You",
+    "problem_url": "https://codeforces.com/contest/1391/problem/B",
+    "submission_id": "CF97857238",
+    "submission_url": "https://codeforces.com/contest/1391/submission/97857238",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/07/2020 21:27"
+  },
   "CF97857828": {
     "contest_id": 448,
     "language": "Java 11",
