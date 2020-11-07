@@ -13201,6 +13201,22 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF97846860": {
+    "contest_id": 478,
+    "language": "Java 11",
+    "path": "codeforces/478/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Initial Bet",
+    "problem_url": "https://codeforces.com/contest/478/problem/A",
+    "submission_id": "CF97846860",
+    "submission_url": "https://codeforces.com/contest/478/submission/97846860",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/07/2020 18:43"
+  },
   "CF97857238": {
     "contest_id": 1391,
     "language": "Java 11",
