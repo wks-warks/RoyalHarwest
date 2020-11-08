@@ -13201,6 +13201,23 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF97895498": {
+    "contest_id": 1433,
+    "language": "Java 11",
+    "path": "codeforces/1433/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Yet Another Bookshelf",
+    "problem_url": "https://codeforces.com/contest/1433/problem/B",
+    "submission_id": "CF97895498",
+    "submission_url": "https://codeforces.com/contest/1433/submission/97895498",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/08/2020 11:47"
+  },
   "CF97916916": {
     "contest_id": 686,
     "language": "Java 11",
