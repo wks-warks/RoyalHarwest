@@ -13201,6 +13201,23 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF98043151": {
+    "contest_id": 1393,
+    "language": "Java 11",
+    "path": "codeforces/1393/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rainbow Dash, Fluttershy and Chess Coloring",
+    "problem_url": "https://codeforces.com/contest/1393/problem/A",
+    "submission_id": "CF98043151",
+    "submission_url": "https://codeforces.com/contest/1393/submission/98043151",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/10/2020 13:52"
+  },
   "CF98215215": {
     "contest_id": 1213,
     "language": "Java 11",
