@@ -13201,6 +13201,23 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF98041212": {
+    "contest_id": 567,
+    "language": "Java 11",
+    "path": "codeforces/567/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lineland Mail",
+    "problem_url": "https://codeforces.com/contest/567/problem/A",
+    "submission_id": "CF98041212",
+    "submission_url": "https://codeforces.com/contest/567/submission/98041212",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Nov/10/2020 13:16"
+  },
   "CF98041521": {
     "contest_id": 1003,
     "language": "Java 11",
