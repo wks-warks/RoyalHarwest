@@ -13201,6 +13201,22 @@
     ],
     "timestamp": "Oct/20/2020 18:11"
   },
+  "CF98220316": {
+    "contest_id": 588,
+    "language": "Java 11",
+    "path": "codeforces/588/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Duff and Meat",
+    "problem_url": "https://codeforces.com/contest/588/problem/A",
+    "submission_id": "CF98220316",
+    "submission_url": "https://codeforces.com/contest/588/submission/98220316",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Nov/12/2020 22:14"
+  },
   "CF98263616": {
     "contest_id": 1335,
     "language": "Java 11",
