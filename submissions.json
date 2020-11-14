@@ -1551,6 +1551,23 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF98365227": {
+    "contest_id": 977,
+    "language": "Java 11",
+    "path": "codeforces/977/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two-gram",
+    "problem_url": "https://codeforces.com/contest/977/problem/B",
+    "submission_id": "CF98365227",
+    "submission_url": "https://codeforces.com/contest/977/submission/98365227",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Nov/14/2020 14:24"
+  },
   "CF98366523": {
     "contest_id": 1256,
     "language": "Java 11",
