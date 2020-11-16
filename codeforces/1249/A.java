@@ -19,8 +19,8 @@ public class CF1249A {
 
     // Computes and returns minimum number of teams required
     static int computeMinTeamsFormed(int[] skills) {
-        // return approach1(skills);
-        return approach2(skills);
+        return approach1(skills);
+        // return approach2(skills);
     }
 
     // Approach-1: Sorting
