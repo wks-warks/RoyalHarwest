@@ -1551,6 +1551,26 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF98533971": {
+    "contest_id": 1324,
+    "language": "Java 11",
+    "path": "codeforces/1324/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Frog Jumps",
+    "problem_url": "https://codeforces.com/contest/1324/problem/C",
+    "submission_id": "CF98533971",
+    "submission_url": "https://codeforces.com/contest/1324/submission/98533971",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/16/2020 14:24"
+  },
   "CF98681560": {
     "contest_id": 1295,
     "language": "Java 11",
