@@ -1551,6 +1551,23 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF98748972": {
+    "contest_id": 1141,
+    "language": "Java 11",
+    "path": "codeforces/1141/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game 23",
+    "problem_url": "https://codeforces.com/contest/1141/problem/A",
+    "submission_id": "CF98748972",
+    "submission_url": "https://codeforces.com/contest/1141/submission/98748972",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Nov/17/2020 23:10"
+  },
   "CF98773569": {
     "contest_id": 1332,
     "language": "Java 11",
