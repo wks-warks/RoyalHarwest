@@ -1551,6 +1551,22 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF98681560": {
+    "contest_id": 1295,
+    "language": "Java 11",
+    "path": "codeforces/1295/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Display The Number",
+    "problem_url": "https://codeforces.com/contest/1295/problem/A",
+    "submission_id": "CF98681560",
+    "submission_url": "https://codeforces.com/contest/1295/submission/98681560",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Nov/17/2020 18:46"
+  },
   "CF98682992": {
     "contest_id": 439,
     "language": "Java 11",
