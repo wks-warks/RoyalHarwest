@@ -1551,6 +1551,23 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99192432": {
+    "contest_id": 1257,
+    "language": "Java 11",
+    "path": "codeforces/1257/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Rival Students",
+    "problem_url": "https://codeforces.com/contest/1257/problem/A",
+    "submission_id": "CF99192432",
+    "submission_url": "https://codeforces.com/contest/1257/submission/99192432",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/22/2020 00:01"
+  },
   "CF99192576": {
     "contest_id": 1230,
     "language": "Java 11",
