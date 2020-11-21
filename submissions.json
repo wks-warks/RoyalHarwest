@@ -1551,6 +1551,24 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99192128": {
+    "contest_id": 1041,
+    "language": "Java 11",
+    "path": "codeforces/1041/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Heist",
+    "problem_url": "https://codeforces.com/contest/1041/problem/A",
+    "submission_id": "CF99192128",
+    "submission_url": "https://codeforces.com/contest/1041/submission/99192128",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/21/2020 23:50"
+  },
   "CF99192432": {
     "contest_id": 1257,
     "language": "Java 11",
