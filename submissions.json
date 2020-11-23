@@ -1551,6 +1551,26 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99313736": {
+    "contest_id": 919,
+    "language": "Java 11",
+    "path": "codeforces/919/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Perfect Number",
+    "problem_url": "https://codeforces.com/contest/919/problem/B",
+    "submission_id": "CF99313736",
+    "submission_url": "https://codeforces.com/contest/919/submission/99313736",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "implementation",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Nov/23/2020 16:29"
+  },
   "CF99443318": {
     "contest_id": 1180,
     "language": "Java 11",
