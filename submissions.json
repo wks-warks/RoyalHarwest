@@ -1551,6 +1551,23 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99568011": {
+    "contest_id": 1388,
+    "language": "Java 11",
+    "path": "codeforces/1388/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Captain Flint and a Long Voyage",
+    "problem_url": "https://codeforces.com/contest/1388/problem/B",
+    "submission_id": "CF99568011",
+    "submission_url": "https://codeforces.com/contest/1388/submission/99568011",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Nov/25/2020 19:50"
+  },
   "CF99576843": {
     "contest_id": 1345,
     "language": "Java 11",
