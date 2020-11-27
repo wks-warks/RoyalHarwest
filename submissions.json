@@ -1551,6 +1551,23 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99724430": {
+    "contest_id": 1339,
+    "language": "Java 11",
+    "path": "codeforces/1339/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sorted Adjacent Differences",
+    "problem_url": "https://codeforces.com/contest/1339/problem/B",
+    "submission_id": "CF99724430",
+    "submission_url": "https://codeforces.com/contest/1339/submission/99724430",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Nov/27/2020 19:58"
+  },
   "CF99725308": {
     "contest_id": 1382,
     "language": "Java 11",
