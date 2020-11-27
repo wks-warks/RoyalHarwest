@@ -1551,6 +1551,23 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99729886": {
+    "contest_id": 349,
+    "language": "Java 11",
+    "path": "codeforces/349/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cinema Line",
+    "problem_url": "https://codeforces.com/contest/349/problem/A",
+    "submission_id": "CF99729886",
+    "submission_url": "https://codeforces.com/contest/349/submission/99729886",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Nov/27/2020 21:03"
+  },
   "CF99731044": {
     "contest_id": 1362,
     "language": "Java 11",
