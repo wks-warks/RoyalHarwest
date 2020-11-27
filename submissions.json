@@ -1551,6 +1551,22 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99731044": {
+    "contest_id": 1362,
+    "language": "Java 11",
+    "path": "codeforces/1362/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Johnny and Ancient Computer",
+    "problem_url": "https://codeforces.com/contest/1362/problem/A",
+    "submission_id": "CF99731044",
+    "submission_url": "https://codeforces.com/contest/1362/submission/99731044",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Nov/27/2020 21:17"
+  },
   "CF99763475": {
     "contest_id": 1333,
     "language": "Java 11",
