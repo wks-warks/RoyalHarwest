@@ -1551,6 +1551,23 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99725308": {
+    "contest_id": 1382,
+    "language": "Java 11",
+    "path": "codeforces/1382/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sequential Nim",
+    "problem_url": "https://codeforces.com/contest/1382/problem/B",
+    "submission_id": "CF99725308",
+    "submission_url": "https://codeforces.com/contest/1382/submission/99725308",
+    "tags": [
+      "dp",
+      "games",
+      "*1100"
+    ],
+    "timestamp": "Nov/27/2020 20:08"
+  },
   "CF99728027": {
     "contest_id": 1370,
     "language": "Java 11",
