@@ -1551,6 +1551,23 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99824124": {
+    "contest_id": 320,
+    "language": "Java 11",
+    "path": "codeforces/320/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magic Numbers",
+    "problem_url": "https://codeforces.com/contest/320/problem/A",
+    "submission_id": "CF99824124",
+    "submission_url": "https://codeforces.com/contest/320/submission/99824124",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Nov/29/2020 04:42"
+  },
   "CF99824287": {
     "contest_id": 766,
     "language": "Java 11",
