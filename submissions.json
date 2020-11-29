@@ -1551,6 +1551,22 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99854952": {
+    "contest_id": 716,
+    "language": "Java 11",
+    "path": "codeforces/716/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Crazy Computer",
+    "problem_url": "https://codeforces.com/contest/716/problem/A",
+    "submission_id": "CF99854952",
+    "submission_url": "https://codeforces.com/contest/716/submission/99854952",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/29/2020 13:01"
+  },
   "CF99858166": {
     "contest_id": 1228,
     "language": "Java 11",
