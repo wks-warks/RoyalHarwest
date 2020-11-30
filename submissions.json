@@ -1551,6 +1551,22 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF99960115": {
+    "contest_id": 255,
+    "language": "Java 11",
+    "path": "codeforces/255/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Greg's Workout",
+    "problem_url": "https://codeforces.com/contest/255/problem/A",
+    "submission_id": "CF99960115",
+    "submission_url": "https://codeforces.com/contest/255/submission/99960115",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2020 12:41"
+  },
   "CF99969407": {
     "contest_id": 550,
     "language": "Java 11",
