@@ -1,4 +1,20 @@
 {
+  "CF100079697": {
+    "contest_id": 237,
+    "language": "Java 11",
+    "path": "codeforces/237/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Free Cash",
+    "problem_url": "https://codeforces.com/contest/237/problem/A",
+    "submission_id": "CF100079697",
+    "submission_url": "https://codeforces.com/contest/237/submission/100079697",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/01/2020 09:59"
+  },
   "CF100095889": {
     "contest_id": 1420,
     "language": "Java 11",
