@@ -1,4 +1,21 @@
 {
+  "CF100096916": {
+    "contest_id": 1238,
+    "language": "Java 11",
+    "path": "codeforces/1238/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prime Subtraction",
+    "problem_url": "https://codeforces.com/contest/1238/problem/A",
+    "submission_id": "CF100096916",
+    "submission_url": "https://codeforces.com/contest/1238/submission/100096916",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Dec/01/2020 14:32"
+  },
   "CF100097542": {
     "contest_id": 1005,
     "language": "Java 11",
