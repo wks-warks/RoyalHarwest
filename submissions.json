@@ -1,4 +1,20 @@
 {
+  "CF100079184": {
+    "contest_id": 1006,
+    "language": "Java 11",
+    "path": "codeforces/1006/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Adjacent Replacements",
+    "problem_url": "https://codeforces.com/contest/1006/problem/A",
+    "submission_id": "CF100079184",
+    "submission_url": "https://codeforces.com/contest/1006/submission/100079184",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/01/2020 09:46"
+  },
   "CF100079697": {
     "contest_id": 237,
     "language": "Java 11",
