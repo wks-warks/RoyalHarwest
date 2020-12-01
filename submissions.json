@@ -1,4 +1,21 @@
 {
+  "CF100098340": {
+    "contest_id": 1213,
+    "language": "Java 11",
+    "path": "codeforces/1213/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bad Prices",
+    "problem_url": "https://codeforces.com/contest/1213/problem/B",
+    "submission_id": "CF100098340",
+    "submission_url": "https://codeforces.com/contest/1213/submission/100098340",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Dec/01/2020 14:52"
+  },
   "CF119762306": {
     "contest_id": 1538,
     "language": "Java 11",
