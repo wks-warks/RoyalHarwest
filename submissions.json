@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF100275723": {
+    "contest_id": 835,
+    "language": "Java 11",
+    "path": "codeforces/835/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Key races",
+    "problem_url": "https://codeforces.com/contest/835/problem/A",
+    "submission_id": "CF100275723",
+    "submission_url": "https://codeforces.com/contest/835/submission/100275723",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/03/2020 19:06"
+  },
   "CF100277263": {
     "contest_id": 698,
     "language": "Java 11",
