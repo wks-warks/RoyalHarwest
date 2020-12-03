@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF100236632": {
+    "contest_id": 1406,
+    "language": "Java 11",
+    "path": "codeforces/1406/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subset Mex",
+    "problem_url": "https://codeforces.com/contest/1406/problem/A",
+    "submission_id": "CF100236632",
+    "submission_url": "https://codeforces.com/contest/1406/submission/100236632",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/03/2020 09:57"
+  },
   "CF100237832": {
     "contest_id": 118,
     "language": "Java 11",
