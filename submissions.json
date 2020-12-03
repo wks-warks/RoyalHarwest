@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF100237832": {
+    "contest_id": 118,
+    "language": "Java 11",
+    "path": "codeforces/118/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Present from Lena",
+    "problem_url": "https://codeforces.com/contest/118/problem/B",
+    "submission_id": "CF100237832",
+    "submission_url": "https://codeforces.com/contest/118/submission/100237832",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/03/2020 10:29"
+  },
   "CF100238723": {
     "contest_id": 1352,
     "language": "Java 11",
