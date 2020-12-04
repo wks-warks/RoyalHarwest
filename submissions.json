@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF100349529": {
+    "contest_id": 265,
+    "language": "Java 11",
+    "path": "codeforces/265/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Colorful Stones (Simplified Edition)",
+    "problem_url": "https://codeforces.com/contest/265/problem/A",
+    "submission_id": "CF100349529",
+    "submission_url": "https://codeforces.com/contest/265/submission/100349529",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/04/2020 18:23"
+  },
   "CF100362135": {
     "contest_id": 1330,
     "language": "Java 11",
