@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF100661460": {
+    "contest_id": 1176,
+    "language": "Java 11",
+    "path": "codeforces/1176/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divide it!",
+    "problem_url": "https://codeforces.com/contest/1176/problem/A",
+    "submission_id": "CF100661460",
+    "submission_url": "https://codeforces.com/contest/1176/submission/100661460",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/08/2020 07:09"
+  },
   "CF100800400": {
     "contest_id": 515,
     "language": "Java 11",
