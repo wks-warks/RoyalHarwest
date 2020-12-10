@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF100821094": {
+    "contest_id": 766,
+    "language": "Java 11",
+    "path": "codeforces/766/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mahmoud and Longest Uncommon Subsequence",
+    "problem_url": "https://codeforces.com/contest/766/problem/A",
+    "submission_id": "CF100821094",
+    "submission_url": "https://codeforces.com/contest/766/submission/100821094",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Dec/10/2020 14:56"
+  },
   "CF100822628": {
     "contest_id": 1371,
     "language": "Java 11",
