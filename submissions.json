@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF100973364": {
+    "contest_id": 276,
+    "language": "Java 11",
+    "path": "codeforces/276/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lunch Rush",
+    "problem_url": "https://codeforces.com/contest/276/problem/A",
+    "submission_id": "CF100973364",
+    "submission_url": "https://codeforces.com/contest/276/submission/100973364",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/12/2020 01:47"
+  },
   "CF100986214": {
     "contest_id": 1294,
     "language": "Java 11",
