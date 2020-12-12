@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF100987108": {
+    "contest_id": 1182,
+    "language": "Java 11",
+    "path": "codeforces/1182/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Filling Shapes",
+    "problem_url": "https://codeforces.com/contest/1182/problem/A",
+    "submission_id": "CF100987108",
+    "submission_url": "https://codeforces.com/contest/1182/submission/100987108",
+    "tags": [
+      "dp",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/12/2020 10:39"
+  },
   "CF100987360": {
     "contest_id": 545,
     "language": "Java 11",
