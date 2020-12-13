@@ -1,4 +1,20 @@
 {
+  "AC18725832": {
+    "contest_id": "abc185",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc185/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "ABC Preparation",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_a",
+    "submission_id": "AC18725832",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/18725832",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/13/2020 17:33"
+  },
   "AC18731713": {
     "contest_id": "abc185",
     "language": "Java (OpenJDK 11.0.6)",
