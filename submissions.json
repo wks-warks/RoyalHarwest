@@ -1,4 +1,20 @@
 {
+  "AC18829429": {
+    "contest_id": "abc183",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc183/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "ReLU",
+    "problem_url": "https://atcoder.jp/contests/abc183/tasks/abc183_a",
+    "submission_id": "AC18829429",
+    "submission_url": "https://atcoder.jp/contests/abc183/submissions/18829429",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/17/2020 17:20"
+  },
   "AC18829684": {
     "contest_id": "abc183",
     "language": "Java (OpenJDK 11.0.6)",
