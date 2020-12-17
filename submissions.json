@@ -1,4 +1,20 @@
 {
+  "AC18830474": {
+    "contest_id": "abc183",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc183/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Travel",
+    "problem_url": "https://atcoder.jp/contests/abc183/tasks/abc183_c",
+    "submission_id": "AC18830474",
+    "submission_url": "https://atcoder.jp/contests/abc183/submissions/18830474",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/17/2020 18:00"
+  },
   "AC18948262": {
     "contest_id": "abc042",
     "language": "Java (OpenJDK 11.0.6)",
