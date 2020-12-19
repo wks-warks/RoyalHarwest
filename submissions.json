@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF101792903": {
+    "contest_id": 474,
+    "language": "Java 11",
+    "path": "codeforces/474/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flowers",
+    "problem_url": "https://codeforces.com/contest/474/problem/D",
+    "submission_id": "CF101792903",
+    "submission_url": "https://codeforces.com/contest/474/submission/101792903",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Dec/19/2020 23:04"
+  },
   "CF101795900": {
     "contest_id": 166,
     "language": "GNU C++17",
