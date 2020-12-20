@@ -1,0 +1,82 @@
+import java.io.*;
+import java.util.*;
+
+public class C {
+    static final FastReader FR = new FastReader();
+
+    public static void main(String[] args) {
+        StringBuilder solution = new StringBuilder();
+        int tests = 1;
+        tests = FR.nextInt();
+        for (int t = 0; t < tests; ++t) {
+            int x = FR.nextInt();
+            int smallestNum = getSmallestNum(x);
+            solution.append(smallestNum);
+            solution.append('\n');
+        }
+        System.out.print(solution.toString());
+    }
+
+    // Computes and returns answer
+    static int getSmallestNum(int x) {
+        boolean[] taken = new boolean[10]; // Don't take 0 though
+        for (int i = 9; i > 0; i -= 1) {
+            if (x >= i) {
+                x -= i;
+                taken[i] = true;
+            }
+        }
+        if (x > 0)
+            return -1;
+        StringBuilder solution = new StringBuilder();
+        for (int i = 1; i < 10; i += 1) {
+            if (taken[i])
+                solution.append(i);
+        }
+        return Integer.parseInt(solution.toString());
+    }
+
+    // Fast Input - GFG
+    static class FastReader { 
+        BufferedReader br; 
+        StringTokenizer st; 
+  
+        public FastReader() { 
+            br = new BufferedReader(new
+                     InputStreamReader(System.in)); 
+        } 
+  
+        String next() { 
+            while (st == null || !st.hasMoreElements()) { 
+                try { 
+                    st = new StringTokenizer(br.readLine()); 
+                } catch (IOException  e) { 
+                    e.printStackTrace(); 
+                } 
+            } 
+            return st.nextToken(); 
+        } 
+  
+        int nextInt() { 
+            return Integer.parseInt(next()); 
+        } 
+  
+        long nextLong() { 
+            return Long.parseLong(next()); 
+        } 
+  
+        double nextDouble() { 
+            return Double.parseDouble(next()); 
+        } 
+
+        String nextLine() { 
+            String str = ""; 
+            try { 
+                str = br.readLine(); 
+            } catch (IOException e)  { 
+                e.printStackTrace(); 
+            } 
+            return str; 
+        } 
+    }
+}
