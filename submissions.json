@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF101822794": {
+    "contest_id": 1462,
+    "language": "Java 11",
+    "path": "codeforces/1462/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Favorite Sequence",
+    "problem_url": "https://codeforces.com/contest/1462/problem/A",
+    "submission_id": "CF101822794",
+    "submission_url": "https://codeforces.com/contest/1462/submission/101822794",
+    "tags": [
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Dec/20/2020 12:02"
+  },
   "CF101823439": {
     "contest_id": 1462,
     "language": "Java 11",
