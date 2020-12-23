@@ -1,4 +1,20 @@
 {
+  "AC18948407": {
+    "contest_id": "abc042",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc042/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Iroha's Obsession",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/arc058_a",
+    "submission_id": "AC18948407",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/18948407",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/23/2020 11:32"
+  },
   "AC18949271": {
     "contest_id": "abc042",
     "language": "Java (OpenJDK 11.0.6)",
