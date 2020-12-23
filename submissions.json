@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF102115498": {
+    "contest_id": 630,
+    "language": "Java 11",
+    "path": "codeforces/630/I.java",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Parking Lot",
+    "problem_url": "https://codeforces.com/contest/630/problem/I",
+    "submission_id": "CF102115498",
+    "submission_url": "https://codeforces.com/contest/630/submission/102115498",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Dec/23/2020 17:47"
+  },
   "CF102183788": {
     "contest_id": 633,
     "language": "Java 11",
