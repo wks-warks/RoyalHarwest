@@ -1,4 +1,20 @@
 {
+  "AC18949271": {
+    "contest_id": "abc042",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc042/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Iroha and a Grid",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/arc058_b",
+    "submission_id": "AC18949271",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/18949271",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/23/2020 12:38"
+  },
   "AC18969059": {
     "contest_id": "abc043",
     "language": "Java (OpenJDK 11.0.6)",
