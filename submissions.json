@@ -1,4 +1,20 @@
 {
+  "AC18948262": {
+    "contest_id": "abc042",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc042/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Iroha and Haiku (ABC Edition)",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/abc042_a",
+    "submission_id": "AC18948262",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/18948262",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/23/2020 11:20"
+  },
   "AC18948298": {
     "contest_id": "abc042",
     "language": "Java (OpenJDK 11.0.6)",
