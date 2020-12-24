@@ -1,4 +1,20 @@
 {
+  "AC18969716": {
+    "contest_id": "abc043",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc043/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Unbalanced",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/arc059_b",
+    "submission_id": "AC18969716",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/18969716",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/24/2020 19:03"
+  },
   "AC18969803": {
     "contest_id": "abc043",
     "language": "Java (OpenJDK 11.0.6)",
