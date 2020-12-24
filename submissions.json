@@ -1,4 +1,20 @@
 {
+  "AC18969339": {
+    "contest_id": "abc043",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc043/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Unhappy Hacking (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/abc043_b",
+    "submission_id": "AC18969339",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/18969339",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/24/2020 18:50"
+  },
   "AC18969716": {
     "contest_id": "abc043",
     "language": "Java (OpenJDK 11.0.6)",
