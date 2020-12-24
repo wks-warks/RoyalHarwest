@@ -1,4 +1,20 @@
 {
+  "AC18969803": {
+    "contest_id": "abc043",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc043/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Be Together",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/arc059_a",
+    "submission_id": "AC18969803",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/18969803",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/24/2020 19:06"
+  },
   "AC18970078": {
     "contest_id": "abc044",
     "language": "Java (OpenJDK 11.0.6)",
