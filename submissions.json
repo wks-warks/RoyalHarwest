@@ -1,4 +1,20 @@
 {
+  "AC18970194": {
+    "contest_id": "abc044",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc044/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Beautiful Strings",
+    "problem_url": "https://atcoder.jp/contests/abc044/tasks/abc044_b",
+    "submission_id": "AC18970194",
+    "submission_url": "https://atcoder.jp/contests/abc044/submissions/18970194",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/24/2020 19:21"
+  },
   "AC18970786": {
     "contest_id": "abc044",
     "language": "Java (OpenJDK 11.0.6)",
