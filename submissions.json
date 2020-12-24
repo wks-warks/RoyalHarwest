@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF102183788": {
+    "contest_id": 633,
+    "language": "Java 11",
+    "path": "codeforces/633/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ebony and Ivory",
+    "problem_url": "https://codeforces.com/contest/633/problem/A",
+    "submission_id": "CF102183788",
+    "submission_url": "https://codeforces.com/contest/633/submission/102183788",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Dec/24/2020 15:54"
+  },
   "CF102418741": {
     "contest_id": 1462,
     "language": "Java 11",
