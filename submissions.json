@@ -1,4 +1,20 @@
 {
+  "AC18993405": {
+    "contest_id": "abc045",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc045/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Trapezoids",
+    "problem_url": "https://atcoder.jp/contests/abc045/tasks/abc045_a",
+    "submission_id": "AC18993405",
+    "submission_url": "https://atcoder.jp/contests/abc045/submissions/18993405",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/26/2020 14:07"
+  },
   "AC18993537": {
     "contest_id": "abc045",
     "language": "Java (OpenJDK 11.0.6)",
