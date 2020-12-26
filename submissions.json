@@ -1,4 +1,20 @@
 {
+  "AC18994482": {
+    "contest_id": "abc045",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc045/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Snuke's Coloring",
+    "problem_url": "https://atcoder.jp/contests/abc045/tasks/arc061_b",
+    "submission_id": "AC18994482",
+    "submission_url": "https://atcoder.jp/contests/abc045/submissions/18994482",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/26/2020 15:28"
+  },
   "AC19027635": {
     "contest_id": "abc046",
     "language": "Java (OpenJDK 11.0.6)",
