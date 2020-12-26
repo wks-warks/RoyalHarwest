@@ -1,4 +1,20 @@
 {
+  "AC18994056": {
+    "contest_id": "abc045",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc045/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Many Formulas",
+    "problem_url": "https://atcoder.jp/contests/abc045/tasks/arc061_a",
+    "submission_id": "AC18994056",
+    "submission_url": "https://atcoder.jp/contests/abc045/submissions/18994056",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/26/2020 14:53"
+  },
   "AC18994482": {
     "contest_id": "abc045",
     "language": "Java (OpenJDK 11.0.6)",
