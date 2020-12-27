@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF102490444": {
+    "contest_id": 832,
+    "language": "Java 11",
+    "path": "codeforces/832/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sasha and Sticks",
+    "problem_url": "https://codeforces.com/contest/832/problem/A",
+    "submission_id": "CF102490444",
+    "submission_url": "https://codeforces.com/contest/832/submission/102490444",
+    "tags": [
+      "games",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/27/2020 23:02"
+  },
   "CF103190344": {
     "contest_id": 1472,
     "language": "Java 11",
