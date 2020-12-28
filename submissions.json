@@ -1,4 +1,20 @@
 {
+  "AC19028275": {
+    "contest_id": "abc046",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc046/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "AtCoDeer and Rock-Paper",
+    "problem_url": "https://atcoder.jp/contests/abc046/tasks/arc062_b",
+    "submission_id": "AC19028275",
+    "submission_url": "https://atcoder.jp/contests/abc046/submissions/19028275",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/28/2020 14:34"
+  },
   "AC19041826": {
     "contest_id": "abc047",
     "language": "Java (OpenJDK 11.0.6)",
