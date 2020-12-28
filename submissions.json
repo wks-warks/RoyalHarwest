@@ -1,4 +1,20 @@
 {
+  "AC19027635": {
+    "contest_id": "abc046",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc046/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "AtCoDeer and Paint Cans",
+    "problem_url": "https://atcoder.jp/contests/abc046/tasks/abc046_a",
+    "submission_id": "AC19027635",
+    "submission_url": "https://atcoder.jp/contests/abc046/submissions/19027635",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/28/2020 13:51"
+  },
   "AC19027691": {
     "contest_id": "abc046",
     "language": "Java (OpenJDK 11.0.6)",
