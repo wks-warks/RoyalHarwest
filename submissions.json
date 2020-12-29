@@ -1,4 +1,20 @@
 {
+  "AC19042544": {
+    "contest_id": "abc047",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc047/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "An Invisible Hand",
+    "problem_url": "https://atcoder.jp/contests/abc047/tasks/arc063_b",
+    "submission_id": "AC19042544",
+    "submission_url": "https://atcoder.jp/contests/abc047/submissions/19042544",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/29/2020 12:54"
+  },
   "AC19066635": {
     "contest_id": "abc048",
     "language": "Java (OpenJDK 11.0.6)",
