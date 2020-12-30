@@ -1,4 +1,20 @@
 {
+  "AC19066895": {
+    "contest_id": "abc048",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc048/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Between a and b ...",
+    "problem_url": "https://atcoder.jp/contests/abc048/tasks/abc048_b",
+    "submission_id": "AC19066895",
+    "submission_url": "https://atcoder.jp/contests/abc048/submissions/19066895",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/30/2020 20:40"
+  },
   "AC19066981": {
     "contest_id": "abc048",
     "language": "Java (OpenJDK 11.0.6)",
