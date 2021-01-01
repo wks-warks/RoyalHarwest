@@ -1,4 +1,20 @@
 {
+  "AC19101860": {
+    "contest_id": "abc048",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc048/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "An Ordinary Game",
+    "problem_url": "https://atcoder.jp/contests/abc048/tasks/arc064_b",
+    "submission_id": "AC19101860",
+    "submission_url": "https://atcoder.jp/contests/abc048/submissions/19101860",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/01/2021 20:18"
+  },
   "AC19104538": {
     "contest_id": "abc049",
     "language": "Java (OpenJDK 11.0.6)",
