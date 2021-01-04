@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF103233655": {
+    "contest_id": 1472,
+    "language": "Java 11",
+    "path": "codeforces/1472/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Even-Odd Game",
+    "problem_url": "https://codeforces.com/contest/1472/problem/D",
+    "submission_id": "CF103233655",
+    "submission_url": "https://codeforces.com/contest/1472/submission/103233655",
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jan/04/2021 20:40"
+  },
   "CF103394854": {
     "contest_id": 1471,
     "language": "Java 11",
