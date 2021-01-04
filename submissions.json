@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF103223301": {
+    "contest_id": 1472,
+    "language": "Java 11",
+    "path": "codeforces/1472/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Long Jumps",
+    "problem_url": "https://codeforces.com/contest/1472/problem/C",
+    "submission_id": "CF103223301",
+    "submission_url": "https://codeforces.com/contest/1472/submission/103223301",
+    "tags": [
+      "dp",
+      "graphs",
+      "*1100"
+    ],
+    "timestamp": "Jan/04/2021 20:32"
+  },
   "CF103233655": {
     "contest_id": 1472,
     "language": "Java 11",
