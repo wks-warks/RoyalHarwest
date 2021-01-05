@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF103440735": {
+    "contest_id": 1471,
+    "language": "Java 11",
+    "path": "codeforces/1471/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Strange Birthday Party",
+    "problem_url": "https://codeforces.com/contest/1471/problem/C",
+    "submission_id": "CF103440735",
+    "submission_url": "https://codeforces.com/contest/1471/submission/103440735",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jan/05/2021 21:21"
+  },
   "CF103525444": {
     "contest_id": 1370,
     "language": "Java 11",
