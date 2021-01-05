@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF103434281": {
+    "contest_id": 1471,
+    "language": "Java 11",
+    "path": "codeforces/1471/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Strange List",
+    "problem_url": "https://codeforces.com/contest/1471/problem/B",
+    "submission_id": "CF103434281",
+    "submission_url": "https://codeforces.com/contest/1471/submission/103434281",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/05/2021 21:08"
+  },
   "CF103440735": {
     "contest_id": 1471,
     "language": "Java 11",
