@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF103527721": {
+    "contest_id": 1365,
+    "language": "Java 11",
+    "path": "codeforces/1365/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Rotation Matching",
+    "problem_url": "https://codeforces.com/contest/1365/problem/C",
+    "submission_id": "CF103527721",
+    "submission_url": "https://codeforces.com/contest/1365/submission/103527721",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jan/06/2021 15:40"
+  },
   "CF103670649": {
     "contest_id": 519,
     "language": "Kotlin 1.4",
