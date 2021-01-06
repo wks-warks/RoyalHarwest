@@ -27,24 +27,32 @@ public class CF1365C {
         for (int i = 0; i < n; i += 1) {
             idxVal1.put(perm1[i], i+1);
         }
-        int maxCommon = 1;
-        Map<Integer, Integer> commonVals = new TreeMap<>();
+        Map<Integer, Integer> idxVal2 = new TreeMap<>();
         for (int i = 0; i < n; i += 1) {
-            int val = perm2[i];
-            int idx2 = i+1;
-            int idx1 = idxVal1.get(val);
-            int leftShift = idx1 - idx2;
-            if (leftShift < 0) leftShift += n;
-            if (commonVals.containsKey(leftShift)) {
-                int pres = commonVals.get(leftShift);
-                int newAns = pres+1;
-                commonVals.put(leftShift, newAns);
-                maxCommon = Math.max(maxCommon, newAns);
-            } else {
-                commonVals.put(leftShift, 1);
-            }
+            idxVal2.put(perm2[i], i+1);
         }
 
+        int maxCommon = 1;
+        Map<Integer, Integer> commonVals = new TreeMap<>();
+        for (var element : idxVal1.entrySet()) {
+            int key = element.getKey();
+            int idx1 = element.getValue();
+            int idx2 = idxVal2.get(key);
+            int leftShift;
+            if (idx1 < idx2) {
+                leftShift = idx1 + n - idx2;
+            } else { // idx1 >= idx2
+                leftShift = idx1 - idx2;
+            }
+            if (commonVals.containsKey(-leftShift)) {
+                int pres = commonVals.get(-leftShift);
+                int newAns = pres+1;
+                commonVals.put(-leftShift, newAns);
+                maxCommon = Math.max(maxCommon, newAns);
+            } else {
+                commonVals.put(-leftShift, 1);
+            }
+        }
         return maxCommon;
     }
 
