@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF103525444": {
+    "contest_id": 1370,
+    "language": "Java 11",
+    "path": "codeforces/1370/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Number Game",
+    "problem_url": "https://codeforces.com/contest/1370/problem/C",
+    "submission_id": "CF103525444",
+    "submission_url": "https://codeforces.com/contest/1370/submission/103525444",
+    "tags": [
+      "games",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Jan/06/2021 15:13"
+  },
   "CF103527293": {
     "contest_id": 1365,
     "language": "Java 11",
