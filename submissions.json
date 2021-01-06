@@ -1,4 +1,20 @@
 {
+  "AC19237740": {
+    "contest_id": "abc050",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc050/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Addition and Subtraction Easy",
+    "problem_url": "https://atcoder.jp/contests/abc050/tasks/abc050_a",
+    "submission_id": "AC19237740",
+    "submission_url": "https://atcoder.jp/contests/abc050/submissions/19237740",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/06/2021 20:08"
+  },
   "AC19237881": {
     "contest_id": "abc050",
     "language": "Java (OpenJDK 11.0.6)",
