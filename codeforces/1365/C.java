@@ -23,12 +23,12 @@ public class CF1365C {
 
     static int getMaxCommon(int[] perm1, int[] perm2) {
         int n = perm1.length;
-        Map<Integer, Integer> idxVal1 = new HashMap<>();
+        Map<Integer, Integer> idxVal1 = new TreeMap<>();
         for (int i = 0; i < n; i += 1) {
             idxVal1.put(perm1[i], i+1);
         }
         int maxCommon = 1;
-        Map<Integer, Integer> commonVals = new HashMap<>();
+        Map<Integer, Integer> commonVals = new TreeMap<>();
         for (int i = 0; i < n; i += 1) {
             int val = perm2[i];
             int idx2 = i+1;
