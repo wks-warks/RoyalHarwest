@@ -1,4 +1,20 @@
 {
+  "AC19237881": {
+    "contest_id": "abc050",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc050/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Contest with Drinks Easy",
+    "problem_url": "https://atcoder.jp/contests/abc050/tasks/abc050_b",
+    "submission_id": "AC19237881",
+    "submission_url": "https://atcoder.jp/contests/abc050/submissions/19237881",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/06/2021 20:15"
+  },
   "AC19238467": {
     "contest_id": "abc050",
     "language": "Java (OpenJDK 11.0.6)",
