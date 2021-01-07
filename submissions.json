@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF103670649": {
+    "contest_id": 519,
+    "language": "Kotlin 1.4",
+    "path": "codeforces/519/A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A and B and Chess",
+    "problem_url": "https://codeforces.com/contest/519/problem/A",
+    "submission_id": "CF103670649",
+    "submission_url": "https://codeforces.com/contest/519/submission/103670649",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jan/08/2021 02:49"
+  },
   "CF103672492": {
     "contest_id": 507,
     "language": "Kotlin 1.4",
