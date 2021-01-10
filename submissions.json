@@ -1,4 +1,20 @@
 {
+  "AC19351729": {
+    "contest_id": "abc188",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc188/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Peddler",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_e",
+    "submission_id": "AC19351729",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/19351729",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/10/2021 19:01"
+  },
   "AC19467553": {
     "contest_id": "keyence2021",
     "language": "Java (OpenJDK 11.0.6)",
