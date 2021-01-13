@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF104178854": {
+    "contest_id": 1399,
+    "language": "Java 11",
+    "path": "codeforces/1399/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Binary String To Subsequences",
+    "problem_url": "https://codeforces.com/contest/1399/problem/D",
+    "submission_id": "CF104178854",
+    "submission_url": "https://codeforces.com/contest/1399/submission/104178854",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jan/13/2021 14:41"
+  },
   "CF104180067": {
     "contest_id": 1398,
     "language": "Java 11",
