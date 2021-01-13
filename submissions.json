@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF104180067": {
+    "contest_id": 1398,
+    "language": "Java 11",
+    "path": "codeforces/1398/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Good Subarrays",
+    "problem_url": "https://codeforces.com/contest/1398/problem/C",
+    "submission_id": "CF104180067",
+    "submission_url": "https://codeforces.com/contest/1398/submission/104180067",
+    "tags": [
+      "data structures",
+      "dp",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/13/2021 14:57"
+  },
   "CF104285128": {
     "contest_id": 1473,
     "language": "Java 11",
