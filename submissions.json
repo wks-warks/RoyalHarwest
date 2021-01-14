@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF104326840": {
+    "contest_id": 1473,
+    "language": "Java 11",
+    "path": "codeforces/1473/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "No More Inversions",
+    "problem_url": "https://codeforces.com/contest/1473/problem/C",
+    "submission_id": "CF104326840",
+    "submission_url": "https://codeforces.com/contest/1473/submission/104326840",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jan/14/2021 21:19"
+  },
   "CF104780587": {
     "contest_id": 1474,
     "language": "Java 11",
