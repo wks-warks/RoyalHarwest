@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF104285128": {
+    "contest_id": 1473,
+    "language": "Java 11",
+    "path": "codeforces/1473/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Replacing Elements",
+    "problem_url": "https://codeforces.com/contest/1473/problem/A",
+    "submission_id": "CF104285128",
+    "submission_url": "https://codeforces.com/contest/1473/submission/104285128",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/14/2021 20:10"
+  },
   "CF104298648": {
     "contest_id": 1473,
     "language": "Java 11",
