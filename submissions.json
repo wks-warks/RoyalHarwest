@@ -1,4 +1,20 @@
 {
+  "AC19482040": {
+    "contest_id": "keyence2021",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/keyence2021/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Two Sequences 2",
+    "problem_url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a",
+    "submission_id": "AC19482040",
+    "submission_url": "https://atcoder.jp/contests/keyence2021/submissions/19482040",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/16/2021 23:19"
+  },
   "AC19482468": {
     "contest_id": "keyence2021",
     "language": "Java (OpenJDK 11.0.6)",
