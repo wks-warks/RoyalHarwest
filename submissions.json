@@ -1,4 +1,20 @@
 {
+  "AC19521393": {
+    "contest_id": "abc188",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc188/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Snuke Prime",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_d",
+    "submission_id": "AC19521393",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/19521393",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/19/2021 13:52"
+  },
   "AC19556398": {
     "contest_id": "abc051",
     "language": "Java (OpenJDK 11.0.6)",
