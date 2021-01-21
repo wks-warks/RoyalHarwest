@@ -47,10 +47,15 @@ public class Main {
       minDistances.add(Integer.MAX_VALUE);
     }
     minDistances.set(firstCity, 0);
-    
-    int city = firstCity;
-    int distance = 0;
-    while (city != secondCity) {
+
+    for (var element : adjacencyLists.get(firstCity)) {
+      priorityQueue.add(new Node(element.first, element.second));
+      minDistances.set(element.first, element.second);
+    }
+    while (priorityQueue.size() > 0) {
+      Node headNode = priorityQueue.poll();
+      int city = headNode.city;
+      int distance = headNode.distance;
       for (var element : adjacencyLists.get(city)) {
         int nextCity = element.first;
         int nextDistance = distance + element.second;
@@ -59,9 +64,6 @@ public class Main {
           priorityQueue.add(new Node(nextCity, nextDistance));
         }
       }
-      Node headNode = priorityQueue.poll();
-      city = headNode.city;
-      distance = headNode.distance;
     }
     return minDistances.get(secondCity);
   }
