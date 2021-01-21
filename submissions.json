@@ -3363,6 +3363,26 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF104997797": {
+    "contest_id": 1472,
+    "language": "Java 11",
+    "path": "codeforces/1472/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Correct Placement",
+    "problem_url": "https://codeforces.com/contest/1472/problem/E",
+    "submission_id": "CF104997797",
+    "submission_url": "https://codeforces.com/contest/1472/submission/104997797",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Jan/21/2021 20:25"
+  },
   "CF105373997": {
     "contest_id": 1475,
     "language": "Java 11",
