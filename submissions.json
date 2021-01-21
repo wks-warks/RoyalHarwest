@@ -1,4 +1,20 @@
 {
+  "AC19556414": {
+    "contest_id": "abc051",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc051/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Sum of Three Integers",
+    "problem_url": "https://atcoder.jp/contests/abc051/tasks/abc051_b",
+    "submission_id": "AC19556414",
+    "submission_url": "https://atcoder.jp/contests/abc051/submissions/19556414",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/21/2021 23:51"
+  },
   "AC19556513": {
     "contest_id": "abc051",
     "language": "Java (OpenJDK 11.0.6)",
