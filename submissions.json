@@ -1,4 +1,20 @@
 {
+  "AC19566281": {
+    "contest_id": "abc053",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc053/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "ABC/ARC",
+    "problem_url": "https://atcoder.jp/contests/abc053/tasks/abc053_a",
+    "submission_id": "AC19566281",
+    "submission_url": "https://atcoder.jp/contests/abc053/submissions/19566281",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/22/2021 18:10"
+  },
   "AC19566338": {
     "contest_id": "abc053",
     "language": "Java (OpenJDK 11.0.6)",
