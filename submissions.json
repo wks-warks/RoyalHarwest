@@ -1,4 +1,20 @@
 {
+  "AC19566463": {
+    "contest_id": "abc053",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc053/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "X: Yet Another Die Game",
+    "problem_url": "https://atcoder.jp/contests/abc053/tasks/arc068_a",
+    "submission_id": "AC19566463",
+    "submission_url": "https://atcoder.jp/contests/abc053/submissions/19566463",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/22/2021 18:22"
+  },
   "AC19566622": {
     "contest_id": "abc053",
     "language": "Java (OpenJDK 11.0.6)",
