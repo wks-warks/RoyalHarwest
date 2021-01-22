@@ -1,4 +1,20 @@
 {
+  "AC19564176": {
+    "contest_id": "abc052",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc052/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Walk and Teleport",
+    "problem_url": "https://atcoder.jp/contests/abc052/tasks/arc067_b",
+    "submission_id": "AC19564176",
+    "submission_url": "https://atcoder.jp/contests/abc052/submissions/19564176",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/22/2021 15:40"
+  },
   "AC19566281": {
     "contest_id": "abc053",
     "language": "Java (OpenJDK 11.0.6)",
