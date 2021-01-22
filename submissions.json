@@ -1,4 +1,20 @@
 {
+  "AC19566338": {
+    "contest_id": "abc053",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc053/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "A to Z String",
+    "problem_url": "https://atcoder.jp/contests/abc053/tasks/abc053_b",
+    "submission_id": "AC19566338",
+    "submission_url": "https://atcoder.jp/contests/abc053/submissions/19566338",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/22/2021 18:14"
+  },
   "AC19566463": {
     "contest_id": "abc053",
     "language": "Java (OpenJDK 11.0.6)",
