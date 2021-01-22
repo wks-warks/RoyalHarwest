@@ -1,4 +1,20 @@
 {
+  "AC19564055": {
+    "contest_id": "abc052",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc052/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Factors of Factorial",
+    "problem_url": "https://atcoder.jp/contests/abc052/tasks/arc067_a",
+    "submission_id": "AC19564055",
+    "submission_url": "https://atcoder.jp/contests/abc052/submissions/19564055",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/22/2021 15:30"
+  },
   "AC19564176": {
     "contest_id": "abc052",
     "language": "Java (OpenJDK 11.0.6)",
