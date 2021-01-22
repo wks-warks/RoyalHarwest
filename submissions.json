@@ -1,4 +1,20 @@
 {
+  "AC19566622": {
+    "contest_id": "abc053",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc053/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Card Eater",
+    "problem_url": "https://atcoder.jp/contests/abc053/tasks/arc068_b",
+    "submission_id": "AC19566622",
+    "submission_url": "https://atcoder.jp/contests/abc053/submissions/19566622",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/22/2021 18:32"
+  },
   "AC19760296": {
     "contest_id": "abc054",
     "language": "Java (OpenJDK 11.0.6)",
