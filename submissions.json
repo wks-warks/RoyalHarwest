@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF105373997": {
+    "contest_id": 1475,
+    "language": "Java 11",
+    "path": "codeforces/1475/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ball in Berland",
+    "problem_url": "https://codeforces.com/contest/1475/problem/C",
+    "submission_id": "CF105373997",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105373997",
+    "tags": [
+      "combinatorics",
+      "graphs",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jan/25/2021 21:34"
+  },
   "CF105376987": {
     "contest_id": 1475,
     "language": "Java 11",
