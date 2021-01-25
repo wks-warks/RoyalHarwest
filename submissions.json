@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF105378816": {
+    "contest_id": 1475,
+    "language": "Java 11",
+    "path": "codeforces/1475/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Divisor",
+    "problem_url": "https://codeforces.com/contest/1475/problem/A",
+    "submission_id": "CF105378816",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105378816",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jan/25/2021 21:44"
+  },
   "CF105404644": {
     "contest_id": 1475,
     "language": "Java 11",
