@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF105404644": {
+    "contest_id": 1475,
+    "language": "Java 11",
+    "path": "codeforces/1475/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cleaning the Phone",
+    "problem_url": "https://codeforces.com/contest/1475/problem/D",
+    "submission_id": "CF105404644",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105404644",
+    "tags": [
+      "binary search",
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Jan/25/2021 23:00"
+  },
   "CF105894577": {
     "contest_id": 1476,
     "language": "Java 11",
