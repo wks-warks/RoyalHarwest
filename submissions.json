@@ -4691,6 +4691,24 @@
     ],
     "timestamp": "Jan/25/2021 23:00"
   },
+  "CF105414772": {
+    "contest_id": 1475,
+    "language": "Java 11",
+    "path": "codeforces/1475/F.java",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Unusual Matrix",
+    "problem_url": "https://codeforces.com/contest/1475/problem/F",
+    "submission_id": "CF105414772",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105414772",
+    "tags": [
+      "2-sat",
+      "brute force",
+      "constructive algorithms",
+      "*1900"
+    ],
+    "timestamp": "Jan/26/2021 00:46"
+  },
   "CF105455876": {
     "contest_id": 1475,
     "language": "Java 11",
