@@ -4691,6 +4691,25 @@
     ],
     "timestamp": "Jan/25/2021 23:00"
   },
+  "CF105455876": {
+    "contest_id": 1475,
+    "language": "Java 11",
+    "path": "codeforces/1475/G.java",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Strange Beauty",
+    "problem_url": "https://codeforces.com/contest/1475/problem/G",
+    "submission_id": "CF105455876",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105455876",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Jan/26/2021 13:34"
+  },
   "CF105679565": {
     "contest_id": 1478,
     "language": "Java 11",
