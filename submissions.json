@@ -4691,6 +4691,23 @@
     ],
     "timestamp": "Jan/25/2021 23:00"
   },
+  "CF105679565": {
+    "contest_id": 1478,
+    "language": "Java 11",
+    "path": "codeforces/1478/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nezzar and Colorful Balls",
+    "problem_url": "https://codeforces.com/contest/1478/problem/A",
+    "submission_id": "CF105679565",
+    "submission_url": "https://codeforces.com/contest/1478/submission/105679565",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/28/2021 20:09"
+  },
   "CF105689908": {
     "contest_id": 1478,
     "language": "Java 11",
