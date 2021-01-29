@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF105894577": {
+    "contest_id": 1476,
+    "language": "Java 11",
+    "path": "codeforces/1476/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Longest Simple Cycle",
+    "problem_url": "https://codeforces.com/contest/1476/problem/C",
+    "submission_id": "CF105894577",
+    "submission_url": "https://codeforces.com/contest/1476/submission/105894577",
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Jan/29/2021 20:50"
+  },
   "CF105916942": {
     "contest_id": 1476,
     "language": "Java 11",
