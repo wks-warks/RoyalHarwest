@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF105916942": {
+    "contest_id": 1476,
+    "language": "Java 11",
+    "path": "codeforces/1476/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Journey",
+    "problem_url": "https://codeforces.com/contest/1476/problem/D",
+    "submission_id": "CF105916942",
+    "submission_url": "https://codeforces.com/contest/1476/submission/105916942",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jan/29/2021 21:23"
+  },
   "CF106490263": {
     "contest_id": 1,
     "language": "Java 11",
