@@ -1,4 +1,20 @@
 {
+  "AC19851165": {
+    "contest_id": "abc055",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc055/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Menagerie",
+    "problem_url": "https://atcoder.jp/contests/abc055/tasks/arc069_b",
+    "submission_id": "AC19851165",
+    "submission_url": "https://atcoder.jp/contests/abc055/submissions/19851165",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Feb/01/2021 02:00"
+  },
   "AC19858024": {
     "contest_id": "abc190",
     "language": "Java (OpenJDK 11.0.6)",
