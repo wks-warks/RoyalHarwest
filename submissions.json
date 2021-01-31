@@ -1,4 +1,20 @@
 {
+  "AC19835315": {
+    "contest_id": "abc054",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc054/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Mixing Experiment",
+    "problem_url": "https://atcoder.jp/contests/abc054/tasks/abc054_d",
+    "submission_id": "AC19835315",
+    "submission_url": "https://atcoder.jp/contests/abc054/submissions/19835315",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/31/2021 11:35"
+  },
   "AC19850959": {
     "contest_id": "abc055",
     "language": "Java (OpenJDK 11.0.6)",
