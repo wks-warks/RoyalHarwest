@@ -1,4 +1,20 @@
 {
+  "AC19859000": {
+    "contest_id": "abc190",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc190/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Staircase Sequences",
+    "problem_url": "https://atcoder.jp/contests/abc190/tasks/abc190_d",
+    "submission_id": "AC19859000",
+    "submission_url": "https://atcoder.jp/contests/abc190/submissions/19859000",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/01/2021 14:15"
+  },
   "AC19873217": {
     "contest_id": "abc190",
     "language": "Java (OpenJDK 11.0.6)",
