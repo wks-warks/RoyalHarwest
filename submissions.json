@@ -1,4 +1,20 @@
 {
+  "AC19911302": {
+    "contest_id": "abc056",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc056/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Go Home",
+    "problem_url": "https://atcoder.jp/contests/abc056/tasks/arc070_a",
+    "submission_id": "AC19911302",
+    "submission_url": "https://atcoder.jp/contests/abc056/submissions/19911302",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/04/2021 12:02"
+  },
   "AC19957309": {
     "contest_id": "abc191",
     "language": "Java (OpenJDK 11.0.6)",
