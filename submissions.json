@@ -1,4 +1,20 @@
 {
+  "AC20114199": {
+    "contest_id": "abc057",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc057/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Checkpoints",
+    "problem_url": "https://atcoder.jp/contests/abc057/tasks/abc057_b",
+    "submission_id": "AC20114199",
+    "submission_url": "https://atcoder.jp/contests/abc057/submissions/20114199",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/12/2021 02:31"
+  },
   "AC20114728": {
     "contest_id": "abc057",
     "language": "Java (OpenJDK 11.0.6)",
