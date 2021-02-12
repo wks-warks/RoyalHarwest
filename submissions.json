@@ -1,4 +1,20 @@
 {
+  "AC20114921": {
+    "contest_id": "abc057",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc057/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Maximum Average Sets",
+    "problem_url": "https://atcoder.jp/contests/abc057/tasks/abc057_d",
+    "submission_id": "AC20114921",
+    "submission_url": "https://atcoder.jp/contests/abc057/submissions/20114921",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/12/2021 05:31"
+  },
   "AC20123785": {
     "contest_id": "abc058",
     "language": "Java (OpenJDK 11.0.6)",
