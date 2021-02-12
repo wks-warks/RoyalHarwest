@@ -1,4 +1,20 @@
 {
+  "AC20123995": {
+    "contest_id": "abc058",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc058/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Dubious Document",
+    "problem_url": "https://atcoder.jp/contests/abc058/tasks/arc071_a",
+    "submission_id": "AC20123995",
+    "submission_url": "https://atcoder.jp/contests/abc058/submissions/20123995",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/12/2021 17:29"
+  },
   "AC20125186": {
     "contest_id": "abc058",
     "language": "Java (OpenJDK 11.0.6)",
