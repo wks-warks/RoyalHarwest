@@ -1,4 +1,20 @@
 {
+  "AC20268089": {
+    "contest_id": "abc060",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc060/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Simple Knapsack",
+    "problem_url": "https://atcoder.jp/contests/abc060/tasks/arc073_b",
+    "submission_id": "AC20268089",
+    "submission_url": "https://atcoder.jp/contests/abc060/submissions/20268089",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/19/2021 22:38"
+  },
   "AC20374211": {
     "contest_id": "abc061",
     "language": "Java (OpenJDK 11.0.6)",
