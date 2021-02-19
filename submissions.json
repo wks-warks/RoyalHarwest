@@ -1,4 +1,20 @@
 {
+  "AC20267610": {
+    "contest_id": "abc060",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc060/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Shiritori",
+    "problem_url": "https://atcoder.jp/contests/abc060/tasks/abc060_a",
+    "submission_id": "AC20267610",
+    "submission_url": "https://atcoder.jp/contests/abc060/submissions/20267610",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/19/2021 21:49"
+  },
   "AC20267691": {
     "contest_id": "abc060",
     "language": "Java (OpenJDK 11.0.6)",
