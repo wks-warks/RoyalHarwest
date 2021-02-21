@@ -1,4 +1,20 @@
 {
+  "AC20406429": {
+    "contest_id": "abc062",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc062/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Grouping",
+    "problem_url": "https://atcoder.jp/contests/abc062/tasks/abc062_a",
+    "submission_id": "AC20406429",
+    "submission_url": "https://atcoder.jp/contests/abc062/submissions/20406429",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/21/2021 23:01"
+  },
   "AC20406540": {
     "contest_id": "abc062",
     "language": "Java (OpenJDK 11.0.6)",
