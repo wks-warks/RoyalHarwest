@@ -11,8 +11,7 @@ public class Main {
     for (int q = 0; q < questions; q += 1) {
       scores.add(scanner.nextInt());
     }
-    // int maxGrade = getMaxGrade(scores);
-    int maxGrade = efficientGetMaxGrade(scores);
+    int maxGrade = getMaxGrade(scores);
     System.out.println(maxGrade);
   }
 
@@ -31,27 +30,6 @@ public class Main {
     } else {
       if (notMultipleOf10.size() > 0) {
         return sum - notMultipleOf10.poll();
-      } else {
-        return 0;
-      }
-    }
-  }
-
-  static int efficientGetMaxGrade(List<Integer> scores) {
-    int sum = 0;
-    int leastNonMultiple = Integer.MAX_VALUE;
-    for (var score : scores) {
-      sum += score;
-      if (score % 10 != 0 && score < leastNonMultiple) {
-        leastNonMultiple = score;
-      }
-    }
-
-    if (sum % 10 != 0) {
-      return sum;
-    } else {
-      if (leastNonMultiple != Integer.MAX_VALUE) {
-        return sum - leastNonMultiple;
       } else {
         return 0;
       }
