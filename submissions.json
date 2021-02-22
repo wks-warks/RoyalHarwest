@@ -1,4 +1,20 @@
 {
+  "AC20423682": {
+    "contest_id": "abc064",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc064/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Colorful Leaderboard",
+    "problem_url": "https://atcoder.jp/contests/abc064/tasks/abc064_c",
+    "submission_id": "AC20423682",
+    "submission_url": "https://atcoder.jp/contests/abc064/submissions/20423682",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/22/2021 19:08"
+  },
   "AC20424023": {
     "contest_id": "abc064",
     "language": "Java (OpenJDK 11.0.6)",
