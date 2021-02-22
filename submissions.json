@@ -1,4 +1,20 @@
 {
+  "AC20423180": {
+    "contest_id": "abc064",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc064/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "RGB Cards",
+    "problem_url": "https://atcoder.jp/contests/abc064/tasks/abc064_a",
+    "submission_id": "AC20423180",
+    "submission_url": "https://atcoder.jp/contests/abc064/submissions/20423180",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/22/2021 18:48"
+  },
   "AC20423245": {
     "contest_id": "abc064",
     "language": "Java (OpenJDK 11.0.6)",
