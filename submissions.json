@@ -1,4 +1,20 @@
 {
+  "AC20463219": {
+    "contest_id": "abc066",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc066/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "pushpush",
+    "problem_url": "https://atcoder.jp/contests/abc066/tasks/arc077_a",
+    "submission_id": "AC20463219",
+    "submission_url": "https://atcoder.jp/contests/abc066/submissions/20463219",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/24/2021 16:44"
+  },
   "AC20463264": {
     "contest_id": "abc066",
     "language": "Java (OpenJDK 11.0.6)",
