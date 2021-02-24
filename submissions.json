@@ -1,4 +1,20 @@
 {
+  "AC20463082": {
+    "contest_id": "abc066",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc066/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "ss",
+    "problem_url": "https://atcoder.jp/contests/abc066/tasks/abc066_b",
+    "submission_id": "AC20463082",
+    "submission_url": "https://atcoder.jp/contests/abc066/submissions/20463082",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/24/2021 16:35"
+  },
   "AC20463219": {
     "contest_id": "abc066",
     "language": "Java (OpenJDK 11.0.6)",
