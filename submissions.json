@@ -1,4 +1,20 @@
 {
+  "AC20463000": {
+    "contest_id": "abc066",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc066/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "ringring",
+    "problem_url": "https://atcoder.jp/contests/abc066/tasks/abc066_a",
+    "submission_id": "AC20463000",
+    "submission_url": "https://atcoder.jp/contests/abc066/submissions/20463000",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/24/2021 16:29"
+  },
   "AC20463082": {
     "contest_id": "abc066",
     "language": "Java (OpenJDK 11.0.6)",
