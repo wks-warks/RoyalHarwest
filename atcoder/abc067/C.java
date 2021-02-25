@@ -10,11 +10,11 @@ public class Main {
     for (int c = 0; c < cards; c += 1) {
       cardValues.add(scanner.nextInt());
     }
-    int minDiff = getMinDiff(cardValues);
+    long minDiff = getMinDiff(cardValues);
     System.out.println(minDiff);
   }
 
-  static int getMinDiff(List<Integer> cardValues) {
+  static long getMinDiff(List<Integer> cardValues) {
     List<Long> prefixSum = getPrefixSum(cardValues);
     long totalSum = prefixSum.get(prefixSum.size()-1);
     long minDiff = Long.MAX_VALUE;
@@ -23,7 +23,7 @@ public class Main {
       long diff = Math.abs(prefixSum.get(i) - remainder);
       minDiff = Math.min(minDiff, diff);
     }
-    return (int) minDiff;
+    return minDiff;
   }
 
   static List<Long> getPrefixSum(List<Integer> list) {
