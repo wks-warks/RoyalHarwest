@@ -1,4 +1,20 @@
 {
+  "AC20488013": {
+    "contest_id": "abc067",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc067/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Splitting Pile",
+    "problem_url": "https://atcoder.jp/contests/abc067/tasks/arc078_a",
+    "submission_id": "AC20488013",
+    "submission_url": "https://atcoder.jp/contests/abc067/submissions/20488013",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/26/2021 02:26"
+  },
   "AC20500774": {
     "contest_id": "abc068",
     "language": "Java (OpenJDK 11.0.6)",
