@@ -1,6 +1,5 @@
 import java.util.Scanner;
-import java.util.List;
-import java.util.ArrayList;
+import java.util.PriorityQueue;
 import java.util.Collections;
 
 public class Main {
@@ -8,7 +7,7 @@ public class Main {
     Scanner scanner = new Scanner(System.in);
     int sticks = scanner.nextInt();
     int select = scanner.nextInt();
-    List<Integer> stickLengths = new ArrayList<Integer>();
+    PriorityQueue<Integer> stickLengths = new PriorityQueue<Integer>(Collections.reverseOrder());
     for (int s = 0; s < sticks; s += 1) {
       stickLengths.add(scanner.nextInt());
     }
@@ -16,11 +15,10 @@ public class Main {
     System.out.println(toyLength);
   }
 
-  static int getToyLength(List<Integer> stickLengths, int select) {
-    Collections.sort(stickLengths, Collections.reverseOrder());
+  static int getToyLength(PriorityQueue<Integer> stickLengths, int select) {
     int toyLength = 0;
     for (int s = 0; s < select; s += 1) {
-      toyLength += stickLengths.get(s);
+      toyLength += stickLengths.poll();
     }
     return toyLength;
   }
