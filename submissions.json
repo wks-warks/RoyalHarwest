@@ -1,4 +1,20 @@
 {
+  "AC20501540": {
+    "contest_id": "abc068",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc068/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Decrease (Contestant ver.)",
+    "problem_url": "https://atcoder.jp/contests/abc068/tasks/arc079_b",
+    "submission_id": "AC20501540",
+    "submission_url": "https://atcoder.jp/contests/abc068/submissions/20501540",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Feb/26/2021 20:34"
+  },
   "AC20520538": {
     "contest_id": "abc193",
     "language": "Java (OpenJDK 11.0.6)",
