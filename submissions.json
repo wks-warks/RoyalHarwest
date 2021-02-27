@@ -1,4 +1,20 @@
 {
+  "AC20547650": {
+    "contest_id": "abc193",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc193/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Poker",
+    "problem_url": "https://atcoder.jp/contests/abc193/tasks/abc193_d",
+    "submission_id": "AC20547650",
+    "submission_url": "https://atcoder.jp/contests/abc193/submissions/20547650",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/27/2021 18:50"
+  },
   "AC20578025": {
     "contest_id": "abc069",
     "language": "Java (OpenJDK 11.0.6)",
