@@ -1,4 +1,20 @@
 {
+  "AC20578706": {
+    "contest_id": "abc069",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc069/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Grid Coloring",
+    "problem_url": "https://atcoder.jp/contests/abc069/tasks/arc080_b",
+    "submission_id": "AC20578706",
+    "submission_url": "https://atcoder.jp/contests/abc069/submissions/20578706",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/28/2021 18:11"
+  },
   "AC20982171": {
     "contest_id": "abc195",
     "language": "Java (OpenJDK 11.0.6)",
