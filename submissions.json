@@ -5599,6 +5599,24 @@
     ],
     "timestamp": "Mar/02/2021 19:26"
   },
+  "CF108888980": {
+    "contest_id": 1494,
+    "language": "Java 11",
+    "path": "codeforces/1494/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "ABC String",
+    "problem_url": "https://codeforces.com/contest/1494/problem/A",
+    "submission_id": "CF108888980",
+    "submission_url": "https://codeforces.com/contest/1494/submission/108888980",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/02/2021 20:24"
+  },
   "CF108926180": {
     "contest_id": 1494,
     "language": "Java 11",
