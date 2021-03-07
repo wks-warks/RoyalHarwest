@@ -5076,6 +5076,22 @@
     ],
     "timestamp": "Feb/28/2021 19:14"
   },
+  "CF109318468": {
+    "contest_id": 978,
+    "language": "Java 11",
+    "path": "codeforces/978/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Remove Duplicates",
+    "problem_url": "https://codeforces.com/contest/978/problem/A",
+    "submission_id": "CF109318468",
+    "submission_url": "https://codeforces.com/contest/978/submission/109318468",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2021 13:46"
+  },
   "CF109320104": {
     "contest_id": 978,
     "language": "Java 11",
