@@ -1,4 +1,20 @@
 {
+  "AC20983287": {
+    "contest_id": "abc195",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc195/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Shipping Center",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_d",
+    "submission_id": "AC20983287",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20983287",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Mar/16/2021 18:14"
+  },
   "AC20997939": {
     "contest_id": "abc191",
     "language": "Java (OpenJDK 11.0.6)",
