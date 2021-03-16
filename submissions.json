@@ -1,4 +1,20 @@
 {
+  "AC20982688": {
+    "contest_id": "abc195",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc195/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Comma",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_c",
+    "submission_id": "AC20982688",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20982688",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/16/2021 17:50"
+  },
   "AC20983287": {
     "contest_id": "abc195",
     "language": "Java (OpenJDK 11.0.6)",
