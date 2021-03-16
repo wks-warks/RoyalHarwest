@@ -1,4 +1,20 @@
 {
+  "AC20982424": {
+    "contest_id": "abc195",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc195/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Many Oranges",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_b",
+    "submission_id": "AC20982424",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20982424",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/16/2021 17:40"
+  },
   "AC20982688": {
     "contest_id": "abc195",
     "language": "Java (OpenJDK 11.0.6)",
