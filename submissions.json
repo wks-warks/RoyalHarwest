@@ -5076,6 +5076,24 @@
     ],
     "timestamp": "Feb/28/2021 19:14"
   },
+  "CF110395125": {
+    "contest_id": 1499,
+    "language": "Java 11",
+    "path": "codeforces/1499/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Domino on Windowsill",
+    "problem_url": "https://codeforces.com/contest/1499/problem/A",
+    "submission_id": "CF110395125",
+    "submission_url": "https://codeforces.com/contest/1499/submission/110395125",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/18/2021 23:54"
+  },
   "CF110395961": {
     "contest_id": 1499,
     "language": "Java 11",
