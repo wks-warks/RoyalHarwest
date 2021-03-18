@@ -5076,6 +5076,25 @@
     ],
     "timestamp": "Feb/28/2021 19:14"
   },
+  "CF110403806": {
+    "contest_id": 1499,
+    "language": "Java 11",
+    "path": "codeforces/1499/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimum Grid Path",
+    "problem_url": "https://codeforces.com/contest/1499/problem/C",
+    "submission_id": "CF110403806",
+    "submission_url": "https://codeforces.com/contest/1499/submission/110403806",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Mar/19/2021 02:51"
+  },
   "CF110403851": {
     "contest_id": 1499,
     "language": "Java 11",

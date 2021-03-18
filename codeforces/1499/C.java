@@ -34,7 +34,7 @@ public class Main {
   }
 
   static long calculateCost(int n, List<Integer> segmentCosts) {
-    long minCost = Long.MAX_VALUE;
+    long minCost = 200_000_000_000_000L;
 
     long prevCost = 0;
     int prevMin1 = 1_000_000_000;
