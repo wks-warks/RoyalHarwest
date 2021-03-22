@@ -5076,6 +5076,25 @@
     ],
     "timestamp": "Feb/28/2021 19:14"
   },
+  "CF110708241": {
+    "contest_id": 1484,
+    "language": "Java 11",
+    "path": "codeforces/1484/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Basic Diplomacy",
+    "problem_url": "https://codeforces.com/contest/1484/problem/C",
+    "submission_id": "CF110708241",
+    "submission_url": "https://codeforces.com/contest/1484/submission/110708241",
+    "tags": [
+      "combinatorics",
+      "flows",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Mar/22/2021 12:54"
+  },
   "CF110920459": {
     "contest_id": 1490,
     "language": "Java 11",
