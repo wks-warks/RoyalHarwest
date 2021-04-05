@@ -5076,6 +5076,22 @@
     ],
     "timestamp": "Feb/28/2021 19:14"
   },
+  "CF112054069": {
+    "contest_id": 1506,
+    "language": "Java 11",
+    "path": "codeforces/1506/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Table",
+    "problem_url": "https://codeforces.com/contest/1506/problem/A",
+    "submission_id": "CF112054069",
+    "submission_url": "https://codeforces.com/contest/1506/submission/112054069",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/05/2021 12:53"
+  },
   "CF112054772": {
     "contest_id": 1466,
     "language": "Java 11",
