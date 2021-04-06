@@ -6137,6 +6137,23 @@
     ],
     "timestamp": "Apr/06/2021 18:49"
   },
+  "CF112174231": {
+    "contest_id": 445,
+    "language": "Java 11",
+    "path": "codeforces/445/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "DZY Loves Chessboard",
+    "problem_url": "https://codeforces.com/contest/445/problem/A",
+    "submission_id": "CF112174231",
+    "submission_url": "https://codeforces.com/contest/445/submission/112174231",
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/06/2021 23:57"
+  },
   "CF112197103": {
     "contest_id": 1438,
     "language": "Java 11",
