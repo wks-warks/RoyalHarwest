@@ -6137,6 +6137,25 @@
     ],
     "timestamp": "Apr/06/2021 18:49"
   },
+  "CF112151738": {
+    "contest_id": 1497,
+    "language": "Java 11",
+    "path": "codeforces/1497/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Meximization",
+    "problem_url": "https://codeforces.com/contest/1497/problem/A",
+    "submission_id": "CF112151738",
+    "submission_url": "https://codeforces.com/contest/1497/submission/112151738",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Apr/06/2021 19:09"
+  },
   "CF112167234": {
     "contest_id": 450,
     "language": "Java 11",
