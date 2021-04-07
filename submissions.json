@@ -4781,6 +4781,23 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF112214973": {
+    "contest_id": 999,
+    "language": "Java 11",
+    "path": "codeforces/999/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mishka and Contest",
+    "problem_url": "https://codeforces.com/contest/999/problem/A",
+    "submission_id": "CF112214973",
+    "submission_url": "https://codeforces.com/contest/999/submission/112214973",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/07/2021 16:05"
+  },
   "CF112215243": {
     "contest_id": 598,
     "language": "Java 11",
