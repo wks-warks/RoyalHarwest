@@ -4781,6 +4781,22 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF112225373": {
+    "contest_id": 1141,
+    "language": "Java 11",
+    "path": "codeforces/1141/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximal Continuous Rest",
+    "problem_url": "https://codeforces.com/contest/1141/problem/B",
+    "submission_id": "CF112225373",
+    "submission_url": "https://codeforces.com/contest/1141/submission/112225373",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/07/2021 18:20"
+  },
   "CF112226181": {
     "contest_id": 1323,
     "language": "Java 11",
