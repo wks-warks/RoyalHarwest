@@ -4781,6 +4781,22 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF112408366": {
+    "contest_id": 721,
+    "language": "Java 11",
+    "path": "codeforces/721/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "One-dimensional Japanese Crossword",
+    "problem_url": "https://codeforces.com/contest/721/problem/A",
+    "submission_id": "CF112408366",
+    "submission_url": "https://codeforces.com/contest/721/submission/112408366",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/10/2021 00:17"
+  },
   "CF112411797": {
     "contest_id": 1419,
     "language": "Java 11",
