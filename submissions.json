@@ -4781,6 +4781,24 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF112411797": {
+    "contest_id": 1419,
+    "language": "Java 11",
+    "path": "codeforces/1419/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Digit Game",
+    "problem_url": "https://codeforces.com/contest/1419/problem/A",
+    "submission_id": "CF112411797",
+    "submission_url": "https://codeforces.com/contest/1419/submission/112411797",
+    "tags": [
+      "games",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/10/2021 01:09"
+  },
   "CF112412896": {
     "contest_id": 1363,
     "language": "Java 11",
