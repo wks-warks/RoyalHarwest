@@ -25,14 +25,13 @@ public class Main {
       prev = onePrefixCount.get(i);
     }
     int oneCount = prev;
-    int zeroCount = binString.length() - oneCount;
 
     int bestAnswer = binString.length();
     for (int i = 0; i < binString.length(); i += 1) {
       int onesTillHere = onePrefixCount.get(i);
       int zeroesTillHere = i + 1 - onesTillHere;
       int onesHereAfter = oneCount - onesTillHere;
-      int zeroesHereAfter = zeroCount - zeroesTillHere;
+      int zeroesHereAfter = binString.length() - 1 - i - onesHereAfter;
 
       bestAnswer = Math.min(bestAnswer, onesTillHere + zeroesHereAfter);
       bestAnswer = Math.min(bestAnswer, zeroesTillHere + onesHereAfter);
