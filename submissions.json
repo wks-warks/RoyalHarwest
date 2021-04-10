@@ -4781,6 +4781,24 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF112423054": {
+    "contest_id": 1091,
+    "language": "Java 11",
+    "path": "codeforces/1091/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year and the Christmas Ornament",
+    "problem_url": "https://codeforces.com/contest/1091/problem/A",
+    "submission_id": "CF112423054",
+    "submission_url": "https://codeforces.com/contest/1091/submission/112423054",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/10/2021 07:49"
+  },
   "CF112577129": {
     "contest_id": 1272,
     "language": "Java 11",
