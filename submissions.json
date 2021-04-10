@@ -4781,6 +4781,23 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF112422930": {
+    "contest_id": 701,
+    "language": "Java 11",
+    "path": "codeforces/701/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/701/problem/A",
+    "submission_id": "CF112422930",
+    "submission_url": "https://codeforces.com/contest/701/submission/112422930",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/10/2021 07:44"
+  },
   "CF112423054": {
     "contest_id": 1091,
     "language": "Java 11",
