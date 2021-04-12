@@ -4781,6 +4781,23 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF112765682": {
+    "contest_id": 1341,
+    "language": "Java 11",
+    "path": "codeforces/1341/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Nastya and Door",
+    "problem_url": "https://codeforces.com/contest/1341/problem/B",
+    "submission_id": "CF112765682",
+    "submission_url": "https://codeforces.com/contest/1341/submission/112765682",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/12/2021 15:56"
+  },
   "CF112787654": {
     "contest_id": 1511,
     "language": "Java 11",
