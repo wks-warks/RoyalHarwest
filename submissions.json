@@ -4781,6 +4781,24 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF112884920": {
+    "contest_id": 1167,
+    "language": "Java 11",
+    "path": "codeforces/1167/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Telephone Number",
+    "problem_url": "https://codeforces.com/contest/1167/problem/A",
+    "submission_id": "CF112884920",
+    "submission_url": "https://codeforces.com/contest/1167/submission/112884920",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/13/2021 07:57"
+  },
   "CF112886135": {
     "contest_id": 1463,
     "language": "Java 11",
