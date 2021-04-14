@@ -4781,6 +4781,26 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF112981576": {
+    "contest_id": 1381,
+    "language": "Java 11",
+    "path": "codeforces/1381/A2.java",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Prefix Flip (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1381/problem/A2",
+    "submission_id": "CF112981576",
+    "submission_url": "https://codeforces.com/contest/1381/submission/112981576",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "strings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Apr/14/2021 12:12"
+  },
   "CF112981610": {
     "contest_id": 1381,
     "language": "Java 11",
