@@ -4781,6 +4781,25 @@
     ],
     "timestamp": "Feb/05/2021 10:45"
   },
+  "CF113144123": {
+    "contest_id": 519,
+    "language": "Java 11",
+    "path": "codeforces/519/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "A and B and Team Training",
+    "problem_url": "https://codeforces.com/contest/519/problem/C",
+    "submission_id": "CF113144123",
+    "submission_url": "https://codeforces.com/contest/519/submission/113144123",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Apr/16/2021 10:41"
+  },
   "CF113284666": {
     "contest_id": 1498,
     "language": "Java 11",
