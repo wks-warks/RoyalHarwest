@@ -1,4 +1,20 @@
 {
+  "AC21861206": {
+    "contest_id": "arc117",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/arc117/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "God Sequence",
+    "problem_url": "https://atcoder.jp/contests/arc117/tasks/arc117_a",
+    "submission_id": "AC21861206",
+    "submission_url": "https://atcoder.jp/contests/arc117/submissions/21861206",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/18/2021 17:43"
+  },
   "AC21863067": {
     "contest_id": "arc117",
     "language": "Java (OpenJDK 11.0.6)",
