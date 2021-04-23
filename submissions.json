@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF114011145": {
+    "contest_id": 1517,
+    "language": "Java 11",
+    "path": "codeforces/1517/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Morning Jogging",
+    "problem_url": "https://codeforces.com/contest/1517/problem/B",
+    "submission_id": "CF114011145",
+    "submission_url": "https://codeforces.com/contest/1517/submission/114011145",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/23/2021 20:57"
+  },
   "CF114021935": {
     "contest_id": 1517,
     "language": "Java 11",
