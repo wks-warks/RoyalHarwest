@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF114085438": {
+    "contest_id": 1517,
+    "language": "Java 11",
+    "path": "codeforces/1517/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Explorer Space",
+    "problem_url": "https://codeforces.com/contest/1517/problem/D",
+    "submission_id": "CF114085438",
+    "submission_url": "https://codeforces.com/contest/1517/submission/114085438",
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "Apr/24/2021 13:03"
+  },
   "CF114176930": {
     "contest_id": 621,
     "language": "Java 11",
