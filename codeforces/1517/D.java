@@ -13,25 +13,29 @@ public class Main {
     int cols = FR.nextInt();
     int moves = FR.nextInt();
 
-    int[][] horizontalEdgeWeights = new int[rows][cols-1];
-
+    List<List<Integer>> horizontalEdgeWeights = new ArrayList<List<Integer>>(rows);
     for (int r = 0; r < rows; r++) {
+      horizontalEdgeWeights.add(new ArrayList<Integer>(cols-1));
+
       for (int c = 0; c < cols - 1; c++) {
-        horizontalEdgeWeights[r][c] = FR.nextInt();
+        horizontalEdgeWeights.get(r).add(FR.nextInt());
       }
     }
 
-    int[][] verticalEdgeWeights = new int[rows-1][cols];
+    List<List<Integer>> verticalEdgeWeights = new ArrayList<List<Integer>>(rows-1);
     for (int r = 0; r < rows - 1; r++) {
+      verticalEdgeWeights.add(new ArrayList<Integer>(cols));
+
       for (int c = 0; c < cols; c++) {
-        verticalEdgeWeights[r][c] = FR.nextInt();
+        verticalEdgeWeights.get(r).add(FR.nextInt());
       }
     }
-
-    int[][] result = getResult(rows, cols, moves, horizontalEdgeWeights, verticalEdgeWeights);
+    
+    List<List<Integer>> result = getResult(rows, cols, moves, horizontalEdgeWeights, verticalEdgeWeights);
     for (int r = 0; r < rows; r++) {
       for (int c = 0; c < cols; c++) {
-        solution.append(result[r][c] + " ");
+        int value = (result != null ? result.get(r).get(c) : -1);
+        solution.append(value + " ");
       }
       solution.append("\n");
     }
@@ -40,61 +44,66 @@ public class Main {
     PW.close();
   }
 
-  static int[][] getResult(int rows, int cols, int moves, int[][] horizontalEdgeWeights, int[][] verticalEdgeWeights) {
-    int[][] result = new int[rows][cols];
+  static List<List<Integer>> getResult(int rows, int cols, int moves, List<List<Integer>> horizontalEdgeWeights, List<List<Integer>> verticalEdgeWeights) {
     if ((moves & 1) == 1) {
-      for (int r = 0; r < rows; r++) {
-        for (int c = 0; c < cols; c++) {
-          result[r][c] = -1;
-        }
-      }
-  
-      return result;
+      return null;
     }
 
     int mid = moves >> 1;
-    int[][][] minForDistance = new int[rows][cols][mid+1];
+    List<List<List<Integer>>> minForDistance = new ArrayList<List<List<Integer>>>(rows);
     for (int r = 0; r < rows; r++) {
+      minForDistance.add(new ArrayList<List<Integer>>(cols));
+
       for (int c = 0; c < cols; c++) {
-        for (int m = 1; m <= mid; m++) {
-          minForDistance[r][c][m] = Integer.MAX_VALUE;
-        }
+        minForDistance.get(r).add(new ArrayList<Integer>(Collections.nCopies(mid+1, Integer.MAX_VALUE)));
+        minForDistance.get(r).get(c).set(0, 0);
       }
     }
 
     for (int m = 1; m <= mid; m++) {
       for (int r = 0; r < rows; r++) {
         for (int c = 0; c < cols; c++) {
-          int minBoredom = minForDistance[r][c][m];
+          int minBoredom = minForDistance.get(r).get(c).get(m);
 
           if (r > 0) {
-            int candidateBoredom = minForDistance[r-1][c][m-1] + verticalEdgeWeights[r-1][c];
-            minBoredom = Math.min(minBoredom, candidateBoredom);
+            if (minForDistance.get(r-1).get(c).get(m-1) < Integer.MAX_VALUE) {
+              int candidateBoredom = minForDistance.get(r-1).get(c).get(m-1) + verticalEdgeWeights.get(r-1).get(c);
+              minBoredom = Math.min(minBoredom, candidateBoredom);
+            }
           }
 
           if (c > 0) {
-            int candidateBoredom = minForDistance[r][c-1][m-1] + horizontalEdgeWeights[r][c-1];
-            minBoredom = Math.min(minBoredom, candidateBoredom);
+            if (minForDistance.get(r).get(c-1).get(m-1) < Integer.MAX_VALUE) {
+              int candidateBoredom = minForDistance.get(r).get(c-1).get(m-1) + horizontalEdgeWeights.get(r).get(c-1);
+              minBoredom = Math.min(minBoredom, candidateBoredom);
+            }
           }
-
+          
           if (r + 1 < rows) {
-            int candidateBoredom = minForDistance[r+1][c][m-1] + verticalEdgeWeights[r][c];
-            minBoredom = Math.min(minBoredom, candidateBoredom);
+            if (minForDistance.get(r+1).get(c).get(m-1) < Integer.MAX_VALUE) {
+              int candidateBoredom = minForDistance.get(r+1).get(c).get(m-1) + verticalEdgeWeights.get(r).get(c);
+              minBoredom = Math.min(minBoredom, candidateBoredom);
+            }
           }
-
+   
           if (c + 1 < cols) {
-            int candidateBoredom = minForDistance[r][c+1][m-1] + horizontalEdgeWeights[r][c];
-            minBoredom = Math.min(minBoredom, candidateBoredom);
+            if (minForDistance.get(r).get(c+1).get(m-1) < Integer.MAX_VALUE) {
+              int candidateBoredom = minForDistance.get(r).get(c+1).get(m-1) + horizontalEdgeWeights.get(r).get(c);
+              minBoredom = Math.min(minBoredom, candidateBoredom);
+            }
           }
 
-          minForDistance[r][c][m] = minBoredom;
+          minForDistance.get(r).get(c).set(m, minBoredom);
         }
       }
     }
 
+    List<List<Integer>> result = new ArrayList<List<Integer>>(rows);
     for (int r = 0; r < rows; r++) {
+      result.add(new ArrayList<Integer>(cols));
+
       for (int c = 0; c < cols; c++) {
-        result[r][c] = minForDistance[r][c][mid] << 1;
+        result.get(r).add(minForDistance.get(r).get(c).get(mid) << 1);
       }
     }
 
