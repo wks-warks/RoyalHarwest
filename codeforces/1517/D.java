@@ -5,29 +5,27 @@ import java.util.*;
 
 public class Main {
   static final FastReader FR = new FastReader();
-  static final PrintWriter PW = new PrintWriter(new OutputStreamWriter(System.out));
+  static final BufferedWriter BW = new BufferedWriter(new OutputStreamWriter(System.out));
 
-  public static void main(String[] args) {
+  public static void main(String[] args) throws IOException {
     StringBuilder solution = new StringBuilder();
     int rows = FR.nextInt();
     int cols = FR.nextInt();
     int moves = FR.nextInt();
 
-    List<List<Integer>> horizontalEdgeWeights = new ArrayList<List<Integer>>(rows);
+    Map<Integer, Integer> horizontalEdgeWeights = new HashMap<Integer, Integer>();
     for (int r = 0; r < rows; r++) {
-      horizontalEdgeWeights.add(new ArrayList<Integer>(cols-1));
-
       for (int c = 0; c < cols - 1; c++) {
-        horizontalEdgeWeights.get(r).add(FR.nextInt());
+        int hash = getHash(r, c);
+        horizontalEdgeWeights.put(hash, FR.nextInt());
       }
     }
 
-    List<List<Integer>> verticalEdgeWeights = new ArrayList<List<Integer>>(rows-1);
+    Map<Integer, Integer> verticalEdgeWeights = new HashMap<Integer, Integer>();
     for (int r = 0; r < rows - 1; r++) {
-      verticalEdgeWeights.add(new ArrayList<Integer>(cols));
-
       for (int c = 0; c < cols; c++) {
-        verticalEdgeWeights.get(r).add(FR.nextInt());
+        int hash = getHash(r, c);
+        verticalEdgeWeights.put(hash, FR.nextInt());
       }
     }
     
@@ -40,11 +38,11 @@ public class Main {
       solution.append("\n");
     }
 
-		PW.print(solution.toString());
-    PW.close();
+		BW.write(solution.toString());
+    BW.close();
   }
 
-  static List<List<Integer>> getResult(int rows, int cols, int moves, List<List<Integer>> horizontalEdgeWeights, List<List<Integer>> verticalEdgeWeights) {
+  static List<List<Integer>> getResult(int rows, int cols, int moves, Map<Integer, Integer> horizontalEdgeWeights, Map<Integer, Integer> verticalEdgeWeights) {
     if ((moves & 1) == 1) {
       return null;
     }
@@ -64,31 +62,32 @@ public class Main {
       for (int r = 0; r < rows; r++) {
         for (int c = 0; c < cols; c++) {
           int minBoredom = minForDistance.get(r).get(c).get(m);
+          int hash = getHash(r, c);
 
           if (r > 0) {
             if (minForDistance.get(r-1).get(c).get(m-1) < Integer.MAX_VALUE) {
-              int candidateBoredom = minForDistance.get(r-1).get(c).get(m-1) + verticalEdgeWeights.get(r-1).get(c);
+              int candidateBoredom = minForDistance.get(r-1).get(c).get(m-1) + verticalEdgeWeights.get(getHash(r-1, c));
               minBoredom = Math.min(minBoredom, candidateBoredom);
             }
           }
 
           if (c > 0) {
             if (minForDistance.get(r).get(c-1).get(m-1) < Integer.MAX_VALUE) {
-              int candidateBoredom = minForDistance.get(r).get(c-1).get(m-1) + horizontalEdgeWeights.get(r).get(c-1);
+              int candidateBoredom = minForDistance.get(r).get(c-1).get(m-1) + horizontalEdgeWeights.get(getHash(r, c-1));
               minBoredom = Math.min(minBoredom, candidateBoredom);
             }
           }
           
           if (r + 1 < rows) {
             if (minForDistance.get(r+1).get(c).get(m-1) < Integer.MAX_VALUE) {
-              int candidateBoredom = minForDistance.get(r+1).get(c).get(m-1) + verticalEdgeWeights.get(r).get(c);
+              int candidateBoredom = minForDistance.get(r+1).get(c).get(m-1) + verticalEdgeWeights.get(hash);
               minBoredom = Math.min(minBoredom, candidateBoredom);
             }
           }
    
           if (c + 1 < cols) {
             if (minForDistance.get(r).get(c+1).get(m-1) < Integer.MAX_VALUE) {
-              int candidateBoredom = minForDistance.get(r).get(c+1).get(m-1) + horizontalEdgeWeights.get(r).get(c);
+              int candidateBoredom = minForDistance.get(r).get(c+1).get(m-1) + horizontalEdgeWeights.get(hash);
               minBoredom = Math.min(minBoredom, candidateBoredom);
             }
           }
@@ -108,6 +107,16 @@ public class Main {
     }
 
     return result;
+  }
+
+  static int getHash(int row, int col) {
+    return (row * 1000 + col);
+  }
+  static int getRow(int hash) {
+    return hash / 1000;
+  }
+  static int getCol(int hash) {
+    return hash % 1000;
   }
 
   static class FastReader {
