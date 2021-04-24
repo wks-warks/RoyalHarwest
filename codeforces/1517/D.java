@@ -5,9 +5,9 @@ import java.util.*;
 
 public class Main {
   static final FastReader FR = new FastReader();
-  static final BufferedWriter BW = new BufferedWriter(new OutputStreamWriter(System.out));
+  static final PrintWriter PW = new PrintWriter(new OutputStreamWriter(System.out));
 
-  public static void main(String[] args) throws IOException {
+  public static void main(String[] args) {
     StringBuilder solution = new StringBuilder();
     int rows = FR.nextInt();
     int cols = FR.nextInt();
@@ -38,8 +38,8 @@ public class Main {
       solution.append("\n");
     }
 
-		BW.write(solution.toString());
-    BW.close();
+		PW.print(solution.toString());
+    PW.close();
   }
 
   static List<List<Integer>> getResult(int rows, int cols, int moves, Map<Integer, Integer> horizontalEdgeWeights, Map<Integer, Integer> verticalEdgeWeights) {
