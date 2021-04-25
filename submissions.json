@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF114176930": {
+    "contest_id": 621,
+    "language": "Java 11",
+    "path": "codeforces/621/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wet Shark and Odd and Even",
+    "problem_url": "https://codeforces.com/contest/621/problem/A",
+    "submission_id": "CF114176930",
+    "submission_url": "https://codeforces.com/contest/621/submission/114176930",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/25/2021 12:39"
+  },
   "CF114194606": {
     "contest_id": 746,
     "language": "Java 11",
