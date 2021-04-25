@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF114194606": {
+    "contest_id": 746,
+    "language": "Java 11",
+    "path": "codeforces/746/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Compote",
+    "problem_url": "https://codeforces.com/contest/746/problem/A",
+    "submission_id": "CF114194606",
+    "submission_url": "https://codeforces.com/contest/746/submission/114194606",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2021 16:33"
+  },
   "CF114242851": {
     "contest_id": 1291,
     "language": "Java 11",
