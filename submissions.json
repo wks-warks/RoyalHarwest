@@ -4992,6 +4992,24 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF114303820": {
+    "contest_id": 580,
+    "language": "Java 11",
+    "path": "codeforces/580/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kefa and Company",
+    "problem_url": "https://codeforces.com/contest/580/problem/B",
+    "submission_id": "CF114303820",
+    "submission_url": "https://codeforces.com/contest/580/submission/114303820",
+    "tags": [
+      "binary search",
+      "sortings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Apr/26/2021 23:23"
+  },
   "CF114327167": {
     "contest_id": 352,
     "language": "Java 11",
