@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF114245787": {
+    "contest_id": 1144,
+    "language": "Java 11",
+    "path": "codeforces/1144/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Diverse Strings",
+    "problem_url": "https://codeforces.com/contest/1144/problem/A",
+    "submission_id": "CF114245787",
+    "submission_url": "https://codeforces.com/contest/1144/submission/114245787",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/26/2021 09:04"
+  },
   "CF116213251": {
     "contest_id": 600,
     "language": "Java 11",
