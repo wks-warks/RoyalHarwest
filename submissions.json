@@ -4992,6 +4992,23 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF114539595": {
+    "contest_id": 2,
+    "language": "Java 11",
+    "path": "codeforces/2/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Winner",
+    "problem_url": "https://codeforces.com/contest/2/problem/A",
+    "submission_id": "CF114539595",
+    "submission_url": "https://codeforces.com/contest/2/submission/114539595",
+    "tags": [
+      "hashing",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Apr/29/2021 19:38"
+  },
   "CF114582726": {
     "contest_id": 1270,
     "language": "Java 11",
