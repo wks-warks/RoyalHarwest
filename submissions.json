@@ -4992,6 +4992,24 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF114533266": {
+    "contest_id": 1272,
+    "language": "Java 11",
+    "path": "codeforces/1272/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Broken Keyboard",
+    "problem_url": "https://codeforces.com/contest/1272/problem/C",
+    "submission_id": "CF114533266",
+    "submission_url": "https://codeforces.com/contest/1272/submission/114533266",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/29/2021 18:18"
+  },
   "CF114533993": {
     "contest_id": 1249,
     "language": "Java 11",
