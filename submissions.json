@@ -4992,6 +4992,24 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF114602430": {
+    "contest_id": 285,
+    "language": "Java 11",
+    "path": "codeforces/285/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Building Permutation",
+    "problem_url": "https://codeforces.com/contest/285/problem/C",
+    "submission_id": "CF114602430",
+    "submission_url": "https://codeforces.com/contest/285/submission/114602430",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Apr/29/2021 21:39"
+  },
   "CF114607473": {
     "contest_id": 1451,
     "language": "Java 11",
