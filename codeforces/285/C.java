@@ -26,13 +26,13 @@ public class Main {
   }
 
   static long countMovesNeeded(int[] arr) {
-    PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
+    PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());
     for (var num : arr) {
       pq.add(num);
     }
 
     long movesNeeded = 0;
-    for (int desired = 1; desired <= arr.length; desired++) {
+    for (int desired = arr.length; desired > 0; desired--) {
       int num = pq.poll();
       movesNeeded += Math.abs(desired - num);
     }
