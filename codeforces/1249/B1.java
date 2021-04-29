@@ -1,0 +1,93 @@
+// Author : RegalBeast
+
+import java.io.*;
+import java.util.*;
+
+public class Main {
+  static final FastReader FR = new FastReader();
+  static final PrintWriter PW = new PrintWriter(new OutputStreamWriter(System.out));
+
+  public static void main(String[] args) {
+    StringBuilder solution = new StringBuilder();
+    int tests = 1;
+    tests = FR.nextInt();
+    for (int t = 0; t < tests; ++t) {
+      int kids = FR.nextInt();
+      int[] permutation = new int[kids];
+      for (int i = 0; i < kids; i++) {
+        permutation[i] = FR.nextInt()-1;
+      }
+
+      int[] repeatValues = getRepeatValues(permutation);
+      for (var rValue : repeatValues) {
+        solution.append(rValue + " ");
+      }
+      solution.append("\n");
+    }
+		PW.print(solution.toString());
+    PW.close();
+  }
+
+  static int[] getRepeatValues(int[] permutation) {
+    int[] repeatValues = new int[permutation.length];
+    for (int i = 0; i < permutation.length; i++) {
+      if (repeatValues[i] == 0) {
+        Set<Integer> indicesInCycle = new HashSet<Integer>();
+        int idx = i;
+        
+        while (!indicesInCycle.contains(idx)) {
+          indicesInCycle.add(idx);
+          idx = permutation[idx];
+        }
+
+        for (var cIdx : indicesInCycle) {
+          repeatValues[cIdx] = indicesInCycle.size();
+        }
+      }
+    }
+
+    return repeatValues;
+  }
+
+  static class FastReader {
+    BufferedReader br;
+    StringTokenizer st;
+
+    public FastReader() {
+      br = new BufferedReader(new InputStreamReader(System.in));
+    }
+
+    String next() {
+      while (st == null || !st.hasMoreElements()) {
+        try {
+          st = new StringTokenizer(br.readLine());
+        } catch (IOException  e) {
+          e.printStackTrace();
+        }
+      }
+      return st.nextToken();
+    }
+
+    int nextInt() {
+      return Integer.parseInt(next());
+    }
+
+    long nextLong() {
+      return Long.parseLong(next());
+    }
+
+    double nextDouble() {
+      return Double.parseDouble(next());
+    }
+
+    String nextLine() {
+      String str = "";
+      try {
+        str = br.readLine();
+      } catch (IOException e)  {
+        e.printStackTrace();
+      }
+      return str;
+    }
+  }
+}
