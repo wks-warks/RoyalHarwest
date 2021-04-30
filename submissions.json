@@ -4992,6 +4992,22 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF114671651": {
+    "contest_id": 275,
+    "language": "Java 11",
+    "path": "codeforces/275/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lights Out",
+    "problem_url": "https://codeforces.com/contest/275/problem/A",
+    "submission_id": "CF114671651",
+    "submission_url": "https://codeforces.com/contest/275/submission/114671651",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/30/2021 14:50"
+  },
   "CF114758446": {
     "contest_id": 1017,
     "language": "Java 11",
