@@ -4992,6 +4992,22 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF114758446": {
+    "contest_id": 1017,
+    "language": "Java 11",
+    "path": "codeforces/1017/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Rank",
+    "problem_url": "https://codeforces.com/contest/1017/problem/A",
+    "submission_id": "CF114758446",
+    "submission_url": "https://codeforces.com/contest/1017/submission/114758446",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/01/2021 14:14"
+  },
   "CF114770771": {
     "contest_id": 1373,
     "language": "Java 11",
