@@ -49,7 +49,7 @@ public class Main {
       s.append(prev.charAt(i));
     }
 
-    if (prev.length() > prevLen && prevLen < len) {
+    if (prev.length() > prevLen) {
       s.append(prev.charAt(prevLen) == 'a' ? 'b' : 'a');
     }
     for (int i = s.length(); i < nextLen; i++) {
