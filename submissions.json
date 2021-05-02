@@ -4992,6 +4992,22 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF114850688": {
+    "contest_id": 1047,
+    "language": "Java 11",
+    "path": "codeforces/1047/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little C Loves 3 I",
+    "problem_url": "https://codeforces.com/contest/1047/problem/A",
+    "submission_id": "CF114850688",
+    "submission_url": "https://codeforces.com/contest/1047/submission/114850688",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/02/2021 16:54"
+  },
   "CF115056761": {
     "contest_id": 1362,
     "language": "Java 11",
