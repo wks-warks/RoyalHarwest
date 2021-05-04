@@ -4992,6 +4992,22 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF115118646": {
+    "contest_id": 34,
+    "language": "Java 11",
+    "path": "codeforces/34/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reconnaissance 2",
+    "problem_url": "https://codeforces.com/contest/34/problem/A",
+    "submission_id": "CF115118646",
+    "submission_url": "https://codeforces.com/contest/34/submission/115118646",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/04/2021 16:49"
+  },
   "CF115183500": {
     "contest_id": 1093,
     "language": "Java 11",
