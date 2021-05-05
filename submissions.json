@@ -4992,6 +4992,22 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF115183500": {
+    "contest_id": 1093,
+    "language": "Java 11",
+    "path": "codeforces/1093/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dice Rolling",
+    "problem_url": "https://codeforces.com/contest/1093/problem/A",
+    "submission_id": "CF115183500",
+    "submission_url": "https://codeforces.com/contest/1093/submission/115183500",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/05/2021 13:44"
+  },
   "CF115268000": {
     "contest_id": 1095,
     "language": "Java 11",
