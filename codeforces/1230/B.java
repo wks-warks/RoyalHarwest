@@ -6,7 +6,7 @@ public class Main implements Runnable {
   static Output out = new Output();
   
   public static void main(String[] args) {
-    new Thread(null, new Main(), "RegalBeast", 1<<16).start();
+    new Thread(null, new Main(), "RegalBeast", 1<<27).start();
   }
 
   public void run() {
