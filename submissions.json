@@ -4992,6 +4992,22 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF115490344": {
+    "contest_id": 1183,
+    "language": "Java 11",
+    "path": "codeforces/1183/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equalize Prices",
+    "problem_url": "https://codeforces.com/contest/1183/problem/B",
+    "submission_id": "CF115490344",
+    "submission_url": "https://codeforces.com/contest/1183/submission/115490344",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/07/2021 13:26"
+  },
   "CF115631367": {
     "contest_id": 75,
     "language": "Java 11",
