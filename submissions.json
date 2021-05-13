@@ -4992,6 +4992,24 @@
     ],
     "timestamp": "Apr/26/2021 09:04"
   },
+  "CF116093723": {
+    "contest_id": 1096,
+    "language": "Java 11",
+    "path": "codeforces/1096/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find Divisible",
+    "problem_url": "https://codeforces.com/contest/1096/problem/A",
+    "submission_id": "CF116093723",
+    "submission_url": "https://codeforces.com/contest/1096/submission/116093723",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/13/2021 15:51"
+  },
   "CF116152323": {
     "contest_id": 1304,
     "language": "Java 11",
