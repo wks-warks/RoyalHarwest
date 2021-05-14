@@ -9,7 +9,6 @@ import java.util.Arrays;
 public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    PrintWriter pw = new PrintWriter(new OutputStreamWriter(System.out));
     StringTokenizer st = new StringTokenizer(br.readLine());
     int aLen = Integer.parseInt(st.nextToken());
     int bLen = Integer.parseInt(st.nextToken());
@@ -29,10 +28,10 @@ public class Main {
     int[] solutionArr = getSolutionArr(a, b);
     StringBuilder sb = new StringBuilder();
     for (var num : solutionArr) {
-      // sb.append(num + " ");
-      pw.print(num + " ");
+      sb.append(num + " ");
     }
-    // pw.println(sb.toString());
+    PrintWriter pw = new PrintWriter(new OutputStreamWriter(System.out));
+    pw.println(sb.toString());
     pw.close();
   }
 
