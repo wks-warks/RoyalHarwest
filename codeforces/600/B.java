@@ -1,5 +1,3 @@
-import java.io.PrintWriter;
-import java.io.OutputStreamWriter;
 import java.util.Scanner;
 import java.util.Arrays;
 
@@ -24,9 +22,7 @@ public class Main {
     for (var num : solutionArr) {
       sb.append(num + " ");
     }
-    PrintWriter pw = new PrintWriter(new OutputStreamWriter(System.out));
-    pw.println(sb.toString());
-    pw.close();
+    System.out.println(sb.toString());
   }
 
   static int[] getSolutionArr(Integer[] a, int[] b) {
