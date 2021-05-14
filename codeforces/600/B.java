@@ -18,11 +18,10 @@ public class Main {
     }
 
     int[] solutionArr = getSolutionArr(a, b);
-    StringBuilder sb = new StringBuilder();
     for (var num : solutionArr) {
-      sb.append(num + " ");
+      System.out.print(num + " ");
     }
-    System.out.println(sb.toString());
+    System.out.println();
   }
 
   static int[] getSolutionArr(Integer[] a, int[] b) {
