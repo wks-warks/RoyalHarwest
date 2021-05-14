@@ -1,28 +1,22 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.io.OutputStreamWriter;
-import java.io.IOException;
-import java.util.StringTokenizer;
+import java.util.Scanner;
 import java.util.Arrays;
 
 public class Main {
-  public static void main(String[] args) throws IOException {
-    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    StringTokenizer st = new StringTokenizer(br.readLine());
-    int aLen = Integer.parseInt(st.nextToken());
-    int bLen = Integer.parseInt(st.nextToken());
+  public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
+    int aLen = scanner.nextInt();
+    int bLen = scanner.nextInt();
 
     Integer[] a = new Integer[aLen];
-    st = new StringTokenizer(br.readLine());
     for (int i = 0; i < aLen; i++) {
-      a[i] = Integer.parseInt(st.nextToken());
+      a[i] = scanner.nextInt();
     }
 
     int[] b = new int[bLen];
-    st = new StringTokenizer(br.readLine());
     for (int i = 0; i < bLen; i++) {
-      b[i] = Integer.parseInt(st.nextToken());
+      b[i] = scanner.nextInt();
     }
 
     int[] solutionArr = getSolutionArr(a, b);
