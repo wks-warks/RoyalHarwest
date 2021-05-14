@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.io.OutputStreamWriter;
-import java.io.BufferedWriter;
 import java.io.IOException;
 import java.util.StringTokenizer;
 import java.util.Arrays;
@@ -10,7 +9,7 @@ import java.util.Arrays;
 public class Main {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    PrintWriter pw = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
+    PrintWriter pw = new PrintWriter(new OutputStreamWriter(System.out));
     StringTokenizer st = new StringTokenizer(br.readLine());
     int aLen = Integer.parseInt(st.nextToken());
     int bLen = Integer.parseInt(st.nextToken());
@@ -28,9 +27,12 @@ public class Main {
     }
 
     int[] solutionArr = getSolutionArr(a, b);
+    StringBuilder sb = new StringBuilder();
     for (var num : solutionArr) {
+      // sb.append(num + " ");
       pw.print(num + " ");
     }
+    // pw.println(sb.toString());
     pw.close();
   }
 
