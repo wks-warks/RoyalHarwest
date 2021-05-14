@@ -15,7 +15,7 @@ public class Main {
     int aLen = Integer.parseInt(st.nextToken());
     int bLen = Integer.parseInt(st.nextToken());
 
-    int[] a = new int[aLen];
+    Integer[] a = new Integer[aLen];
     st = new StringTokenizer(br.readLine());
     for (int i = 0; i < aLen; i++) {
       a[i] = Integer.parseInt(st.nextToken());
@@ -34,8 +34,8 @@ public class Main {
     pw.close();
   }
 
-  static int[] getSolutionArr(int[] a, int[] b) {
-    Sorter.sort(a);
+  static int[] getSolutionArr(Integer[] a, int[] b) {
+    Arrays.sort(a);
     int[] solutionArr = new int[b.length];
     
     for (int i = 0; i < solutionArr.length; i++) {
@@ -44,7 +44,7 @@ public class Main {
     return solutionArr;
   }
 
-  static int getValue(int[] a, int bi) {
+  static int getValue(Integer[] a, int bi) {
     int left = 0;
     int right = a.length-1;
     int ans = 0;
@@ -59,17 +59,5 @@ public class Main {
       }
     }
     return ans;
-  }
-}
-
-class Sorter {
-  static void sort(int[] arr) {
-    for (int i = 0; i < arr.length; i++) {
-      int r = i + (int) (Math.random() * (arr.length - i));
-      int temp = arr[i];
-      arr[i] = arr[r];
-      arr[r] = temp;
-    }
-    Arrays.sort(arr);
   }
 }
