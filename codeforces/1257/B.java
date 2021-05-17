@@ -19,7 +19,7 @@ public class Main implements Runnable {
 
       boolean obtainable = isObtainable(currentNumber, desiredNumber);
       // sb.append(obtainable ? "Yes\n" : "No\n");
-      out.println(obtainable ? "Yes" : "No");
+      out.print(obtainable ? "Yes\n" : "No\n");
     }
     
     // out.print(sb.toString());
