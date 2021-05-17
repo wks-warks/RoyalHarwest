@@ -18,11 +18,10 @@ public class Main implements Runnable {
       int desiredNumber = in.nextInt();
 
       boolean obtainable = isObtainable(currentNumber, desiredNumber);
-      // sb.append(obtainable ? "Yes\n" : "No\n");
-      out.print(obtainable ? "Yes\n" : "No\n");
+      sb.append(obtainable ? "Yes\n" : "No\n");
     }
     
-    // out.print(sb.toString());
+    out.print(sb.toString());
     in.close();
     out.close();
   }
