@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF116879852": {
+    "contest_id": 258,
+    "language": "Java 11",
+    "path": "codeforces/258/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Elephant and Bits",
+    "problem_url": "https://codeforces.com/contest/258/problem/A",
+    "submission_id": "CF116879852",
+    "submission_url": "https://codeforces.com/contest/258/submission/116879852",
+    "tags": [
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/21/2021 10:48"
+  },
   "CF116988812": {
     "contest_id": 1097,
     "language": "Java 11",
