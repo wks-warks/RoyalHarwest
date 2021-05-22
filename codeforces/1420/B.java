@@ -12,7 +12,6 @@ public class Main implements Runnable {
   }
 
   public void run() {
-    StringBuilder sb = new StringBuilder();
     int testCaseCount = in.nextInt();
     for (int testCase = 1; testCase <= testCaseCount; testCase++) {
       int arrayLength = in.nextInt();
@@ -23,10 +22,9 @@ public class Main implements Runnable {
       }
 
       long answer = getAnswer(array);
-      sb.append(answer + "\n");
+      out.print(answer + "\n");
     }
 
-    out.print(sb.toString());
     in.close();
     out.close();
   }
