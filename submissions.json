@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF117123083": {
+    "contest_id": 483,
+    "language": "Java 11",
+    "path": "codeforces/483/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Counterexample ",
+    "problem_url": "https://codeforces.com/contest/483/problem/A",
+    "submission_id": "CF117123083",
+    "submission_url": "https://codeforces.com/contest/483/submission/117123083",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "May/24/2021 02:02"
+  },
   "CF117308268": {
     "contest_id": 1165,
     "language": "Java 11",
