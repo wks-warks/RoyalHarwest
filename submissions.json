@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF118078507": {
+    "contest_id": 404,
+    "language": "Java 11",
+    "path": "codeforces/404/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Valera and X",
+    "problem_url": "https://codeforces.com/contest/404/problem/A",
+    "submission_id": "CF118078507",
+    "submission_url": "https://codeforces.com/contest/404/submission/118078507",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/01/2021 16:01"
+  },
   "CF118133171": {
     "contest_id": 1520,
     "language": "Java 11",
