@@ -3363,6 +3363,24 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF118133752": {
+    "contest_id": 1520,
+    "language": "Java 11",
+    "path": "codeforces/1520/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ordinary Numbers",
+    "problem_url": "https://codeforces.com/contest/1520/problem/B",
+    "submission_id": "CF118133752",
+    "submission_url": "https://codeforces.com/contest/1520/submission/118133752",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jun/02/2021 00:52"
+  },
   "CF118223977": {
     "contest_id": 1288,
     "language": "Java 11",
