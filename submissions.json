@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF118223977": {
+    "contest_id": 1288,
+    "language": "Java 11",
+    "path": "codeforces/1288/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Deadline",
+    "problem_url": "https://codeforces.com/contest/1288/problem/A",
+    "submission_id": "CF118223977",
+    "submission_url": "https://codeforces.com/contest/1288/submission/118223977",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "ternary search",
+      "*1100"
+    ],
+    "timestamp": "Jun/03/2021 00:29"
+  },
   "CF118331815": {
     "contest_id": 1519,
     "language": "Java 11",
