@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF118332146": {
+    "contest_id": 1519,
+    "language": "Java 11",
+    "path": "codeforces/1519/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Red and Blue Beans",
+    "problem_url": "https://codeforces.com/contest/1519/problem/A",
+    "submission_id": "CF118332146",
+    "submission_url": "https://codeforces.com/contest/1519/submission/118332146",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/04/2021 11:42"
+  },
   "CF118466587": {
     "contest_id": 1529,
     "language": "Java 11",
