@@ -21,59 +21,38 @@ public class Main implements Runnable {
                                 ), 1<<25).start();
   }
 
-  static String first, second;
   public void run() {
     int tests = in.nextInt();
     for (int t = 0; t < tests; t++) {
-      first = in.next();
-      second = in.next();
+      String first = in.next();
+      String second = in.next();
 
-      int deletions = countDeletions();
-      out.println(deletions);
+      int toDelete = getBruteAnswer(first, second);
+      out.println(toDelete);
     }
 
     in.close();
     out.close();
   }
 
-  static int countDeletions() {
-    return first.length() + second.length() - (getLongestCommon() << 1);
-  }
+  static int getBruteAnswer(String first, String second) {
+    int bruteAnswer = first.length() + second.length();
 
-  static List<List<Integer>> memo;
-  static int getLongestCommon() {
-    int len1 = first.length();
-    int len2 = second.length();
-
-    memo = new ArrayList<List<Integer>>(len1);
-    for (int i = 0; i < len1; i++) {
-      memo.add(new ArrayList<Integer>(Collections.nCopies(len2, null)));
-    }
-
-    int commonLen = 0;
-    for (int i = 0; i < len1; i++) {
-      for (int j = 0; j < len2; j++) {
-        commonLen = Math.max(commonLen, getCommonLen(i, j));
+    for (int i = 0; i < first.length(); i++) {
+      for (int j = 0; j < second.length(); j++) {
+        int tempCommon = 0;
+        int m = i;
+        int n = j;
+        while (m < first.length() && n < second.length() && first.charAt(m) == second.charAt(n)) {
+          m++;
+          n++;
+          tempCommon++;
+        }
+        int tempAnswer = first.length() + second.length() - (tempCommon<<1);
+        bruteAnswer = Math.min(bruteAnswer, tempAnswer);
       }
     }
-    return commonLen;
-  }
-
-  static int getCommonLen(int i, int j) {
-    if (i == first.length() || j == second.length()) {
-      return 0;
-    }
-    if (memo.get(i).get(j) != null) {
-      return memo.get(i).get(j);
-    }
-
-    if (first.charAt(i) == (second.charAt(j))) {
-      memo.get(i).set(j, 1 + getCommonLen(i+1, j+1));
-    } else {
-      memo.get(i).set(j, 0);
-    }
-
-    return memo.get(i).get(j);
+    return bruteAnswer;
   }
 
   static PrintWriter Output() {
