@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF118730728": {
+    "contest_id": 1515,
+    "language": "Java 11",
+    "path": "codeforces/1515/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Phoenix and Puzzle",
+    "problem_url": "https://codeforces.com/contest/1515/problem/B",
+    "submission_id": "CF118730728",
+    "submission_url": "https://codeforces.com/contest/1515/submission/118730728",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Jun/07/2021 19:46"
+  },
   "CF118754640": {
     "contest_id": 224,
     "language": "Java 11",
