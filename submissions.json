@@ -3363,6 +3363,25 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF118779186": {
+    "contest_id": 1369,
+    "language": "Java 11",
+    "path": "codeforces/1369/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "RationalLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/C",
+    "submission_id": "CF118779186",
+    "submission_url": "https://codeforces.com/contest/1369/submission/118779186",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jun/08/2021 12:44"
+  },
   "CF118857625": {
     "contest_id": 1443,
     "language": "Java 11",
