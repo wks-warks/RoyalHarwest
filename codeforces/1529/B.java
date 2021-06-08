@@ -40,7 +40,7 @@ public class Main implements Runnable {
   }
 
   static int getLongestStrange(int[] arr) {
-    SorterB.sort(arr);
+    SorterA.sort(arr);
 
     int longestStrange = 1;
     int minDifference = Integer.MAX_VALUE;
