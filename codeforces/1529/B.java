@@ -40,7 +40,7 @@ public class Main implements Runnable {
   }
 
   static int getLongestStrange(int[] arr) {
-    SorterA.sort(arr);
+    SorterB.sort(arr);
 
     int longestStrange = 1;
     int minDifference = Integer.MAX_VALUE;
@@ -87,17 +87,17 @@ class SorterA {
 }
 
 
-// class SorterB {
-//   static void sort(int[] arr) {
-    // for (int i = 0; i < arr.length; i++) {
-    //   int r = i + (int) (Math.random() * (arr.length - i));
-    //   int temp = arr[i];
-    //   arr[i] = arr[r];
-    //   arr[r] = temp;
-    // }
-    // Arrays.sort(arr);
-//   }
-// }
+class SorterB {
+  static void sort(int[] arr) {
+    for (int i = 0; i < arr.length; i++) {
+      int r = i + (int) (Math.random() * (arr.length - i));
+      int temp = arr[i];
+      arr[i] = arr[r];
+      arr[r] = temp;
+    }
+    Arrays.sort(arr);
+  }
+}
 
 class Input {
   BufferedReader br;
