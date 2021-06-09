@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF118857625": {
+    "contest_id": 1443,
+    "language": "Java 11",
+    "path": "codeforces/1443/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kids Seating",
+    "problem_url": "https://codeforces.com/contest/1443/problem/A",
+    "submission_id": "CF118857625",
+    "submission_url": "https://codeforces.com/contest/1443/submission/118857625",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/09/2021 11:57"
+  },
   "CF118912546": {
     "contest_id": 1375,
     "language": "Java 11",
