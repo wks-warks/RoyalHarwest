@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF118913924": {
+    "contest_id": 165,
+    "language": "Java 11",
+    "path": "codeforces/165/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Supercentral Point",
+    "problem_url": "https://codeforces.com/contest/165/problem/A",
+    "submission_id": "CF118913924",
+    "submission_url": "https://codeforces.com/contest/165/submission/118913924",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jun/10/2021 00:28"
+  },
   "CF118927258": {
     "contest_id": 1136,
     "language": "Java 11",
