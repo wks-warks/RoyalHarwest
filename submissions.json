@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF118928639": {
+    "contest_id": 1351,
+    "language": "Java 11",
+    "path": "codeforces/1351/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A+B (Trial Problem)",
+    "problem_url": "https://codeforces.com/contest/1351/problem/A",
+    "submission_id": "CF118928639",
+    "submission_url": "https://codeforces.com/contest/1351/submission/118928639",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/10/2021 09:35"
+  },
   "CF119114473": {
     "contest_id": 139,
     "language": "Java 11",
