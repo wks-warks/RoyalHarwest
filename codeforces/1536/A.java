@@ -32,7 +32,7 @@ public class Main implements Runnable {
         arr[i] = in.nextInt();
       }
 
-      List<Integer> goodList = getGoodListFast(arr);
+      List<Integer> goodList = getAltGoodList(arr);
       if (goodList == null) {
         out.println("No");
       } else {
@@ -47,21 +47,6 @@ public class Main implements Runnable {
     }
     in.close();
     out.close();
-  }
-
-  static List<Integer> getGoodListFast(int[] arr) {
-    for (var num : arr) {
-      if (num < 0) {
-        return null;
-      }
-    }
-    
-    List<Integer> goodList = new ArrayList<Integer>(101);
-    for (int i = 0; i <= 100; i++) {
-      goodList.add(i);
-    }
-
-    return goodList;
   }
 
   static List<Integer> getAltGoodList(int[] arr) {
