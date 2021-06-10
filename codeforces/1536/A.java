@@ -32,7 +32,7 @@ public class Main implements Runnable {
         arr[i] = in.nextInt();
       }
 
-      List<Integer> goodList = getAltGoodList(arr);
+      List<Integer> goodList = getGoodList(arr);
       if (goodList == null) {
         out.println("No");
       } else {
@@ -47,42 +47,6 @@ public class Main implements Runnable {
     }
     in.close();
     out.close();
-  }
-
-  static List<Integer> getAltGoodList(int[] arr) {
-    elements = new HashSet<Integer>();
-    List<Integer> list = new ArrayList<Integer>();
-    for (var num : arr) {
-      if (num < 0) {
-        return null;
-      }
-
-      list.add(num);
-      elements.add(num);
-    }
-
-    int max = arr[0];
-    int min = arr[0];
-    int g = arr[0];
-    for (var num : arr) {
-      g = gcd(g, num);
-      min = Math.min(min, num);
-      max = Math.max(max, num);
-    }
-
-    for (int val = g; val < max; val += g) {
-      if (!elements.contains(val)) {
-        list.add(val);
-      }
-    }
-    return list;
-  }
-
-  static int gcd(int num1, int num2) {
-    if (num1 == 0) {
-      return num2;
-    }
-    return gcd(num2 % num1, num1);
   }
 
 
