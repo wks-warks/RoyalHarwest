@@ -3363,6 +3363,22 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF119182238": {
+    "contest_id": 1213,
+    "language": "Java 11",
+    "path": "codeforces/1213/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Book Reading",
+    "problem_url": "https://codeforces.com/contest/1213/problem/C",
+    "submission_id": "CF119182238",
+    "submission_url": "https://codeforces.com/contest/1213/submission/119182238",
+    "tags": [
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/11/2021 22:22"
+  },
   "CF119182931": {
     "contest_id": 1459,
     "language": "Java 11",
