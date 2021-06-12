@@ -24,90 +24,11 @@ public class Main implements Runnable {
 
   public void run() {
     long lcmValue = in.nextLong();
-    // long minMaxValue = getMinMaxVal(lcmValue);
-    // out.println(minMaxValue + " " + (lcmValue / minMaxValue));
+    long minMaxValue = getMinMaxVal(lcmValue);
 
-    printAnswer(lcmValue);
+    out.println(minMaxValue + " " + (lcmValue / minMaxValue));
     in.close();
     out.close();
-  }
-
-  static void printAnswer(long lcmValue) {
-    List<Long> primes = new ArrayList<Long>();
-    int upto = (int) Math.sqrt(lcmValue) + 1;
-    boolean[] isComposite = new boolean[upto];
-    for (int i = 2; i < upto; i++) {
-      if (isComposite[i]) {
-        continue;
-      }
-      primes.add((long) i);
-      for (long j = (long) i*i; j < upto; j += i) {
-        isComposite[(int) j] = true;
-      }
-    }
-
-    List<Long> factorList = new ArrayList<Long>();
-    Map<Long, Integer> primeFactors = new HashMap<Long, Integer>();
-    for (var prime : primes) {
-      while (lcmValue % prime == 0) {
-        lcmValue /= prime;
-        if (primeFactors.containsKey(prime)) {
-          primeFactors.put(prime, primeFactors.get(prime) + 1);
-        } else {
-          primeFactors.put(prime, 1);
-          factorList.add(prime);
-        }
-      }
-    }
-
-    if (lcmValue > 1) {
-      factorList.add(lcmValue);
-      primeFactors.put(lcmValue, 1);
-    }
-
-    long[] optimumPair = new long[] {Long.MAX_VALUE, Long.MAX_VALUE};
-    setOptimumPair(0, factorList, primeFactors, optimumPair);
-    out.println(optimumPair[0] + " " + optimumPair[1]);
-  }
-
-  static void setOptimumPair(int mask, List<Long> factorList, Map<Long, Integer> primeFactors, long[] optimumPair) {
-    if (mask == 1<<factorList.size()) {
-      return;
-    }
-
-    long firstNum = 1;
-    long secondNum = 1;
-
-    int bit = 1;
-    for (int i = 0; i < factorList.size(); i++) {
-      if ((bit & mask) > 0) {
-        firstNum *= binExp(factorList.get(i), primeFactors.get(factorList.get(i)));
-      } else {
-        secondNum *= binExp(factorList.get(i), primeFactors.get(factorList.get(i)));
-      }
-
-      bit <<= 1;
-    }
-
-    if (Math.max(firstNum, secondNum) < Math.max(optimumPair[0], optimumPair[1])) {
-      optimumPair[0] = firstNum;
-      optimumPair[1] = secondNum;
-    }
-    setOptimumPair(mask+1, factorList, primeFactors, optimumPair);
-  }
-
-  static long binExp(long base, long pow) {
-    long res = 1;
-    long mul = base;
-
-    while (pow > 0) {
-      if ((pow & 1) == 1) {
-        res *= mul;
-      }
-      mul *= mul;
-      pow >>= 1;
-    }
-    return res;
   }
 
   static long getMinMaxVal(long lcmValue) {
