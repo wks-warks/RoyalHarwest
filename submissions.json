@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF119402298": {
+    "contest_id": 1139,
+    "language": "Java 11",
+    "path": "codeforces/1139/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Even Substrings",
+    "problem_url": "https://codeforces.com/contest/1139/problem/A",
+    "submission_id": "CF119402298",
+    "submission_url": "https://codeforces.com/contest/1139/submission/119402298",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2021 01:54"
+  },
   "CF119488266": {
     "contest_id": 199,
     "language": "Java 11",
