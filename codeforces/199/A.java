@@ -24,14 +24,10 @@ public class Main implements Runnable {
 
   public void run() {
     int fib = in.nextInt();
-    printAnswerTutorial(fib);
-    
+    printAnswer(fib);
+
     in.close();
     out.close();
-  }
-
-  static void printAnswerTutorial(int fib) {
-    out.println("0 0 " + fib);
   }
 
   static void printAnswer(int fib) {
