@@ -3363,6 +3363,23 @@
     ],
     "timestamp": "Dec/01/2020 14:52"
   },
+  "CF119662926": {
+    "contest_id": 1199,
+    "language": "Java 11",
+    "path": "codeforces/1199/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Water Lily",
+    "problem_url": "https://codeforces.com/contest/1199/problem/B",
+    "submission_id": "CF119662926",
+    "submission_url": "https://codeforces.com/contest/1199/submission/119662926",
+    "tags": [
+      "geometry",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/17/2021 00:28"
+  },
   "CF119718399": {
     "contest_id": 462,
     "language": "Java 11",
