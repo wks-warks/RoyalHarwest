@@ -1,4 +1,23 @@
 {
+  "CF119779668": {
+    "contest_id": 1538,
+    "language": "Java 11",
+    "path": "codeforces/1538/G.java",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Gift Set",
+    "problem_url": "https://codeforces.com/contest/1538/problem/G",
+    "submission_id": "CF119779668",
+    "submission_url": "https://codeforces.com/contest/1538/submission/119779668",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "ternary search",
+      "*2100"
+    ],
+    "timestamp": "Jun/18/2021 15:22"
+  },
   "CF119805181": {
     "contest_id": 1537,
     "language": "Java 11",
