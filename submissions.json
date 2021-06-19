@@ -1,4 +1,22 @@
 {
+  "CF120029776": {
+    "contest_id": 1195,
+    "language": "Java 11",
+    "path": "codeforces/1195/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sport Mafia",
+    "problem_url": "https://codeforces.com/contest/1195/problem/B",
+    "submission_id": "CF120029776",
+    "submission_url": "https://codeforces.com/contest/1195/submission/120029776",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/20/2021 03:24"
+  },
   "CF120161972": {
     "contest_id": 1005,
     "language": "Java 11",
