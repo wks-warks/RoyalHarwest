@@ -1,4 +1,20 @@
 {
+  "CF120518569": {
+    "contest_id": 1532,
+    "language": "Kotlin 1.4",
+    "path": "codeforces/1532/C.kt",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Uniform String",
+    "problem_url": "https://codeforces.com/contest/1532/problem/C",
+    "submission_id": "CF120518569",
+    "submission_url": "https://codeforces.com/contest/1532/submission/120518569",
+    "tags": [
+      "*special problem",
+      "implementation"
+    ],
+    "timestamp": "Jun/25/2021 17:19"
+  },
   "CF120673401": {
     "contest_id": 1279,
     "language": "Java 11",
