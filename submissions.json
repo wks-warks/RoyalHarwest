@@ -1,4 +1,20 @@
 {
+  "CF120505304": {
+    "contest_id": 377,
+    "language": "Java 11",
+    "path": "codeforces/377/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maze",
+    "problem_url": "https://codeforces.com/contest/377/problem/A",
+    "submission_id": "CF120505304",
+    "submission_url": "https://codeforces.com/contest/377/submission/120505304",
+    "tags": [
+      "dfs and similar",
+      "*1600"
+    ],
+    "timestamp": "Jun/25/2021 14:11"
+  },
   "CF120515483": {
     "contest_id": 217,
     "language": "Java 11",
