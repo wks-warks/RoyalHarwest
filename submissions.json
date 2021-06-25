@@ -1,4 +1,23 @@
 {
+  "CF120515483": {
+    "contest_id": 217,
+    "language": "Java 11",
+    "path": "codeforces/217/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ice Skating",
+    "problem_url": "https://codeforces.com/contest/217/problem/A",
+    "submission_id": "CF120515483",
+    "submission_url": "https://codeforces.com/contest/217/submission/120515483",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1200"
+    ],
+    "timestamp": "Jun/25/2021 16:34"
+  },
   "CF120517163": {
     "contest_id": 1532,
     "language": "Kotlin 1.4",
