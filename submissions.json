@@ -1,4 +1,20 @@
 {
+  "CF120688441": {
+    "contest_id": 1532,
+    "language": "Kotlin 1.4",
+    "path": "codeforces/1532/D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Teams Forming",
+    "problem_url": "https://codeforces.com/contest/1532/problem/D",
+    "submission_id": "CF120688441",
+    "submission_url": "https://codeforces.com/contest/1532/submission/120688441",
+    "tags": [
+      "*special problem",
+      "sortings"
+    ],
+    "timestamp": "Jun/26/2021 23:08"
+  },
   "CF120691935": {
     "contest_id": 1173,
     "language": "Java 11",
