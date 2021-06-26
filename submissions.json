@@ -1,4 +1,20 @@
 {
+  "CF120673401": {
+    "contest_id": 1279,
+    "language": "Java 11",
+    "path": "codeforces/1279/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Garland",
+    "problem_url": "https://codeforces.com/contest/1279/problem/A",
+    "submission_id": "CF120673401",
+    "submission_url": "https://codeforces.com/contest/1279/submission/120673401",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/26/2021 18:57"
+  },
   "CF120688441": {
     "contest_id": 1532,
     "language": "Kotlin 1.4",
