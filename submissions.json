@@ -1,4 +1,21 @@
 {
+  "CF120888283": {
+    "contest_id": 1437,
+    "language": "Java 11",
+    "path": "codeforces/1437/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Reverse Binary Strings",
+    "problem_url": "https://codeforces.com/contest/1437/problem/B",
+    "submission_id": "CF120888283",
+    "submission_url": "https://codeforces.com/contest/1437/submission/120888283",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Jun/29/2021 20:45"
+  },
   "CF120890711": {
     "contest_id": 1020,
     "language": "Java 11",
