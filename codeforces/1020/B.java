@@ -31,7 +31,7 @@ public class Main implements Runnable {
 
     int[] caughtArr = getCaughtArr(studentCount, pointsAt);
     for (var student : caughtArr) {
-      out.print(student + 1 + " ");
+      out.print(student + " ");
     }
     in.close();
     out.close();
@@ -39,20 +39,36 @@ public class Main implements Runnable {
 
   static int[] getCaughtArr(int studentCount, int[] pointsAt) {
     int[] caughtArr = new int[studentCount];
+    boolean[] considered = new boolean[studentCount];
+
     for (int s = 0; s < studentCount; s++) {
-      caughtArr[s] = getCaught(studentCount, s, pointsAt);
+      setCaught(caughtArr, s, pointsAt, considered);
     }
     return caughtArr;
   }
 
-  static int getCaught(int studentCount, int s, int[] pointsAt) {
-    int[] visited = new int[studentCount];
-    int at = s;
-    while (visited[at] != 1) {
-      visited[at]++;
-      at = pointsAt[at];
+  static int setCaught(int[] caughtArr, int s, int[] pointsAt, boolean[] considered) {
+    if (caughtArr[s] != 0) {
+      return -1;
     }
-    return at;
+
+    if (considered[s]) {
+      caughtArr[s] = s+1;
+      return s;
+    }
+
+    considered[s] = true;
+    int nextSet = setCaught(caughtArr, pointsAt[s], pointsAt, considered);
+    if (nextSet != -1) {
+      caughtArr[s] = s+1;
+
+      if (s == nextSet) {
+        return -1;
+      }
+    } else {
+      caughtArr[s] = caughtArr[pointsAt[s]];
+    }
+    return nextSet;
   }
 
   static PrintWriter Output() {
