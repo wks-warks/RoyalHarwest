@@ -33,40 +33,23 @@ public class Main implements Runnable {
     out.close();
   }
 
-  // static int computeMovesRequired(String s) {
-  //   int zeroPairs = 0;
-  //   int onePairs = 0;
-  //   char prev = '-';
-
-  //   for (var ch : s.toCharArray()) {
-  //     if (prev == ch) {
-  //       if (ch == '1') {
-  //         onePairs++;
-  //       } else {
-  //         zeroPairs++;
-  //       }
-  //     }
-  //     prev = ch;
-  //   }
-
-  //   return Math.max(onePairs, zeroPairs);
-  // }
-
-  static int calls = 0;
   static int computeMovesRequired(String s) {
-    return Math.min(computeMovesRequiredIf('0'  + s + '1'), computeMovesRequiredIf('1' + s + '0'));
-  }
-
-  static int computeMovesRequiredIf(String s) {
+    int zeroPairs = 0;
+    int onePairs = 0;
     char prev = '-';
-    int pairs = 0;
+
     for (var ch : s.toCharArray()) {
-      if (ch == prev) {
-        pairs++;
+      if (prev == ch) {
+        if (ch == '1') {
+          onePairs++;
+        } else {
+          zeroPairs++;
+        }
       }
       prev = ch;
     }
-    return pairs>>1;
+
+    return Math.max(onePairs, zeroPairs);
   }
 
   static PrintWriter Output() {
