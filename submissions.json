@@ -1,4 +1,20 @@
 {
+  "CF120975023": {
+    "contest_id": 227,
+    "language": "Java 11",
+    "path": "codeforces/227/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Effective Approach",
+    "problem_url": "https://codeforces.com/contest/227/problem/B",
+    "submission_id": "CF120975023",
+    "submission_url": "https://codeforces.com/contest/227/submission/120975023",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/30/2021 23:54"
+  },
   "CF120975271": {
     "contest_id": 1221,
     "language": "Java 11",
