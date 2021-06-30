@@ -1,4 +1,21 @@
 {
+  "CF120975271": {
+    "contest_id": 1221,
+    "language": "Java 11",
+    "path": "codeforces/1221/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Perfect Team",
+    "problem_url": "https://codeforces.com/contest/1221/problem/C",
+    "submission_id": "CF120975271",
+    "submission_url": "https://codeforces.com/contest/1221/submission/120975271",
+    "tags": [
+      "binary search",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/30/2021 23:58"
+  },
   "CF120975839": {
     "contest_id": 1077,
     "language": "Java 11",
