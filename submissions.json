@@ -1,4 +1,20 @@
 {
+  "CF120975839": {
+    "contest_id": 1077,
+    "language": "Java 11",
+    "path": "codeforces/1077/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Disturbed People",
+    "problem_url": "https://codeforces.com/contest/1077/problem/B",
+    "submission_id": "CF120975839",
+    "submission_url": "https://codeforces.com/contest/1077/submission/120975839",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jul/01/2021 00:08"
+  },
   "CF121090813": {
     "contest_id": 1526,
     "language": "Java 11",
