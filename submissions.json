@@ -1,4 +1,23 @@
 {
+  "CF121131005": {
+    "contest_id": 1526,
+    "language": "Java 11",
+    "path": "codeforces/1526/C1.java",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Potions (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1526/problem/C1",
+    "submission_id": "CF121131005",
+    "submission_url": "https://codeforces.com/contest/1526/submission/121131005",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Jul/02/2021 22:26"
+  },
   "CF121131959": {
     "contest_id": 1526,
     "language": "Java 11",
