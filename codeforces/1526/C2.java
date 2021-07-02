@@ -36,20 +36,46 @@ public class Main implements Runnable {
   }
 
   static int getMaxPotions(int potions, int[] boosts) {
-    PriorityQueue<Integer> chosen = new PriorityQueue<Integer>();
-    long chosenSum = 0;
+    SortedMap<Integer, Integer> chosen = new TreeMap<Integer, Integer>();
+    long bufferSum = 0;
 
     for (var boost : boosts) {
-      if (chosenSum + boost >= 0) {
-        chosenSum += boost;
-        chosen.add(boost);
-      } else if (chosen.size() > 0 && chosen.peek() < boost) {
-        chosenSum += boost - chosen.poll();
-        chosen.add(boost);
+      if (bufferSum + boost >= 0) {
+        bufferSum += boost;
+        increment(chosen, boost);
+      } else if (chosen.size() > 0 && boost > chosen.firstKey()) {
+        bufferSum += replace(chosen, boost);
       }
     }
+    
+    int maxPotions = 0;
+    for (var value : chosen.values()) {
+      maxPotions += value;
+    }
+    return maxPotions;
+  }
 
-    return chosen.size();    
+  static void increment(SortedMap<Integer, Integer> chosen, int value) {
+    if (chosen.containsKey(value)) {
+      chosen.put(value, chosen.get(value) + 1);
+    } else {
+      chosen.put(value, 1);
+    }
+  }
+
+  static void decrement(SortedMap<Integer, Integer> chosen, int value) {
+    if (chosen.get(value) == 1) {
+      chosen.remove(value);
+    } else {
+      chosen.put(value, chosen.get(value) - 1);
+    }
+  }
+  
+  static int replace(SortedMap<Integer, Integer> chosen, int value) {
+    int prevMin = chosen.firstKey();
+    decrement(chosen, prevMin);
+    increment(chosen, value);
+    return value - prevMin;
   }
 
   static PrintWriter Output() {
