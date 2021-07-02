@@ -27,32 +27,25 @@ public class Main implements Runnable {
     for (int t = 0; t < tests; t++) {
       int num = in.nextInt();
       boolean isRepresentable = checkRepresentable(num);
-      out.println(isRepresentable ? "yES" : "no");
+      out.println(isRepresentable ? "yEs" : "nO");
     }
 
     in.close();
     out.close();
   }
 
-  static Map<Integer, Boolean> memo = new HashMap<Integer, Boolean>();
   static boolean checkRepresentable(int num) {
-    if (num >= 1_110) {
+    if (num >= 1_111) {
       return true;
     }
-    if (num < 11) {
-      return false;
+    int mul = 0;
+    while (111 * mul <= num) {
+      if ((num - (111 * mul)) % 11 == 0) {
+        return true;
+      }
+      mul++;
     }
-    if (memo.containsKey(num)) {
-      return memo.get(num);
-    }
-    if (num % 11 == 0 || num % 111 == 0) {
-      memo.put(num, true);
-      return true;
-    }
-
-    boolean isRepresentable = checkRepresentable(num - 11) || checkRepresentable(num - 111);
-    memo.put(num, isRepresentable);
-    return isRepresentable;
+    return false;
   }
 
   static PrintWriter Output() {
