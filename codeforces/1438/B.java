@@ -1,18 +1,38 @@
+import java.io.DataInputStream;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Scanner;
+import java.util.StringTokenizer;
+import java.util.Set;
+import java.util.HashSet;
+import java.io.BufferedWriter;
+import java.io.PrintWriter;
+import java.io.OutputStreamWriter;
+
 public class Main {
     static class Reader {
         final private int BUFFER_SIZE = 1 << 16;
-        private java.io.DataInputStream din;
+        private DataInputStream din;
         private byte[] buffer;
         private int bufferPointer, bytesRead;
  
         public Reader()
         {
-            din = new java.io.DataInputStream(System.in);
+            din = new DataInputStream(System.in);
             buffer = new byte[BUFFER_SIZE];
             bufferPointer = bytesRead = 0;
         }
  
-        public String readLine() throws java.io.IOException
+        public Reader(String file_name) throws IOException
+        {
+            din = new DataInputStream(
+                new FileInputStream(file_name));
+            buffer = new byte[BUFFER_SIZE];
+            bufferPointer = bytesRead = 0;
+        }
+ 
+        public String readLine() throws IOException
         {
             byte[] buf = new byte[64]; // line length
             int cnt = 0, c;
@@ -30,7 +50,7 @@ public class Main {
             return new String(buf, 0, cnt);
         }
  
-        public int nextInt() throws java.io.IOException
+        public int nextInt() throws IOException
         {
             int ret = 0;
             byte c = read();
@@ -49,7 +69,7 @@ public class Main {
             return ret;
         }
  
-        public long nextLong() throws java.io.IOException
+        public long nextLong() throws IOException
         {
             long ret = 0;
             byte c = read();
@@ -66,7 +86,7 @@ public class Main {
             return ret;
         }
  
-        public double nextDouble() throws java.io.IOException
+        public double nextDouble() throws IOException
         {
             double ret = 0, div = 1;
             byte c = read();
@@ -91,7 +111,7 @@ public class Main {
             return ret;
         }
  
-        private void fillBuffer() throws java.io.IOException
+        private void fillBuffer() throws IOException
         {
             bytesRead = din.read(buffer, bufferPointer = 0,
                                  BUFFER_SIZE);
@@ -99,14 +119,14 @@ public class Main {
                 buffer[0] = -1;
         }
  
-        private byte read() throws java.io.IOException
+        private byte read() throws IOException
         {
             if (bufferPointer == bytesRead)
                 fillBuffer();
             return buffer[bufferPointer++];
         }
  
-        public void close() throws java.io.IOException
+        public void close() throws IOException
         {
             if (din == null)
                 return;
@@ -115,10 +135,10 @@ public class Main {
     }
  
     public static void main(String[] args)
-        throws java.io.IOException
+        throws IOException
     {
         Reader s = new Reader();
-        java.io.PrintWriter pw = new java.io.PrintWriter(new java.io.BufferedWriter(new java.io.OutputStreamWriter(System.out)));
+        PrintWriter pw = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
         int tests = s.nextInt();
         for (int t = 0; t < tests; t++)
         {
@@ -136,7 +156,7 @@ public class Main {
 
     static boolean checkPossible(int[] b)
     {
-      java.util.Set<Integer> seen = new java.util.HashSet<Integer>();
+      Set<Integer> seen = new HashSet<Integer>();
       for (var value : b)
       {
         if (seen.contains(value))
