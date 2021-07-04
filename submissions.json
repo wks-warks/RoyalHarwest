@@ -1,4 +1,20 @@
 {
+  "AC23969435": {
+    "contest_id": "abc208",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc208/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Fair Candy Distribution",
+    "problem_url": "https://atcoder.jp/contests/abc208/tasks/abc208_c",
+    "submission_id": "AC23969435",
+    "submission_url": "https://atcoder.jp/contests/abc208/submissions/23969435",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/04/2021 17:51"
+  },
   "AC23982041": {
     "contest_id": "abc208",
     "language": "Java (OpenJDK 11.0.6)",
