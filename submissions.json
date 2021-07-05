@@ -1,4 +1,20 @@
 {
+  "AC24010222": {
+    "contest_id": "abc044",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc044/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Digit Sum",
+    "problem_url": "https://atcoder.jp/contests/abc044/tasks/arc060_b",
+    "submission_id": "AC24010222",
+    "submission_url": "https://atcoder.jp/contests/abc044/submissions/24010222",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jul/05/2021 16:41"
+  },
   "AC24011586": {
     "contest_id": "abc056",
     "language": "Java (OpenJDK 11.0.6)",
