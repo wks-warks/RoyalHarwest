@@ -35,19 +35,45 @@ public class Main implements Runnable {
   }
 
   static int findMinSize(String s) {
-    Stack<Character> stack = new Stack<Character>();
+    DoublyLinkedList<Character> ll = new DoublyLinkedList<Character>();
     for (var ch : s.toCharArray()) {
-      if (ch == 'B') {
-        if (stack.size() > 0) {
-          stack.pop();
+      ll.add(ch);
+    }
+    removeA(ll);
+    removeB(ll);
+    return ll.size;
+  }
+
+  static void removeA(DoublyLinkedList<Character> ll) {
+    remove(ll, 'A', 'B');
+  }
+
+  static void removeB(DoublyLinkedList<Character> ll) {
+    remove(ll, 'B', 'B');
+  }
+
+  static void remove(DoublyLinkedList<Character> ll, char first, char second) {
+    Node<Character> pres = ll.end;
+    while (pres != null) {
+      if (pres.next != null) {
+        if (pres.value == first && pres.next.value == second) {
+          pres.next.remove(ll.start, ll.end);
+          if (pres.prev == null) {
+            ll.start = pres.next;
+          }
+          pres = pres.prev;
+          if (pres != null) {
+            pres.next.remove(ll.start, ll.end);
+          }
+
+          ll.size -= 2;
         } else {
-          stack.push(ch);
+          pres = pres.prev;
         }
       } else {
-        stack.push(ch);
+        pres = pres.prev;
       }
     }
-    return stack.size();
   }
 
   static PrintWriter Output() {
@@ -62,6 +88,51 @@ public class Main implements Runnable {
       ex.printStackTrace();
     }
     return pw;
+  }
+}
+
+class DoublyLinkedList<T> {
+  Node<T> start, end;
+  int size;
+  public DoublyLinkedList() {
+    start = null;
+    end = null;
+    size = 0;
+  }
+
+  public void add(T value) {
+    Node node = new Node<T>(value);
+    if (size == 0) {
+      start = end = node;
+    } else {
+      end.next = node;
+      end.next.prev = end;
+      end = end.next;
+    }
+    size++;
+  }
+}
+
+class Node<T> {
+  T value;
+  Node<T> next, prev;
+  public Node(T value) {
+    prev = null;
+    next = null;
+    this.value = value;
+  }
+  public void remove(Node<T> start, Node<T> end) {
+    if (this.prev != null) {
+      prev.next = this.next;
+    } else {
+      start = this.next;
+    }
+
+    if (this.next != null) {
+      next.prev = this.prev;
+    } else {
+      end = this.prev;
+    }
   }
 }
 
