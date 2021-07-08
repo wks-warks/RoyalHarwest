@@ -1,4 +1,21 @@
 {
+  "CF121758462": {
+    "contest_id": 1088,
+    "language": "Java 11",
+    "path": "codeforces/1088/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ehab and another construction problem",
+    "problem_url": "https://codeforces.com/contest/1088/problem/A",
+    "submission_id": "CF121758462",
+    "submission_url": "https://codeforces.com/contest/1088/submission/121758462",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Jul/09/2021 00:47"
+  },
   "CF121867650": {
     "contest_id": 1454,
     "language": "Java 11",
