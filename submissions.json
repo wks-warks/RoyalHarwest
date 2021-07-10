@@ -1,4 +1,21 @@
 {
+  "CF122014818": {
+    "contest_id": 918,
+    "language": "Java 11",
+    "path": "codeforces/918/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Eleven",
+    "problem_url": "https://codeforces.com/contest/918/problem/A",
+    "submission_id": "CF122014818",
+    "submission_url": "https://codeforces.com/contest/918/submission/122014818",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/11/2021 00:25"
+  },
   "CF122072325": {
     "contest_id": 1047,
     "language": "Java 11",
