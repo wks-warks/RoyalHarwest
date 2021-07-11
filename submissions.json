@@ -1,4 +1,20 @@
 {
+  "CF122152231": {
+    "contest_id": 38,
+    "language": "Java 11",
+    "path": "codeforces/38/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Army",
+    "problem_url": "https://codeforces.com/contest/38/problem/A",
+    "submission_id": "CF122152231",
+    "submission_url": "https://codeforces.com/contest/38/submission/122152231",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/12/2021 03:36"
+  },
   "CF122268932": {
     "contest_id": 334,
     "language": "Java 11",
