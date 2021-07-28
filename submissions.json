@@ -1,4 +1,21 @@
 {
+  "CF124059225": {
+    "contest_id": 294,
+    "language": "Java 11",
+    "path": "codeforces/294/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shaass and Oskols",
+    "problem_url": "https://codeforces.com/contest/294/problem/A",
+    "submission_id": "CF124059225",
+    "submission_url": "https://codeforces.com/contest/294/submission/124059225",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/29/2021 00:00"
+  },
   "CF124527335": {
     "contest_id": 1549,
     "language": "Java 11",

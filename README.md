@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-8 | [B - Mocha and Red and Blue](https://codeforces.com/contest/1559/problem/B) | [Java 11](./codeforces/1559/B.java) | `dp` `greedy` `*900` | Aug/16/2021 10:25 | 
-7 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [Java 11](./codeforces/1559/A.java) | `bitmasks` `constructive algorithms` `math` `*900` | Aug/16/2021 10:12 | 
-6 | [B - Moamen and k-subarrays](https://codeforces.com/contest/1557/problem/B) | [Java 11](./codeforces/1557/B.java) | `greedy` `sortings` `*1100` | Aug/09/2021 20:23 | 
-5 | [A - Ezzat and Two Subsequences](https://codeforces.com/contest/1557/problem/A) | [Java 11](./codeforces/1557/A.java) | `brute force` `math` `sortings` `*800` | Aug/09/2021 20:10 | 
-4 | [D - Integers Have Friends](https://codeforces.com/contest/1549/problem/D) | [Java 11](./codeforces/1549/D.java) | `binary search` `data structures` `math` `two pointers` `*1800` | Aug/05/2021 14:10 | 
-3 | [C - Web of Lies](https://codeforces.com/contest/1549/problem/C) | [Java 11](./codeforces/1549/C.java) | `graphs` `greedy` `*1400` | Aug/01/2021 20:46 | 
-2 | [B - Gregor and the Pawn Game](https://codeforces.com/contest/1549/problem/B) | [Java 11](./codeforces/1549/B.java) | `dfs and similar` `dp` `flows` `graph matchings` `graphs` `greedy` `implementation` `*800` | Aug/01/2021 20:28 | 
-1 | [A - Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) | [Java 11](./codeforces/1549/A.java) | `math` `number theory` `*800` | Aug/01/2021 20:13 | 
+9 | [B - Mocha and Red and Blue](https://codeforces.com/contest/1559/problem/B) | [Java 11](./codeforces/1559/B.java) | `dp` `greedy` `*900` | Aug/16/2021 10:25 | 
+8 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [Java 11](./codeforces/1559/A.java) | `bitmasks` `constructive algorithms` `math` `*900` | Aug/16/2021 10:12 | 
+7 | [B - Moamen and k-subarrays](https://codeforces.com/contest/1557/problem/B) | [Java 11](./codeforces/1557/B.java) | `greedy` `sortings` `*1100` | Aug/09/2021 20:23 | 
+6 | [A - Ezzat and Two Subsequences](https://codeforces.com/contest/1557/problem/A) | [Java 11](./codeforces/1557/A.java) | `brute force` `math` `sortings` `*800` | Aug/09/2021 20:10 | 
+5 | [D - Integers Have Friends](https://codeforces.com/contest/1549/problem/D) | [Java 11](./codeforces/1549/D.java) | `binary search` `data structures` `math` `two pointers` `*1800` | Aug/05/2021 14:10 | 
+4 | [C - Web of Lies](https://codeforces.com/contest/1549/problem/C) | [Java 11](./codeforces/1549/C.java) | `graphs` `greedy` `*1400` | Aug/01/2021 20:46 | 
+3 | [B - Gregor and the Pawn Game](https://codeforces.com/contest/1549/problem/B) | [Java 11](./codeforces/1549/B.java) | `dfs and similar` `dp` `flows` `graph matchings` `graphs` `greedy` `implementation` `*800` | Aug/01/2021 20:28 | 
+2 | [A - Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) | [Java 11](./codeforces/1549/A.java) | `math` `number theory` `*800` | Aug/01/2021 20:13 | 
+1 | [A - Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | [Java 11](./codeforces/294/A.java) | `implementation` `math` `*800` | Jul/29/2021 00:00 | 
