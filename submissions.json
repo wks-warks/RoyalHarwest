@@ -1,4 +1,21 @@
 {
+  "CF124527335": {
+    "contest_id": 1549,
+    "language": "Java 11",
+    "path": "codeforces/1549/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gregor and Cryptography",
+    "problem_url": "https://codeforces.com/contest/1549/problem/A",
+    "submission_id": "CF124527335",
+    "submission_url": "https://codeforces.com/contest/1549/submission/124527335",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Aug/01/2021 20:13"
+  },
   "CF124541852": {
     "contest_id": 1549,
     "language": "Java 11",
