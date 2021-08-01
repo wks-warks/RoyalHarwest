@@ -1,4 +1,21 @@
 {
+  "CF124556793": {
+    "contest_id": 1549,
+    "language": "Java 11",
+    "path": "codeforces/1549/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Web of Lies",
+    "problem_url": "https://codeforces.com/contest/1549/problem/C",
+    "submission_id": "CF124556793",
+    "submission_url": "https://codeforces.com/contest/1549/submission/124556793",
+    "tags": [
+      "graphs",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Aug/01/2021 20:46"
+  },
   "CF124934658": {
     "contest_id": 1549,
     "language": "Java 11",
