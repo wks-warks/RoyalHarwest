@@ -83,9 +83,19 @@ class GCDTable {
     for (int j = 1; j < pow; j++) {
       for (int i = 0; i + (1<<j) <= sparseTable.length; i++) {
         int partner = i + (1<<(j-1));
+        // if (j == 1 && i == 2) {
+          // System.out.println(sparseTable[i][j-1] + " " + sparseTable[partner][j-1] + " FAFAF");
+        // }
         sparseTable[i][j] = gcd(sparseTable[i][j-1], sparseTable[partner][j-1]);
       }
     }
+
+    // for (int j = 0; j < pow; j++) {
+      // System.out.println(pow);
+      // for (int i = 0; i + (1<<j) -1 < sparseTable.length; i++) {
+        // System.out.println("i j s[i][j]" + i + " " + j + " " + sparseTable[i][j]);
+      // }
+    // }
   }
 
   private static long gcd(long num1, long num2) {
@@ -115,31 +125,11 @@ class GCDTable {
         right = mid - 1;
       }
     }
+      // System.out.println("i" + from + to);
+      // System.out.flush(); 
 
     long ans = sparseTable[from][largest];
     return gcd(ans, queryGCD(from + (1<<largest), to));
-  }
-
-  public long optimizedQueryGCD(int from, int to) {
-    int len = to - from + 1;
-    int largest = 0;
-    int left = 0;
-    int right = 17;
-
-    while (left <= right) {
-      int mid = (left + right) >> 1;
-      int candidate = (1 << mid);
-
-      if (candidate <= len) {
-        largest = mid;
-        left = mid + 1;
-      } else {
-        right = mid - 1;
-      }
-    }
-
-    long ans = gcd(sparseTable[from][largest], sparseTable[to-(1<<largest) + 1][largest]);
-    return ans;
   }
 
   public int longestCommon() {
@@ -152,8 +142,7 @@ class GCDTable {
       while (left <= right) {
         int mid = (left + right) >> 1;
 
-        if (optimizedQueryGCD(i, mid) > 1) {
-        // if (queryGCD(i, mid) > 1) {
+        if (queryGCD(i, mid) > 1) {
           ans = Math.max(ans, mid - i + 1);
           temp = mid - i + 1;
           left = mid + 1;
@@ -161,6 +150,7 @@ class GCDTable {
           right = mid - 1;
         }
       }
+      // System.out.println(i + " " + temp);
     }
 
     return ans;
