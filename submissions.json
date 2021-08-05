@@ -1,4 +1,23 @@
 {
+  "CF124936355": {
+    "contest_id": 1549,
+    "language": "Java 11",
+    "path": "codeforces/1549/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Integers Have Friends",
+    "problem_url": "https://codeforces.com/contest/1549/problem/D",
+    "submission_id": "CF124936355",
+    "submission_url": "https://codeforces.com/contest/1549/submission/124936355",
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Aug/05/2021 14:10"
+  },
   "CF125323444": {
     "contest_id": 1557,
     "language": "Java 11",
