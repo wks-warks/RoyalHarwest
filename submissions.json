@@ -1,4 +1,21 @@
 {
+  "CF125339756": {
+    "contest_id": 1557,
+    "language": "Java 11",
+    "path": "codeforces/1557/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Moamen and k-subarrays",
+    "problem_url": "https://codeforces.com/contest/1557/problem/B",
+    "submission_id": "CF125339756",
+    "submission_url": "https://codeforces.com/contest/1557/submission/125339756",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Aug/09/2021 20:23"
+  },
   "CF126050527": {
     "contest_id": 1559,
     "language": "Java 11",
