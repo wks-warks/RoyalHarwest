@@ -1,4 +1,22 @@
 {
+  "CF125323444": {
+    "contest_id": 1557,
+    "language": "Java 11",
+    "path": "codeforces/1557/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ezzat and Two Subsequences",
+    "problem_url": "https://codeforces.com/contest/1557/problem/A",
+    "submission_id": "CF125323444",
+    "submission_url": "https://codeforces.com/contest/1557/submission/125323444",
+    "tags": [
+      "brute force",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Aug/09/2021 20:10"
+  },
   "CF125339756": {
     "contest_id": 1557,
     "language": "Java 11",
