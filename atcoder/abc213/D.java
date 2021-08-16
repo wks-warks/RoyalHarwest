@@ -4,9 +4,8 @@ import java.io.*;
 import java.util.*;
 import java.util.concurrent.*;
 
-public class Main implements Runnable {
+class Main implements Runnable {
   static Input in = new Input();
-  static PrintWriter out = Output();
   
   public static void main(String[] args) {
     new Thread(null, new Main(), "King", 1<<27).start();
@@ -30,37 +29,18 @@ public class Main implements Runnable {
       node.sortAdjacent();
     }
 
-    nodes[0].travel(null);
-    out.println();
+    nodes[0].travel(nodes[0]);
     in.close();
-    out.close();
-
-  }
-  
-  static PrintWriter Output() {
-    return new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
-  }
-  
-  static PrintWriter Output(String fileName) {
-    PrintWriter pw = null;
-    try {
-      pw = new PrintWriter(new BufferedWriter(new FileWriter(fileName)));
-    } catch (IOException ex) {
-      ex.printStackTrace();
-    }
-    return pw;
-  }
+    Node.out.close();
+  }  
 }
 
 class Node {
-  boolean visited;
-  Node prev;
+  static PrintWriter out = Output();
   int idx, ptr;
   List<Node> adjacent;
 
   public Node(int idx) {
-    visited = false;
-    prev = null;
     this.idx = idx;
     ptr = 0;
     adjacent = new ArrayList<Node>();
@@ -75,25 +55,18 @@ class Node {
   }
 
   public void travel(Node prev) {
-    Main.out.print(idx + " ");
-    visited = true;
-    if (this.prev == null) {
-      this.prev = prev;
-    }
-
-    while (ptr < adjacent.size() && adjacent.get(ptr).visited) {
-      ptr++;
-    }
-
-    if (ptr == adjacent.size()) {
-      if (this.idx == 1) {
-        return;
-      } else {
-        this.prev.travel(null);
+    out.print(this.idx + " ");
+    for (var node : adjacent) {
+      if (node.idx == prev.idx) {
+        continue;
       }
-    } else {
-      adjacent.get(ptr).travel(this);
+      node.travel(this);
+      out.print(this.idx + " ");
     }
+  }
+
+  static PrintWriter Output() {
+    return new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
   }
 }
 
