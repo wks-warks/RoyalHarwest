@@ -9,7 +9,7 @@ public class Main implements Runnable {
   static PrintWriter out = Output();
   
   public static void main(String[] args) {
-    new Thread(null, new Main(), "King", 1<<28).start();
+    new Thread(null, new Main(), "King", 1<<27).start();
   }
 
   public void run() {
