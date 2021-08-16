@@ -4783,6 +4783,27 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF126055309": {
+    "contest_id": 1559,
+    "language": "Java 11",
+    "path": "codeforces/1559/D1.java",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Mocha and Diana (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1559/problem/D1",
+    "submission_id": "CF126055309",
+    "submission_url": "https://codeforces.com/contest/1559/submission/126055309",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1400"
+    ],
+    "timestamp": "Aug/16/2021 11:20"
+  },
   "CF126223575": {
     "contest_id": 1557,
     "language": "Java 11",
