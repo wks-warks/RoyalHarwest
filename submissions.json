@@ -1,0 +1,19 @@
+{
+  "CF126051419": {
+    "contest_id": 1559,
+    "language": "Java 11",
+    "path": "codeforces/1559/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mocha and Red and Blue",
+    "problem_url": "https://codeforces.com/contest/1559/problem/B",
+    "submission_id": "CF126051419",
+    "submission_url": "https://codeforces.com/contest/1559/submission/126051419",
+    "tags": [
+      "dp",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Aug/16/2021 10:25"
+  }
+}

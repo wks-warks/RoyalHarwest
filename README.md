@@ -5,10 +5,11 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/RegalBeast.svg)](https://codeforces.com/profile/RegalBeast)
+
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [B - Mocha and Red and Blue](https://codeforces.com/contest/1559/problem/B) | [Java 11](./codeforces/1559/B.java) | `dp` `greedy` `*900` | Aug/16/2021 10:25 | 
