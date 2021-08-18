@@ -4783,6 +4783,23 @@
     ],
     "timestamp": "Aug/16/2021 10:25"
   },
+  "CF126380008": {
+    "contest_id": 1555,
+    "language": "Java 11",
+    "path": "codeforces/1555/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "PizzaForces",
+    "problem_url": "https://codeforces.com/contest/1555/problem/A",
+    "submission_id": "CF126380008",
+    "submission_url": "https://codeforces.com/contest/1555/submission/126380008",
+    "tags": [
+      "brute force",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/19/2021 00:26"
+  },
   "CF126381406": {
     "contest_id": 1555,
     "language": "Java 11",
