@@ -1,4 +1,20 @@
 {
+  "AC25130970": {
+    "contest_id": "abc213",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc213/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Stronger Takahashi",
+    "problem_url": "https://atcoder.jp/contests/abc213/tasks/abc213_e",
+    "submission_id": "AC25130970",
+    "submission_url": "https://atcoder.jp/contests/abc213/submissions/25130970",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Aug/18/2021 08:20"
+  },
   "AC25134240": {
     "contest_id": "abc213",
     "language": "Java (OpenJDK 11.0.6)",
