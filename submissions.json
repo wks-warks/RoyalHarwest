@@ -1,4 +1,20 @@
 {
+  "AC25298898": {
+    "contest_id": "arc125",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/arc125/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Squares",
+    "problem_url": "https://atcoder.jp/contests/arc125/tasks/arc125_b",
+    "submission_id": "AC25298898",
+    "submission_url": "https://atcoder.jp/contests/arc125/submissions/25298898",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Aug/23/2021 18:44"
+  },
   "AC26178283": {
     "contest_id": "abc220",
     "language": "Java (OpenJDK 11.0.6)",
