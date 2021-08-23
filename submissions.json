@@ -1,4 +1,20 @@
 {
+  "AC25298077": {
+    "contest_id": "arc125",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/arc125/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Dial Up",
+    "problem_url": "https://atcoder.jp/contests/arc125/tasks/arc125_a",
+    "submission_id": "AC25298077",
+    "submission_url": "https://atcoder.jp/contests/arc125/submissions/25298077",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/23/2021 18:13"
+  },
   "AC25298898": {
     "contest_id": "arc125",
     "language": "Java (OpenJDK 11.0.6)",
