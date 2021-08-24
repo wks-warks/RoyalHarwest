@@ -8937,6 +8937,23 @@
     ],
     "timestamp": "Aug/24/2021 20:15"
   },
+  "CF126873459": {
+    "contest_id": 1561,
+    "language": "Java 11",
+    "path": "codeforces/1561/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Charmed by the Game",
+    "problem_url": "https://codeforces.com/contest/1561/problem/B",
+    "submission_id": "CF126873459",
+    "submission_url": "https://codeforces.com/contest/1561/submission/126873459",
+    "tags": [
+      "brute force",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Aug/24/2021 21:03"
+  },
   "CF126880785": {
     "contest_id": 1561,
     "language": "Java 11",
