@@ -7800,6 +7800,23 @@
     ],
     "timestamp": "Aug/19/2021 00:47"
   },
+  "CF127110037": {
+    "contest_id": 1562,
+    "language": "Java 11",
+    "path": "codeforces/1562/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Rings",
+    "problem_url": "https://codeforces.com/contest/1562/problem/C",
+    "submission_id": "CF127110037",
+    "submission_url": "https://codeforces.com/contest/1562/submission/127110037",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Aug/26/2021 21:38"
+  },
   "CF129041198": {
     "contest_id": 1497,
     "language": "Java 11",
