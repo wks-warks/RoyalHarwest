@@ -7800,6 +7800,24 @@
     ],
     "timestamp": "Aug/19/2021 00:47"
   },
+  "CF129044914": {
+    "contest_id": 1006,
+    "language": "Java 11",
+    "path": "codeforces/1006/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Three Parts of the Array",
+    "problem_url": "https://codeforces.com/contest/1006/problem/C",
+    "submission_id": "CF129044914",
+    "submission_url": "https://codeforces.com/contest/1006/submission/129044914",
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Sep/17/2021 12:54"
+  },
   "CF129067351": {
     "contest_id": 1560,
     "language": "Java 11",
