@@ -7800,6 +7800,22 @@
     ],
     "timestamp": "Aug/19/2021 00:47"
   },
+  "CF129068312": {
+    "contest_id": 1560,
+    "language": "Java 11",
+    "path": "codeforces/1560/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Who's Opposite?",
+    "problem_url": "https://codeforces.com/contest/1560/problem/B",
+    "submission_id": "CF129068312",
+    "submission_url": "https://codeforces.com/contest/1560/submission/129068312",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/17/2021 18:33"
+  },
   "CF129084790": {
     "contest_id": 1560,
     "language": "Java 11",
