@@ -7800,6 +7800,23 @@
     ],
     "timestamp": "Aug/19/2021 00:47"
   },
+  "CF129084790": {
+    "contest_id": 1560,
+    "language": "Java 11",
+    "path": "codeforces/1560/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Infinity Table",
+    "problem_url": "https://codeforces.com/contest/1560/problem/C",
+    "submission_id": "CF129084790",
+    "submission_url": "https://codeforces.com/contest/1560/submission/129084790",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/17/2021 21:07"
+  },
   "CF130681032": {
     "contest_id": 1592,
     "language": "Java 11",
