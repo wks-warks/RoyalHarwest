@@ -2,24 +2,17 @@
 
 using namespace std;
 
-bool is_solvable(int p, int v, int t);
-
 int main() {
     int n;
     cin >> n;
-
-    int solvable = 0;
+    int s = 0;
     for (int i = 0; i < n; i++) {
         int p, v, t;
         cin >> p >> v >> t;
 
-        if (is_solvable(p, v, t)) {
-            solvable++;
+        if (p + v + t >= 2) {
+            s++;
         }
     }
-    cout << solvable << endl;
-}
-
-bool is_solvable(int p, int v, int t) {
-    return (p + v + t >= 2);
+    cout << s << endl;
 }
