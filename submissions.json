@@ -1,4 +1,20 @@
 {
+  "AC26190300": {
+    "contest_id": "abc220",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc220/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Distance on Large Perfect Binary Tree",
+    "problem_url": "https://atcoder.jp/contests/abc220/tasks/abc220_e",
+    "submission_id": "AC26190300",
+    "submission_url": "https://atcoder.jp/contests/abc220/submissions/26190300",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/27/2021 16:33"
+  },
   "AC26274099": {
     "contest_id": "abc221",
     "language": "Java (OpenJDK 11.0.6)",
