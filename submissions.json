@@ -9110,6 +9110,24 @@
     ],
     "timestamp": "Sep/17/2021 21:07"
   },
+  "CF130268938": {
+    "contest_id": 1579,
+    "language": "Java 11",
+    "path": "codeforces/1579/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Productive Meeting",
+    "problem_url": "https://codeforces.com/contest/1579/problem/D",
+    "submission_id": "CF130268938",
+    "submission_url": "https://codeforces.com/contest/1579/submission/130268938",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Sep/29/2021 18:54"
+  },
   "CF130269933": {
     "contest_id": 1579,
     "language": "Java 11",
