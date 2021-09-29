@@ -9110,6 +9110,23 @@
     ],
     "timestamp": "Sep/17/2021 21:07"
   },
+  "CF130265226": {
+    "contest_id": 1579,
+    "language": "Java 11",
+    "path": "codeforces/1579/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Shifting Sort",
+    "problem_url": "https://codeforces.com/contest/1579/problem/B",
+    "submission_id": "CF130265226",
+    "submission_url": "https://codeforces.com/contest/1579/submission/130265226",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Sep/29/2021 18:17"
+  },
   "CF130267051": {
     "contest_id": 1579,
     "language": "Java 11",
