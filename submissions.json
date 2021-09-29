@@ -9110,6 +9110,23 @@
     ],
     "timestamp": "Sep/17/2021 21:07"
   },
+  "CF130267051": {
+    "contest_id": 1579,
+    "language": "Java 11",
+    "path": "codeforces/1579/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ticks",
+    "problem_url": "https://codeforces.com/contest/1579/problem/C",
+    "submission_id": "CF130267051",
+    "submission_url": "https://codeforces.com/contest/1579/submission/130267051",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Sep/29/2021 18:36"
+  },
   "CF130268938": {
     "contest_id": 1579,
     "language": "Java 11",
