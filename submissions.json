@@ -9110,6 +9110,23 @@
     ],
     "timestamp": "Sep/17/2021 21:07"
   },
+  "CF130262925": {
+    "contest_id": 1579,
+    "language": "Java 11",
+    "path": "codeforces/1579/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Casimir's String Solitaire",
+    "problem_url": "https://codeforces.com/contest/1579/problem/A",
+    "submission_id": "CF130262925",
+    "submission_url": "https://codeforces.com/contest/1579/submission/130262925",
+    "tags": [
+      "math",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/29/2021 17:53"
+  },
   "CF130265226": {
     "contest_id": 1579,
     "language": "Java 11",
