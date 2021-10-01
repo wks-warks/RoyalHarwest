@@ -9110,6 +9110,22 @@
     ],
     "timestamp": "Sep/17/2021 21:07"
   },
+  "CF130496302": {
+    "contest_id": 248,
+    "language": "Java 11",
+    "path": "codeforces/248/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cupboards",
+    "problem_url": "https://codeforces.com/contest/248/problem/A",
+    "submission_id": "CF130496302",
+    "submission_url": "https://codeforces.com/contest/248/submission/130496302",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/01/2021 23:49"
+  },
   "CF130504885": {
     "contest_id": 9,
     "language": "Java 11",
