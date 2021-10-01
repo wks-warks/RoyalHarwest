@@ -9110,6 +9110,24 @@
     ],
     "timestamp": "Sep/17/2021 21:07"
   },
+  "CF130504885": {
+    "contest_id": 9,
+    "language": "Java 11",
+    "path": "codeforces/9/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Running Student",
+    "problem_url": "https://codeforces.com/contest/9/problem/B",
+    "submission_id": "CF130504885",
+    "submission_url": "https://codeforces.com/contest/9/submission/130504885",
+    "tags": [
+      "brute force",
+      "geometry",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/02/2021 02:00"
+  },
   "CF130634403": {
     "contest_id": 3,
     "language": "Java 11",
