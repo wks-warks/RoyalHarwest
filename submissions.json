@@ -1,4 +1,20 @@
 {
+  "AC26274099": {
+    "contest_id": "abc221",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc221/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Seismic magnitude scales",
+    "problem_url": "https://atcoder.jp/contests/abc221/tasks/abc221_a",
+    "submission_id": "AC26274099",
+    "submission_url": "https://atcoder.jp/contests/abc221/submissions/26274099",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/02/2021 17:32"
+  },
   "AC26297622": {
     "contest_id": "abc221",
     "language": "Java (OpenJDK 11.0.6)",
