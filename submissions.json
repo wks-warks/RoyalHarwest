@@ -9110,6 +9110,25 @@
     ],
     "timestamp": "Sep/17/2021 21:07"
   },
+  "CF130671951": {
+    "contest_id": 1592,
+    "language": "Java 11",
+    "path": "codeforces/1592/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gamer Hemose",
+    "problem_url": "https://codeforces.com/contest/1592/problem/A",
+    "submission_id": "CF130671951",
+    "submission_url": "https://codeforces.com/contest/1592/submission/130671951",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Oct/03/2021 20:15"
+  },
   "CF130681032": {
     "contest_id": 1592,
     "language": "Java 11",
