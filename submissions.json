@@ -7800,6 +7800,25 @@
     ],
     "timestamp": "Aug/19/2021 00:47"
   },
+  "CF130681032": {
+    "contest_id": 1592,
+    "language": "Java 11",
+    "path": "codeforces/1592/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hemose Shopping",
+    "problem_url": "https://codeforces.com/contest/1592/problem/B",
+    "submission_id": "CF130681032",
+    "submission_url": "https://codeforces.com/contest/1592/submission/130681032",
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Oct/03/2021 20:28"
+  },
   "CF130742411": {
     "contest_id": 6,
     "language": "Java 11",
