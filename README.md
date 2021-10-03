@@ -13,18 +13,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-498 | [D - Transit Tree Path](https://atcoder.jp/contests/abc070/tasks/abc070_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/D.java) | `AtCoder` `*400` | Oct/12/2021 13:33 | 
-497 | [C - Multiple Clocks](https://atcoder.jp/contests/abc070/tasks/abc070_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/C.java) | `AtCoder` `*300` | Oct/12/2021 13:14 | 
-496 | [B - Two Switches](https://atcoder.jp/contests/abc070/tasks/abc070_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/B.java) | `AtCoder` `*200` | Oct/12/2021 13:10 | 
-495 | [A - Palindromic Number](https://atcoder.jp/contests/abc070/tasks/abc070_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/A.java) | `AtCoder` `*100` | Oct/12/2021 13:08 | 
-494 | [E - Red and Blue Tree](https://atcoder.jp/contests/abc222/tasks/abc222_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/E.java) | `AtCoder` `*500` | Oct/09/2021 19:17 | 
-493 | [D - Between Two Arrays](https://atcoder.jp/contests/abc222/tasks/abc222_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/D.java) | `AtCoder` `*400` | Oct/09/2021 18:27 | 
-492 | [C - Swiss-System Tournament](https://atcoder.jp/contests/abc222/tasks/abc222_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/C.java) | `AtCoder` `*300` | Oct/09/2021 18:11 | 
-491 | [B - Failing Grade](https://atcoder.jp/contests/abc222/tasks/abc222_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/B.java) | `AtCoder` `*200` | Oct/09/2021 17:34 | 
-490 | [A - Four Digits](https://atcoder.jp/contests/abc222/tasks/abc222_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/A.java) | `AtCoder` `*100` | Oct/09/2021 17:31 | 
-489 | [C - Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | [Java 11](./codeforces/9/C.java) | `brute force` `implementation` `math` `*1200` | Oct/07/2021 01:22 | 
-488 | [A - Increasing Sequence](https://codeforces.com/contest/11/problem/A) | [Java 11](./codeforces/11/A.java) | `constructive algorithms` `implementation` `math` `*900` | Oct/06/2021 04:02 | 
-487 | [A - Power Consumption Calculation](https://codeforces.com/contest/10/problem/A) | [Java 11](./codeforces/10/A.java) | `implementation` `*900` | Oct/05/2021 02:18 | 
+499 | [D - Transit Tree Path](https://atcoder.jp/contests/abc070/tasks/abc070_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/D.java) | `AtCoder` `*400` | Oct/12/2021 13:33 | 
+498 | [C - Multiple Clocks](https://atcoder.jp/contests/abc070/tasks/abc070_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/C.java) | `AtCoder` `*300` | Oct/12/2021 13:14 | 
+497 | [B - Two Switches](https://atcoder.jp/contests/abc070/tasks/abc070_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/B.java) | `AtCoder` `*200` | Oct/12/2021 13:10 | 
+496 | [A - Palindromic Number](https://atcoder.jp/contests/abc070/tasks/abc070_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/A.java) | `AtCoder` `*100` | Oct/12/2021 13:08 | 
+495 | [E - Red and Blue Tree](https://atcoder.jp/contests/abc222/tasks/abc222_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/E.java) | `AtCoder` `*500` | Oct/09/2021 19:17 | 
+494 | [D - Between Two Arrays](https://atcoder.jp/contests/abc222/tasks/abc222_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/D.java) | `AtCoder` `*400` | Oct/09/2021 18:27 | 
+493 | [C - Swiss-System Tournament](https://atcoder.jp/contests/abc222/tasks/abc222_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/C.java) | `AtCoder` `*300` | Oct/09/2021 18:11 | 
+492 | [B - Failing Grade](https://atcoder.jp/contests/abc222/tasks/abc222_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/B.java) | `AtCoder` `*200` | Oct/09/2021 17:34 | 
+491 | [A - Four Digits](https://atcoder.jp/contests/abc222/tasks/abc222_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc222/A.java) | `AtCoder` `*100` | Oct/09/2021 17:31 | 
+490 | [C - Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | [Java 11](./codeforces/9/C.java) | `brute force` `implementation` `math` `*1200` | Oct/07/2021 01:22 | 
+489 | [A - Increasing Sequence](https://codeforces.com/contest/11/problem/A) | [Java 11](./codeforces/11/A.java) | `constructive algorithms` `implementation` `math` `*900` | Oct/06/2021 04:02 | 
+488 | [A - Power Consumption Calculation](https://codeforces.com/contest/10/problem/A) | [Java 11](./codeforces/10/A.java) | `implementation` `*900` | Oct/05/2021 02:18 | 
+487 | [A - Triangle](https://codeforces.com/contest/6/problem/A) | [Java 11](./codeforces/6/A.java) | `brute force` `geometry` `*900` | Oct/04/2021 03:29 | 
 486 | [B - typo](https://atcoder.jp/contests/abc221/tasks/abc221_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc221/B.java) | `AtCoder` `*200` | Oct/02/2021 19:14 | 
 485 | [D - Online games](https://atcoder.jp/contests/abc221/tasks/abc221_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc221/D.java) | `AtCoder` `*400` | Oct/02/2021 18:17 | 
 484 | [C - Select Mul](https://atcoder.jp/contests/abc221/tasks/abc221_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc221/C.java) | `AtCoder` `*300` | Oct/02/2021 18:00 | 
