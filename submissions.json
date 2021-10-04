@@ -7800,6 +7800,22 @@
     ],
     "timestamp": "Aug/19/2021 00:47"
   },
+  "CF130840738": {
+    "contest_id": 10,
+    "language": "Java 11",
+    "path": "codeforces/10/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Power Consumption Calculation",
+    "problem_url": "https://codeforces.com/contest/10/problem/A",
+    "submission_id": "CF130840738",
+    "submission_url": "https://codeforces.com/contest/10/submission/130840738",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Oct/05/2021 02:18"
+  },
   "CF130930147": {
     "contest_id": 11,
     "language": "Java 11",
