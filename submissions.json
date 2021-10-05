@@ -7800,6 +7800,24 @@
     ],
     "timestamp": "Aug/19/2021 00:47"
   },
+  "CF130930147": {
+    "contest_id": 11,
+    "language": "Java 11",
+    "path": "codeforces/11/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Increasing Sequence",
+    "problem_url": "https://codeforces.com/contest/11/problem/A",
+    "submission_id": "CF130930147",
+    "submission_url": "https://codeforces.com/contest/11/submission/130930147",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/06/2021 04:02"
+  },
   "CF131011084": {
     "contest_id": 9,
     "language": "Java 11",
