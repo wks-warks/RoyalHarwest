@@ -7800,6 +7800,24 @@
     ],
     "timestamp": "Aug/19/2021 00:47"
   },
+  "CF131011084": {
+    "contest_id": 9,
+    "language": "Java 11",
+    "path": "codeforces/9/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hexadecimal's Numbers",
+    "problem_url": "https://codeforces.com/contest/9/problem/C",
+    "submission_id": "CF131011084",
+    "submission_url": "https://codeforces.com/contest/9/submission/131011084",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Oct/07/2021 01:22"
+  },
   "CF98263616": {
     "contest_id": 1335,
     "language": "Java 11",
