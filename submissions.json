@@ -9198,6 +9198,22 @@
     ],
     "timestamp": "Oct/07/2021 01:22"
   },
+  "CF131102660": {
+    "contest_id": 12,
+    "language": "Java 11",
+    "path": "codeforces/12/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Super Agent",
+    "problem_url": "https://codeforces.com/contest/12/problem/A",
+    "submission_id": "CF131102660",
+    "submission_url": "https://codeforces.com/contest/12/submission/131102660",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/08/2021 02:02"
+  },
   "CF131279853": {
     "contest_id": 3,
     "language": "Java 11",
