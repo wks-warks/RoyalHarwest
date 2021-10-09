@@ -1,4 +1,20 @@
 {
+  "AC26466966": {
+    "contest_id": "abc222",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc222/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Red and Blue Tree",
+    "problem_url": "https://atcoder.jp/contests/abc222/tasks/abc222_e",
+    "submission_id": "AC26466966",
+    "submission_url": "https://atcoder.jp/contests/abc222/submissions/26466966",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Oct/09/2021 19:17"
+  },
   "AC26519605": {
     "contest_id": "abc070",
     "language": "Java (OpenJDK 11.0.6)",
