@@ -9198,6 +9198,25 @@
     ],
     "timestamp": "Oct/07/2021 01:22"
   },
+  "CF131407102": {
+    "contest_id": 1598,
+    "language": "Java 11",
+    "path": "codeforces/1598/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Computer Game",
+    "problem_url": "https://codeforces.com/contest/1598/problem/A",
+    "submission_id": "CF131407102",
+    "submission_url": "https://codeforces.com/contest/1598/submission/131407102",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/10/2021 14:50"
+  },
   "CF131418088": {
     "contest_id": 1598,
     "language": "Java 11",
