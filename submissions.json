@@ -9198,6 +9198,22 @@
     ],
     "timestamp": "Oct/07/2021 01:22"
   },
+  "CF131578761": {
+    "contest_id": 6,
+    "language": "Java 11",
+    "path": "codeforces/6/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "President's Office",
+    "problem_url": "https://codeforces.com/contest/6/problem/B",
+    "submission_id": "CF131578761",
+    "submission_url": "https://codeforces.com/contest/6/submission/131578761",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Oct/11/2021 23:16"
+  },
   "CF131595547": {
     "contest_id": 10,
     "language": "Java 11",
