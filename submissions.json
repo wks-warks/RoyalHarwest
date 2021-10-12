@@ -1,4 +1,20 @@
 {
+  "AC26520057": {
+    "contest_id": "abc070",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc070/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Transit Tree Path",
+    "problem_url": "https://atcoder.jp/contests/abc070/tasks/abc070_d",
+    "submission_id": "AC26520057",
+    "submission_url": "https://atcoder.jp/contests/abc070/submissions/26520057",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/12/2021 13:33"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
