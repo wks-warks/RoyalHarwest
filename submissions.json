@@ -1,4 +1,20 @@
 {
+  "AC26519696": {
+    "contest_id": "abc070",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc070/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Multiple Clocks",
+    "problem_url": "https://atcoder.jp/contests/abc070/tasks/abc070_c",
+    "submission_id": "AC26519696",
+    "submission_url": "https://atcoder.jp/contests/abc070/submissions/26519696",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/12/2021 13:14"
+  },
   "AC26520057": {
     "contest_id": "abc070",
     "language": "Java (OpenJDK 11.0.6)",
