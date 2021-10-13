@@ -12106,6 +12106,23 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF131811768": {
+    "contest_id": 1593,
+    "language": "Java 11",
+    "path": "codeforces/1593/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gardener and Tree",
+    "problem_url": "https://codeforces.com/contest/1593/problem/E",
+    "submission_id": "CF131811768",
+    "submission_url": "https://codeforces.com/contest/1593/submission/131811768",
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "trees"
+    ],
+    "timestamp": "Oct/13/2021 21:14"
+  },
   "CF131830242": {
     "contest_id": 1593,
     "language": "Java 11",
