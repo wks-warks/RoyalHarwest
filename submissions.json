@@ -12106,6 +12106,19 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF131751337": {
+    "contest_id": 1593,
+    "language": "Java 11",
+    "path": "codeforces/1593/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elections",
+    "problem_url": "https://codeforces.com/contest/1593/problem/A",
+    "submission_id": "CF131751337",
+    "submission_url": "https://codeforces.com/contest/1593/submission/131751337",
+    "tags": [],
+    "timestamp": "Oct/13/2021 20:09"
+  },
   "CF131764148": {
     "contest_id": 1593,
     "language": "Java 11",
