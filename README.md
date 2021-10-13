@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+962 | [D2 - Half of Same](https://codeforces.com/contest/1593/problem/D2) | [Java 11](./codeforces/1593/D2.java) | `math` `math` | Oct/13/2021 21:42 | 
 961 | [D - Transit Tree Path](https://atcoder.jp/contests/abc070/tasks/abc070_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/D.java) | `AtCoder` `*400` | Oct/12/2021 13:33 | 
 960 | [C - Multiple Clocks](https://atcoder.jp/contests/abc070/tasks/abc070_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/C.java) | `AtCoder` `*300` | Oct/12/2021 13:14 | 
 959 | [B - Two Switches](https://atcoder.jp/contests/abc070/tasks/abc070_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc070/B.java) | `AtCoder` `*200` | Oct/12/2021 13:10 | 

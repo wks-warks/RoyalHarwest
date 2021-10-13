@@ -12106,6 +12106,22 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF131830242": {
+    "contest_id": 1593,
+    "language": "Java 11",
+    "path": "codeforces/1593/D2.java",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Half of Same",
+    "problem_url": "https://codeforces.com/contest/1593/problem/D2",
+    "submission_id": "CF131830242",
+    "submission_url": "https://codeforces.com/contest/1593/submission/131830242",
+    "tags": [
+      "math",
+      "math"
+    ],
+    "timestamp": "Oct/13/2021 21:42"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
