@@ -13,8 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-967 | [D2 - Half of Same](https://codeforces.com/contest/1593/problem/D2) | [Java 11](./codeforces/1593/D2.java) | `math` `math` | Oct/13/2021 21:42 | 
-966 | [E - Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | [Java 11](./codeforces/1593/E.java) | `dfs and similar` `implementation` `trees` | Oct/13/2021 21:14 | 
+967 | [E - Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | [Java 11](./codeforces/1593/E.java) | `data structures` `dfs and similar` `greedy` `implementation` `trees` `*1600` | Oct/14/2021 00:31 | 
+966 | [D2 - Half of Same](https://codeforces.com/contest/1593/problem/D2) | [Java 11](./codeforces/1593/D2.java) | `math` `math` | Oct/13/2021 21:42 | 
 965 | [D1 - All are Same](https://codeforces.com/contest/1593/problem/D1) | [Java 11](./codeforces/1593/D1.java) | `math` `math` | Oct/13/2021 20:47 | 
 964 | [C - Save More Mice](https://codeforces.com/contest/1593/problem/C) | [Java 11](./codeforces/1593/C.java) | `greedy` `greedy` | Oct/13/2021 20:28 | 
 963 | [B - Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | [Java 11](./codeforces/1593/B.java) | `greedy` `math` `math` | Oct/13/2021 20:19 | 
