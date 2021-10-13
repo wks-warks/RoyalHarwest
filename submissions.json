@@ -12106,6 +12106,22 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF131772970": {
+    "contest_id": 1593,
+    "language": "Java 11",
+    "path": "codeforces/1593/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Save More Mice",
+    "problem_url": "https://codeforces.com/contest/1593/problem/C",
+    "submission_id": "CF131772970",
+    "submission_url": "https://codeforces.com/contest/1593/submission/131772970",
+    "tags": [
+      "greedy",
+      "greedy"
+    ],
+    "timestamp": "Oct/13/2021 20:28"
+  },
   "CF131791200": {
     "contest_id": 1593,
     "language": "Java 11",
