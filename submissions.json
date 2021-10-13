@@ -12106,6 +12106,23 @@
     ],
     "timestamp": "Oct/12/2021 04:48"
   },
+  "CF131764148": {
+    "contest_id": 1593,
+    "language": "Java 11",
+    "path": "codeforces/1593/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make it Divisible by 25",
+    "problem_url": "https://codeforces.com/contest/1593/problem/B",
+    "submission_id": "CF131764148",
+    "submission_url": "https://codeforces.com/contest/1593/submission/131764148",
+    "tags": [
+      "greedy",
+      "math",
+      "math"
+    ],
+    "timestamp": "Oct/13/2021 20:19"
+  },
   "CF131772970": {
     "contest_id": 1593,
     "language": "Java 11",
