@@ -7,8 +7,7 @@ import java.util.HashMap;
 import java.util.Set;
 import java.util.HashSet;
 import java.util.Queue;
-// import java.util.LinkedList;
-import java.util.ArrayDeque;
+import java.util.LinkedList;
 
 public class Main implements Runnable {
     static class FastReader {
@@ -169,7 +168,7 @@ public class Main implements Runnable {
 
     static int countRemaining(int n, Map<Integer, Set<Integer>> connections, int k) {
         Map<Integer, Integer> neighbours = new HashMap<Integer, Integer>();
-        Queue<Integer> leaves = new ArrayDeque<Integer>();
+        Queue<Integer> leaves = new LinkedList<Integer>();
         for (int i = 1; i <= n; i++) {
         neighbours.put(i, connections.get(i).size());
         if (neighbours.get(i) <= 1) {
@@ -181,7 +180,7 @@ public class Main implements Runnable {
         int remaining = n;
         while (remaining > 0 && k > 0) {
         k--;
-        Queue<Integer> next = new ArrayDeque<Integer>();
+        Queue<Integer> next = new LinkedList<Integer>();
 
         while (leaves.size() > 0) {
             int leaf = leaves.poll();

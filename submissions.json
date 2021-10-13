@@ -12201,6 +12201,26 @@
     ],
     "timestamp": "Oct/13/2021 21:42"
   },
+  "CF131867285": {
+    "contest_id": 1593,
+    "language": "Java 11",
+    "path": "codeforces/1593/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gardener and Tree",
+    "problem_url": "https://codeforces.com/contest/1593/problem/E",
+    "submission_id": "CF131867285",
+    "submission_url": "https://codeforces.com/contest/1593/submission/131867285",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Oct/14/2021 00:30"
+  },
   "CF131867360": {
     "contest_id": 1593,
     "language": "Java 11",
