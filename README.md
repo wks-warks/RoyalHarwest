@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+968 | [B - Correct Solution?](https://codeforces.com/contest/12/problem/B) | [Java 11](./codeforces/12/B.java) | `implementation` `sortings` `*1100` | Oct/14/2021 22:20 | 
 967 | [E - Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | [Java 11](./codeforces/1593/E.java) | `data structures` `dfs and similar` `greedy` `implementation` `trees` `*1600` | Oct/14/2021 00:31 | 
 966 | [D2 - Half of Same](https://codeforces.com/contest/1593/problem/D2) | [Java 11](./codeforces/1593/D2.java) | `math` `math` | Oct/13/2021 21:42 | 
 965 | [D1 - All are Same](https://codeforces.com/contest/1593/problem/D1) | [Java 11](./codeforces/1593/D1.java) | `math` `math` | Oct/13/2021 20:47 | 

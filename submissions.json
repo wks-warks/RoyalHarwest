@@ -12241,6 +12241,23 @@
     ],
     "timestamp": "Oct/14/2021 00:31"
   },
+  "CF131961909": {
+    "contest_id": 12,
+    "language": "Java 11",
+    "path": "codeforces/12/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Correct Solution?",
+    "problem_url": "https://codeforces.com/contest/12/problem/B",
+    "submission_id": "CF131961909",
+    "submission_url": "https://codeforces.com/contest/12/submission/131961909",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Oct/14/2021 22:20"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
