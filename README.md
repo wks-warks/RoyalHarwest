@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+973 | [A - Numbers](https://codeforces.com/contest/13/problem/A) | [Java 11](./codeforces/13/A.java) | `implementation` `math` `*1000` | Oct/16/2021 04:43 | 
 972 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [Java 11](./codeforces/977/F.java) | `dp` `*1700` | Oct/15/2021 15:38 | 
 971 | [E - Cyclic Components](https://codeforces.com/contest/977/problem/E) | [Java 11](./codeforces/977/E.java) | `dfs and similar` `dsu` `graphs` `*1500` | Oct/15/2021 15:14 | 
 970 | [D - Divide by three, multiply by two](https://codeforces.com/contest/977/problem/D) | [Java 11](./codeforces/977/D.java) | `dfs and similar` `math` `sortings` `*1400` | Oct/15/2021 14:45 | 
