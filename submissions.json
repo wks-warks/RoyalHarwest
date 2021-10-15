@@ -12258,6 +12258,24 @@
     ],
     "timestamp": "Oct/14/2021 22:20"
   },
+  "CF132013423": {
+    "contest_id": 977,
+    "language": "Java 11",
+    "path": "codeforces/977/E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cyclic Components",
+    "problem_url": "https://codeforces.com/contest/977/problem/E",
+    "submission_id": "CF132013423",
+    "submission_url": "https://codeforces.com/contest/977/submission/132013423",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Oct/15/2021 15:14"
+  },
   "CF132015311": {
     "contest_id": 977,
     "language": "Java 11",
