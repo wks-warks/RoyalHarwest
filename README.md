@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-971 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [Java 11](./codeforces/977/F.java) | `dp` `*1700` | Oct/15/2021 15:38 | 
-970 | [E - Cyclic Components](https://codeforces.com/contest/977/problem/E) | [Java 11](./codeforces/977/E.java) | `dfs and similar` `dsu` `graphs` `*1500` | Oct/15/2021 15:14 | 
-969 | [D - Divide by three, multiply by two](https://codeforces.com/contest/977/problem/D) | [Java 11](./codeforces/977/D.java) | `dfs and similar` `math` `sortings` `*1400` | Oct/15/2021 14:45 | 
+972 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [Java 11](./codeforces/977/F.java) | `dp` `*1700` | Oct/15/2021 15:38 | 
+971 | [E - Cyclic Components](https://codeforces.com/contest/977/problem/E) | [Java 11](./codeforces/977/E.java) | `dfs and similar` `dsu` `graphs` `*1500` | Oct/15/2021 15:14 | 
+970 | [D - Divide by three, multiply by two](https://codeforces.com/contest/977/problem/D) | [Java 11](./codeforces/977/D.java) | `dfs and similar` `math` `sortings` `*1400` | Oct/15/2021 14:45 | 
+969 | [C - Fruits](https://codeforces.com/contest/12/problem/C) | [Java 11](./codeforces/12/C.java) | `greedy` `implementation` `sortings` `*1100` | Oct/15/2021 13:35 | 
 968 | [B - Correct Solution?](https://codeforces.com/contest/12/problem/B) | [Java 11](./codeforces/12/B.java) | `implementation` `sortings` `*1100` | Oct/14/2021 22:20 | 
 967 | [E - Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | [Java 11](./codeforces/1593/E.java) | `data structures` `dfs and similar` `greedy` `implementation` `trees` `*1600` | Oct/14/2021 00:31 | 
 966 | [D2 - Half of Same](https://codeforces.com/contest/1593/problem/D2) | [Java 11](./codeforces/1593/D2.java) | `math` `math` | Oct/13/2021 21:42 | 

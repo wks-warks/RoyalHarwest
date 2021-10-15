@@ -12258,6 +12258,24 @@
     ],
     "timestamp": "Oct/14/2021 22:20"
   },
+  "CF132005992": {
+    "contest_id": 12,
+    "language": "Java 11",
+    "path": "codeforces/12/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fruits",
+    "problem_url": "https://codeforces.com/contest/12/problem/C",
+    "submission_id": "CF132005992",
+    "submission_url": "https://codeforces.com/contest/12/submission/132005992",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Oct/15/2021 13:35"
+  },
   "CF132011182": {
     "contest_id": 977,
     "language": "Java 11",
