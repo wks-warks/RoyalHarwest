@@ -3231,6 +3231,22 @@
     ],
     "timestamp": "Oct/12/2021 13:33"
   },
+  "AC26719147": {
+    "contest_id": "abc223",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc223/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Restricted Permutation",
+    "problem_url": "https://atcoder.jp/contests/abc223/tasks/abc223_d",
+    "submission_id": "AC26719147",
+    "submission_url": "https://atcoder.jp/contests/abc223/submissions/26719147",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/21/2021 18:13"
+  },
   "AC26719558": {
     "contest_id": "abc223",
     "language": "Java (OpenJDK 11.0.6)",
