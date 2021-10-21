@@ -3231,6 +3231,22 @@
     ],
     "timestamp": "Oct/12/2021 13:33"
   },
+  "AC26715399": {
+    "contest_id": "abc071",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc071/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Meal Delivery",
+    "problem_url": "https://atcoder.jp/contests/abc071/tasks/abc071_a",
+    "submission_id": "AC26715399",
+    "submission_url": "https://atcoder.jp/contests/abc071/submissions/26715399",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/21/2021 13:41"
+  },
   "AC26715458": {
     "contest_id": "abc071",
     "language": "Java (OpenJDK 11.0.6)",
