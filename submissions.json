@@ -3231,6 +3231,22 @@
     ],
     "timestamp": "Oct/12/2021 13:33"
   },
+  "AC26715518": {
+    "contest_id": "abc071",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc071/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Make a Rectangle",
+    "problem_url": "https://atcoder.jp/contests/abc071/tasks/arc081_a",
+    "submission_id": "AC26715518",
+    "submission_url": "https://atcoder.jp/contests/abc071/submissions/26715518",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/21/2021 13:49"
+  },
   "AC26715770": {
     "contest_id": "abc071",
     "language": "Java (OpenJDK 11.0.6)",

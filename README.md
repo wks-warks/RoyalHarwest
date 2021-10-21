@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-983 | [D - Omkar and the Meaning of Life](https://codeforces.com/contest/1586/problem/D) | [Java 11](./codeforces/1586/D.java) | `constructive algorithms` `greedy` `interactive` `math` | Oct/22/2021 17:17 | 
-982 | [C - Omkar and Determination](https://codeforces.com/contest/1586/problem/C) | [Java 11](./codeforces/1586/C.java) | `constructive algorithms` `dp` `greedy` `implementation` `two pointers` | Oct/22/2021 16:15 | 
-981 | [B - Omkar and Heavenly Tree](https://codeforces.com/contest/1586/problem/B) | [Java 11](./codeforces/1586/B.java) | `brute force` `constructive algorithms` `trees` | Oct/22/2021 15:54 | 
-980 | [A - Windblume Ode](https://codeforces.com/contest/1586/problem/A) | [Java 11](./codeforces/1586/A.java) | `brute force` `constructive algorithms` `greedy` `math` `number theory` | Oct/22/2021 15:46 | 
-979 | [E - Placing Rectangles](https://atcoder.jp/contests/abc223/tasks/abc223_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/E.java) | `AtCoder` `*500` | Oct/21/2021 18:34 | 
-978 | [D - Restricted Permutation](https://atcoder.jp/contests/abc223/tasks/abc223_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/D.java) | `AtCoder` `*400` | Oct/21/2021 18:13 | 
-977 | [C - Doukasen](https://atcoder.jp/contests/abc223/tasks/abc223_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/C.java) | `AtCoder` `*300` | Oct/21/2021 17:53 | 
-976 | [B - String Shifting](https://atcoder.jp/contests/abc223/tasks/abc223_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/B.java) | `AtCoder` `*200` | Oct/21/2021 17:30 | 
-975 | [A - Exact Price](https://atcoder.jp/contests/abc223/tasks/abc223_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/A.java) | `AtCoder` `*100` | Oct/21/2021 17:25 | 
-974 | [D - Coloring Dominoes](https://atcoder.jp/contests/abc071/tasks/arc081_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc071/D.java) | `AtCoder` `*400` | Oct/21/2021 14:08 | 
+984 | [D - Omkar and the Meaning of Life](https://codeforces.com/contest/1586/problem/D) | [Java 11](./codeforces/1586/D.java) | `constructive algorithms` `greedy` `interactive` `math` | Oct/22/2021 17:17 | 
+983 | [C - Omkar and Determination](https://codeforces.com/contest/1586/problem/C) | [Java 11](./codeforces/1586/C.java) | `constructive algorithms` `dp` `greedy` `implementation` `two pointers` | Oct/22/2021 16:15 | 
+982 | [B - Omkar and Heavenly Tree](https://codeforces.com/contest/1586/problem/B) | [Java 11](./codeforces/1586/B.java) | `brute force` `constructive algorithms` `trees` | Oct/22/2021 15:54 | 
+981 | [A - Windblume Ode](https://codeforces.com/contest/1586/problem/A) | [Java 11](./codeforces/1586/A.java) | `brute force` `constructive algorithms` `greedy` `math` `number theory` | Oct/22/2021 15:46 | 
+980 | [E - Placing Rectangles](https://atcoder.jp/contests/abc223/tasks/abc223_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/E.java) | `AtCoder` `*500` | Oct/21/2021 18:34 | 
+979 | [D - Restricted Permutation](https://atcoder.jp/contests/abc223/tasks/abc223_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/D.java) | `AtCoder` `*400` | Oct/21/2021 18:13 | 
+978 | [C - Doukasen](https://atcoder.jp/contests/abc223/tasks/abc223_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/C.java) | `AtCoder` `*300` | Oct/21/2021 17:53 | 
+977 | [B - String Shifting](https://atcoder.jp/contests/abc223/tasks/abc223_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/B.java) | `AtCoder` `*200` | Oct/21/2021 17:30 | 
+976 | [A - Exact Price](https://atcoder.jp/contests/abc223/tasks/abc223_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc223/A.java) | `AtCoder` `*100` | Oct/21/2021 17:25 | 
+975 | [D - Coloring Dominoes](https://atcoder.jp/contests/abc071/tasks/arc081_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc071/D.java) | `AtCoder` `*400` | Oct/21/2021 14:08 | 
+974 | [C - Make a Rectangle](https://atcoder.jp/contests/abc071/tasks/arc081_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc071/C.java) | `AtCoder` `*300` | Oct/21/2021 13:49 | 
 973 | [A - Numbers](https://codeforces.com/contest/13/problem/A) | [Java 11](./codeforces/13/A.java) | `implementation` `math` `*1000` | Oct/16/2021 04:43 | 
 972 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [Java 11](./codeforces/977/F.java) | `dp` `*1700` | Oct/15/2021 15:38 | 
 971 | [E - Cyclic Components](https://codeforces.com/contest/977/problem/E) | [Java 11](./codeforces/977/E.java) | `dfs and similar` `dsu` `graphs` `*1500` | Oct/15/2021 15:14 | 
