@@ -3231,6 +3231,22 @@
     ],
     "timestamp": "Oct/12/2021 13:33"
   },
+  "AC26718311": {
+    "contest_id": "abc223",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc223/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "String Shifting",
+    "problem_url": "https://atcoder.jp/contests/abc223/tasks/abc223_b",
+    "submission_id": "AC26718311",
+    "submission_url": "https://atcoder.jp/contests/abc223/submissions/26718311",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/21/2021 17:30"
+  },
   "AC26718747": {
     "contest_id": "abc223",
     "language": "Java (OpenJDK 11.0.6)",
