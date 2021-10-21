@@ -3231,6 +3231,22 @@
     ],
     "timestamp": "Oct/12/2021 13:33"
   },
+  "AC26715770": {
+    "contest_id": "abc071",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc071/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Coloring Dominoes",
+    "problem_url": "https://atcoder.jp/contests/abc071/tasks/arc081_b",
+    "submission_id": "AC26715770",
+    "submission_url": "https://atcoder.jp/contests/abc071/submissions/26715770",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/21/2021 14:08"
+  },
   "AC26718221": {
     "contest_id": "abc223",
     "language": "Java (OpenJDK 11.0.6)",
