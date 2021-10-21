@@ -3231,6 +3231,22 @@
     ],
     "timestamp": "Oct/12/2021 13:33"
   },
+  "AC26719558": {
+    "contest_id": "abc223",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc223/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Placing Rectangles",
+    "problem_url": "https://atcoder.jp/contests/abc223/tasks/abc223_e",
+    "submission_id": "AC26719558",
+    "submission_url": "https://atcoder.jp/contests/abc223/submissions/26719558",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Oct/21/2021 18:34"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
