@@ -12345,6 +12345,24 @@
     ],
     "timestamp": "Oct/16/2021 04:43"
   },
+  "CF132691573": {
+    "contest_id": 1586,
+    "language": "Java 11",
+    "path": "codeforces/1586/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Omkar and the Meaning of Life",
+    "problem_url": "https://codeforces.com/contest/1586/problem/D",
+    "submission_id": "CF132691573",
+    "submission_url": "https://codeforces.com/contest/1586/submission/132691573",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "interactive",
+      "math"
+    ],
+    "timestamp": "Oct/22/2021 17:17"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
