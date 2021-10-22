@@ -12345,6 +12345,23 @@
     ],
     "timestamp": "Oct/16/2021 04:43"
   },
+  "CF132684550": {
+    "contest_id": 1586,
+    "language": "Java 11",
+    "path": "codeforces/1586/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Omkar and Heavenly Tree",
+    "problem_url": "https://codeforces.com/contest/1586/problem/B",
+    "submission_id": "CF132684550",
+    "submission_url": "https://codeforces.com/contest/1586/submission/132684550",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "trees"
+    ],
+    "timestamp": "Oct/22/2021 15:54"
+  },
   "CF132685845": {
     "contest_id": 1586,
     "language": "Java 11",
