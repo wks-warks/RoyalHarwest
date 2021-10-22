@@ -12345,6 +12345,25 @@
     ],
     "timestamp": "Oct/16/2021 04:43"
   },
+  "CF132684032": {
+    "contest_id": 1586,
+    "language": "Java 11",
+    "path": "codeforces/1586/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Windblume Ode",
+    "problem_url": "https://codeforces.com/contest/1586/problem/A",
+    "submission_id": "CF132684032",
+    "submission_url": "https://codeforces.com/contest/1586/submission/132684032",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Oct/22/2021 15:46"
+  },
   "CF132684550": {
     "contest_id": 1586,
     "language": "Java 11",

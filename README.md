@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-976 | [D - Omkar and the Meaning of Life](https://codeforces.com/contest/1586/problem/D) | [Java 11](./codeforces/1586/D.java) | `constructive algorithms` `greedy` `interactive` `math` | Oct/22/2021 17:17 | 
-975 | [C - Omkar and Determination](https://codeforces.com/contest/1586/problem/C) | [Java 11](./codeforces/1586/C.java) | `constructive algorithms` `dp` `greedy` `implementation` `two pointers` | Oct/22/2021 16:15 | 
-974 | [B - Omkar and Heavenly Tree](https://codeforces.com/contest/1586/problem/B) | [Java 11](./codeforces/1586/B.java) | `brute force` `constructive algorithms` `trees` | Oct/22/2021 15:54 | 
+977 | [D - Omkar and the Meaning of Life](https://codeforces.com/contest/1586/problem/D) | [Java 11](./codeforces/1586/D.java) | `constructive algorithms` `greedy` `interactive` `math` | Oct/22/2021 17:17 | 
+976 | [C - Omkar and Determination](https://codeforces.com/contest/1586/problem/C) | [Java 11](./codeforces/1586/C.java) | `constructive algorithms` `dp` `greedy` `implementation` `two pointers` | Oct/22/2021 16:15 | 
+975 | [B - Omkar and Heavenly Tree](https://codeforces.com/contest/1586/problem/B) | [Java 11](./codeforces/1586/B.java) | `brute force` `constructive algorithms` `trees` | Oct/22/2021 15:54 | 
+974 | [A - Windblume Ode](https://codeforces.com/contest/1586/problem/A) | [Java 11](./codeforces/1586/A.java) | `brute force` `constructive algorithms` `greedy` `math` `number theory` | Oct/22/2021 15:46 | 
 973 | [A - Numbers](https://codeforces.com/contest/13/problem/A) | [Java 11](./codeforces/13/A.java) | `implementation` `math` `*1000` | Oct/16/2021 04:43 | 
 972 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [Java 11](./codeforces/977/F.java) | `dp` `*1700` | Oct/15/2021 15:38 | 
 971 | [E - Cyclic Components](https://codeforces.com/contest/977/problem/E) | [Java 11](./codeforces/977/E.java) | `dfs and similar` `dsu` `graphs` `*1500` | Oct/15/2021 15:14 | 
