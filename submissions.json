@@ -12345,6 +12345,25 @@
     ],
     "timestamp": "Oct/16/2021 04:43"
   },
+  "CF132685845": {
+    "contest_id": 1586,
+    "language": "Java 11",
+    "path": "codeforces/1586/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Omkar and Determination",
+    "problem_url": "https://codeforces.com/contest/1586/problem/C",
+    "submission_id": "CF132685845",
+    "submission_url": "https://codeforces.com/contest/1586/submission/132685845",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ],
+    "timestamp": "Oct/22/2021 16:15"
+  },
   "CF132691573": {
     "contest_id": 1586,
     "language": "Java 11",
