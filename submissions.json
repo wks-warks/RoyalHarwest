@@ -3375,6 +3375,22 @@
     ],
     "timestamp": "Oct/21/2021 18:34"
   },
+  "AC26759083": {
+    "contest_id": "abc224",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc224/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Mongeness",
+    "problem_url": "https://atcoder.jp/contests/abc224/tasks/abc224_b",
+    "submission_id": "AC26759083",
+    "submission_url": "https://atcoder.jp/contests/abc224/submissions/26759083",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/23/2021 17:36"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
