@@ -12594,6 +12594,24 @@
     ],
     "timestamp": "Oct/22/2021 17:17"
   },
+  "CF133048930": {
+    "contest_id": 1602,
+    "language": "Java 11",
+    "path": "codeforces/1602/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Array Elimination",
+    "problem_url": "https://codeforces.com/contest/1602/problem/C",
+    "submission_id": "CF133048930",
+    "submission_url": "https://codeforces.com/contest/1602/submission/133048930",
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Oct/25/2021 15:54"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
