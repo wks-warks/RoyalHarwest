@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-989 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [Java 11](./codeforces/1602/C.java) | `bitmasks` `math` `number theory` `*1300` | Oct/25/2021 15:54 | 
+990 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [Java 11](./codeforces/1602/C.java) | `bitmasks` `math` `number theory` `*1300` | Oct/25/2021 15:54 | 
+989 | [B - Divine Array](https://codeforces.com/contest/1602/problem/B) | [Java 11](./codeforces/1602/B.java) | `constructive algorithms` `implementation` `*1100` | Oct/25/2021 15:33 | 
 988 | [B - Mongeness](https://atcoder.jp/contests/abc224/tasks/abc224_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc224/B.java) | `AtCoder` `*200` | Oct/23/2021 17:36 | 
 987 | [A - Tires](https://atcoder.jp/contests/abc224/tasks/abc224_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc224/A.java) | `AtCoder` `*100` | Oct/23/2021 17:31 | 
 986 | [D - Omkar and the Meaning of Life](https://codeforces.com/contest/1586/problem/D) | [Java 11](./codeforces/1586/D.java) | `constructive algorithms` `greedy` `interactive` `math` | Oct/22/2021 17:17 | 
