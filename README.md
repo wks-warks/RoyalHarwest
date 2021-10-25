@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-993 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [Java 11](./codeforces/1602/C.java) | `bitmasks` `math` `number theory` `*1300` | Oct/25/2021 15:54 | 
-992 | [B - Divine Array](https://codeforces.com/contest/1602/problem/B) | [Java 11](./codeforces/1602/B.java) | `constructive algorithms` `implementation` `*1100` | Oct/25/2021 15:33 | 
-991 | [A - Two Subsequences](https://codeforces.com/contest/1602/problem/A) | [Java 11](./codeforces/1602/A.java) | `implementation` `*800` | Oct/25/2021 15:10 | 
-990 | [D - Vupsen, Pupsen and 0](https://codeforces.com/contest/1582/problem/D) | [Java 11](./codeforces/1582/D.java) | `constructive algorithms` `math` `*1600` | Oct/25/2021 09:54 | 
-989 | [C - Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | [Java 11](./codeforces/1582/C.java) | `brute force` `data structures` `greedy` `strings` `two pointers` `*1200` | Oct/25/2021 09:14 | 
+994 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [Java 11](./codeforces/1602/C.java) | `bitmasks` `math` `number theory` `*1300` | Oct/25/2021 15:54 | 
+993 | [B - Divine Array](https://codeforces.com/contest/1602/problem/B) | [Java 11](./codeforces/1602/B.java) | `constructive algorithms` `implementation` `*1100` | Oct/25/2021 15:33 | 
+992 | [A - Two Subsequences](https://codeforces.com/contest/1602/problem/A) | [Java 11](./codeforces/1602/A.java) | `implementation` `*800` | Oct/25/2021 15:10 | 
+991 | [D - Vupsen, Pupsen and 0](https://codeforces.com/contest/1582/problem/D) | [Java 11](./codeforces/1582/D.java) | `constructive algorithms` `math` `*1600` | Oct/25/2021 09:54 | 
+990 | [C - Grandma Capa Knits a Scarf](https://codeforces.com/contest/1582/problem/C) | [Java 11](./codeforces/1582/C.java) | `brute force` `data structures` `greedy` `strings` `two pointers` `*1200` | Oct/25/2021 09:14 | 
+989 | [B - Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | [Java 11](./codeforces/1582/B.java) | `combinatorics` `math` `*900` | Oct/25/2021 09:02 | 
 988 | [B - Mongeness](https://atcoder.jp/contests/abc224/tasks/abc224_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc224/B.java) | `AtCoder` `*200` | Oct/23/2021 17:36 | 
 987 | [A - Tires](https://atcoder.jp/contests/abc224/tasks/abc224_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc224/A.java) | `AtCoder` `*100` | Oct/23/2021 17:31 | 
 986 | [D - Omkar and the Meaning of Life](https://codeforces.com/contest/1586/problem/D) | [Java 11](./codeforces/1586/D.java) | `constructive algorithms` `greedy` `interactive` `math` | Oct/22/2021 17:17 | 
