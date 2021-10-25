@@ -12594,6 +12594,22 @@
     ],
     "timestamp": "Oct/22/2021 17:17"
   },
+  "CF133045036": {
+    "contest_id": 1602,
+    "language": "Java 11",
+    "path": "codeforces/1602/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Subsequences",
+    "problem_url": "https://codeforces.com/contest/1602/problem/A",
+    "submission_id": "CF133045036",
+    "submission_url": "https://codeforces.com/contest/1602/submission/133045036",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/25/2021 15:10"
+  },
   "CF133047083": {
     "contest_id": 1602,
     "language": "Java 11",
