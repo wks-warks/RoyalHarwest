@@ -12594,6 +12594,23 @@
     ],
     "timestamp": "Oct/22/2021 17:17"
   },
+  "CF132976772": {
+    "contest_id": 1582,
+    "language": "Java 11",
+    "path": "codeforces/1582/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vupsen, Pupsen and 0",
+    "problem_url": "https://codeforces.com/contest/1582/problem/D",
+    "submission_id": "CF132976772",
+    "submission_url": "https://codeforces.com/contest/1582/submission/132976772",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Oct/25/2021 09:54"
+  },
   "CF133045036": {
     "contest_id": 1602,
     "language": "Java 11",
