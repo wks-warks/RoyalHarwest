@@ -12594,6 +12594,22 @@
     ],
     "timestamp": "Oct/22/2021 17:17"
   },
+  "CF132974234": {
+    "contest_id": 1582,
+    "language": "Java 11",
+    "path": "codeforces/1582/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Luntik and Concerts",
+    "problem_url": "https://codeforces.com/contest/1582/problem/A",
+    "submission_id": "CF132974234",
+    "submission_url": "https://codeforces.com/contest/1582/submission/132974234",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/25/2021 08:57"
+  },
   "CF132974437": {
     "contest_id": 1582,
     "language": "Java 11",
