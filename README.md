@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-999 | [E - 7](https://atcoder.jp/contests/abc225/tasks/abc225_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc225/E.java) | `AtCoder` `*500` | Oct/30/2021 18:21 | 
+1000 | [E - 7](https://atcoder.jp/contests/abc225/tasks/abc225_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc225/E.java) | `AtCoder` `*500` | Oct/30/2021 18:21 | 
+999 | [D - Play Train](https://atcoder.jp/contests/abc225/tasks/abc225_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc225/D.java) | `AtCoder` `*400` | Oct/30/2021 17:57 | 
 998 | [C - Banknotes](https://codeforces.com/contest/1606/problem/C) | [Java 11](./codeforces/1606/C.java) | `constructive algorithms` `greedy` | Oct/30/2021 14:53 | 
 997 | [B - Update Files](https://codeforces.com/contest/1606/problem/B) | [Java 11](./codeforces/1606/B.java) | `implementation` `math` | Oct/30/2021 14:27 | 
 996 | [A - AB Balance](https://codeforces.com/contest/1606/problem/A) | [Java 11](./codeforces/1606/A.java) | `constructive algorithms` `strings` | Oct/30/2021 14:20 | 
