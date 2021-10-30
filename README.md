@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-996 | [C - Banknotes](https://codeforces.com/contest/1606/problem/C) | [Java 11](./codeforces/1606/C.java) | `constructive algorithms` `greedy` | Oct/30/2021 14:53 | 
+997 | [C - Banknotes](https://codeforces.com/contest/1606/problem/C) | [Java 11](./codeforces/1606/C.java) | `constructive algorithms` `greedy` | Oct/30/2021 14:53 | 
+996 | [B - Update Files](https://codeforces.com/contest/1606/problem/B) | [Java 11](./codeforces/1606/B.java) | `implementation` `math` | Oct/30/2021 14:27 | 
 995 | [C - Array Elimination](https://codeforces.com/contest/1602/problem/C) | [Java 11](./codeforces/1602/C.java) | `bitmasks` `math` `number theory` `*1300` | Oct/25/2021 15:54 | 
 994 | [B - Divine Array](https://codeforces.com/contest/1602/problem/B) | [Java 11](./codeforces/1602/B.java) | `constructive algorithms` `implementation` `*1100` | Oct/25/2021 15:33 | 
 993 | [A - Two Subsequences](https://codeforces.com/contest/1602/problem/A) | [Java 11](./codeforces/1602/A.java) | `implementation` `*800` | Oct/25/2021 15:10 | 
