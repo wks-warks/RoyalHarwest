@@ -12715,6 +12715,22 @@
     ],
     "timestamp": "Oct/25/2021 15:54"
   },
+  "CF133584972": {
+    "contest_id": 1606,
+    "language": "Java 11",
+    "path": "codeforces/1606/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "AB Balance",
+    "problem_url": "https://codeforces.com/contest/1606/problem/A",
+    "submission_id": "CF133584972",
+    "submission_url": "https://codeforces.com/contest/1606/submission/133584972",
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ],
+    "timestamp": "Oct/30/2021 14:20"
+  },
   "CF133585648": {
     "contest_id": 1606,
     "language": "Java 11",
