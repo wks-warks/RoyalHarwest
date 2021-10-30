@@ -12715,6 +12715,22 @@
     ],
     "timestamp": "Oct/25/2021 15:54"
   },
+  "CF133588223": {
+    "contest_id": 1606,
+    "language": "Java 11",
+    "path": "codeforces/1606/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Banknotes",
+    "problem_url": "https://codeforces.com/contest/1606/problem/C",
+    "submission_id": "CF133588223",
+    "submission_url": "https://codeforces.com/contest/1606/submission/133588223",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "Oct/30/2021 14:53"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
