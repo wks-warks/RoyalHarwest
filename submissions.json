@@ -12843,6 +12843,23 @@
     ],
     "timestamp": "Oct/30/2021 14:53"
   },
+  "CF134012406": {
+    "contest_id": 988,
+    "language": "Java 11",
+    "path": "codeforces/988/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Substrings Sort",
+    "problem_url": "https://codeforces.com/contest/988/problem/B",
+    "submission_id": "CF134012406",
+    "submission_url": "https://codeforces.com/contest/988/submission/134012406",
+    "tags": [
+      "sortings",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Nov/02/2021 10:21"
+  },
   "CF134013521": {
     "contest_id": 988,
     "language": "Java 11",
