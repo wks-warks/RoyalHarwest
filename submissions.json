@@ -3487,6 +3487,22 @@
     ],
     "timestamp": "Oct/30/2021 18:21"
   },
+  "AC26985466": {
+    "contest_id": "abc072",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc072/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Derangement",
+    "problem_url": "https://atcoder.jp/contests/abc072/tasks/arc082_b",
+    "submission_id": "AC26985466",
+    "submission_url": "https://atcoder.jp/contests/abc072/submissions/26985466",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/02/2021 10:06"
+  },
   "AC27076317": {
     "contest_id": "abc226",
     "language": "Java (OpenJDK 11.0.6)",
