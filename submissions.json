@@ -12843,6 +12843,23 @@
     ],
     "timestamp": "Oct/30/2021 14:53"
   },
+  "CF134013521": {
+    "contest_id": 988,
+    "language": "Java 11",
+    "path": "codeforces/988/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Equal Sums",
+    "problem_url": "https://codeforces.com/contest/988/problem/C",
+    "submission_id": "CF134013521",
+    "submission_url": "https://codeforces.com/contest/988/submission/134013521",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Nov/02/2021 10:41"
+  },
   "CF134014139": {
     "contest_id": 988,
     "language": "Java 11",
