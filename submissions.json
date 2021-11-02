@@ -3487,6 +3487,22 @@
     ],
     "timestamp": "Oct/30/2021 18:21"
   },
+  "AC26985361": {
+    "contest_id": "abc072",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc072/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Sandglass2",
+    "problem_url": "https://atcoder.jp/contests/abc072/tasks/abc072_a",
+    "submission_id": "AC26985361",
+    "submission_url": "https://atcoder.jp/contests/abc072/submissions/26985361",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/02/2021 09:56"
+  },
   "AC26985374": {
     "contest_id": "abc072",
     "language": "Java (OpenJDK 11.0.6)",

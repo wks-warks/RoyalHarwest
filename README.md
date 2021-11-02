@@ -13,19 +13,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1015 | [E - Just one](https://atcoder.jp/contests/abc226/tasks/abc226_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/E.java) | `AtCoder` `*500` | Nov/07/2021 18:34 | 
-1014 | [D - Teleportation](https://atcoder.jp/contests/abc226/tasks/abc226_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/D.java) | `AtCoder` `*400` | Nov/07/2021 17:54 | 
-1013 | [C - Martial artist](https://atcoder.jp/contests/abc226/tasks/abc226_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/C.java) | `AtCoder` `*300` | Nov/07/2021 17:45 | 
-1012 | [B - Counting Arrays](https://atcoder.jp/contests/abc226/tasks/abc226_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/B.java) | `AtCoder` `*200` | Nov/07/2021 17:37 | 
-1011 | [A - Round decimals](https://atcoder.jp/contests/abc226/tasks/abc226_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/A.java) | `AtCoder` `*100` | Nov/07/2021 17:31 | 
-1010 | [E - Divisibility by 25](https://codeforces.com/contest/988/problem/E) | [Java 11](./codeforces/988/E.java) | `brute force` `greedy` `*2100` | Nov/02/2021 11:17 | 
-1009 | [D - Points and Powers of Two](https://codeforces.com/contest/988/problem/D) | [Java 11](./codeforces/988/D.java) | `brute force` `math` `*1800` | Nov/02/2021 10:51 | 
-1008 | [C - Equal Sums](https://codeforces.com/contest/988/problem/C) | [Java 11](./codeforces/988/C.java) | `implementation` `sortings` `*1400` | Nov/02/2021 10:41 | 
-1007 | [B - Substrings Sort](https://codeforces.com/contest/988/problem/B) | [Java 11](./codeforces/988/B.java) | `sortings` `strings` `*1100` | Nov/02/2021 10:21 | 
-1006 | [A - Diverse Team](https://codeforces.com/contest/988/problem/A) | [Java 11](./codeforces/988/A.java) | `brute force` `implementation` `*800` | Nov/02/2021 10:13 | 
-1005 | [D - Derangement](https://atcoder.jp/contests/abc072/tasks/arc082_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc072/D.java) | `AtCoder` `*400` | Nov/02/2021 10:06 | 
-1004 | [C - Together](https://atcoder.jp/contests/abc072/tasks/arc082_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc072/C.java) | `AtCoder` `*300` | Nov/02/2021 10:01 | 
-1003 | [B - OddString](https://atcoder.jp/contests/abc072/tasks/abc072_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc072/B.java) | `AtCoder` `*200` | Nov/02/2021 09:57 | 
+1016 | [E - Just one](https://atcoder.jp/contests/abc226/tasks/abc226_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/E.java) | `AtCoder` `*500` | Nov/07/2021 18:34 | 
+1015 | [D - Teleportation](https://atcoder.jp/contests/abc226/tasks/abc226_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/D.java) | `AtCoder` `*400` | Nov/07/2021 17:54 | 
+1014 | [C - Martial artist](https://atcoder.jp/contests/abc226/tasks/abc226_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/C.java) | `AtCoder` `*300` | Nov/07/2021 17:45 | 
+1013 | [B - Counting Arrays](https://atcoder.jp/contests/abc226/tasks/abc226_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/B.java) | `AtCoder` `*200` | Nov/07/2021 17:37 | 
+1012 | [A - Round decimals](https://atcoder.jp/contests/abc226/tasks/abc226_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/A.java) | `AtCoder` `*100` | Nov/07/2021 17:31 | 
+1011 | [E - Divisibility by 25](https://codeforces.com/contest/988/problem/E) | [Java 11](./codeforces/988/E.java) | `brute force` `greedy` `*2100` | Nov/02/2021 11:17 | 
+1010 | [D - Points and Powers of Two](https://codeforces.com/contest/988/problem/D) | [Java 11](./codeforces/988/D.java) | `brute force` `math` `*1800` | Nov/02/2021 10:51 | 
+1009 | [C - Equal Sums](https://codeforces.com/contest/988/problem/C) | [Java 11](./codeforces/988/C.java) | `implementation` `sortings` `*1400` | Nov/02/2021 10:41 | 
+1008 | [B - Substrings Sort](https://codeforces.com/contest/988/problem/B) | [Java 11](./codeforces/988/B.java) | `sortings` `strings` `*1100` | Nov/02/2021 10:21 | 
+1007 | [A - Diverse Team](https://codeforces.com/contest/988/problem/A) | [Java 11](./codeforces/988/A.java) | `brute force` `implementation` `*800` | Nov/02/2021 10:13 | 
+1006 | [D - Derangement](https://atcoder.jp/contests/abc072/tasks/arc082_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc072/D.java) | `AtCoder` `*400` | Nov/02/2021 10:06 | 
+1005 | [C - Together](https://atcoder.jp/contests/abc072/tasks/arc082_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc072/C.java) | `AtCoder` `*300` | Nov/02/2021 10:01 | 
+1004 | [B - OddString](https://atcoder.jp/contests/abc072/tasks/abc072_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc072/B.java) | `AtCoder` `*200` | Nov/02/2021 09:57 | 
+1003 | [A - Sandglass2](https://atcoder.jp/contests/abc072/tasks/abc072_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc072/A.java) | `AtCoder` `*100` | Nov/02/2021 09:56 | 
 1002 | [E - 7](https://atcoder.jp/contests/abc225/tasks/abc225_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc225/E.java) | `AtCoder` `*500` | Oct/30/2021 18:21 | 
 1001 | [D - Play Train](https://atcoder.jp/contests/abc225/tasks/abc225_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc225/D.java) | `AtCoder` `*400` | Oct/30/2021 17:57 | 
 1000 | [C - Calendar Validator](https://atcoder.jp/contests/abc225/tasks/abc225_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc225/C.java) | `AtCoder` `*300` | Oct/30/2021 17:45 | 
