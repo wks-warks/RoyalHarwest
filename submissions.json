@@ -3487,6 +3487,22 @@
     ],
     "timestamp": "Oct/30/2021 18:21"
   },
+  "AC26985374": {
+    "contest_id": "abc072",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc072/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "OddString",
+    "problem_url": "https://atcoder.jp/contests/abc072/tasks/abc072_b",
+    "submission_id": "AC26985374",
+    "submission_url": "https://atcoder.jp/contests/abc072/submissions/26985374",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/02/2021 09:57"
+  },
   "AC26985421": {
     "contest_id": "abc072",
     "language": "Java (OpenJDK 11.0.6)",
