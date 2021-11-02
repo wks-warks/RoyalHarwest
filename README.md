@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1004 | [E - Divisibility by 25](https://codeforces.com/contest/988/problem/E) | [Java 11](./codeforces/988/E.java) | `brute force` `greedy` `*2100` | Nov/02/2021 11:17 | 
+1005 | [E - Divisibility by 25](https://codeforces.com/contest/988/problem/E) | [Java 11](./codeforces/988/E.java) | `brute force` `greedy` `*2100` | Nov/02/2021 11:17 | 
+1004 | [D - Points and Powers of Two](https://codeforces.com/contest/988/problem/D) | [Java 11](./codeforces/988/D.java) | `brute force` `math` `*1800` | Nov/02/2021 10:51 | 
 1003 | [E - 7](https://atcoder.jp/contests/abc225/tasks/abc225_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc225/E.java) | `AtCoder` `*500` | Oct/30/2021 18:21 | 
 1002 | [D - Play Train](https://atcoder.jp/contests/abc225/tasks/abc225_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc225/D.java) | `AtCoder` `*400` | Oct/30/2021 17:57 | 
 1001 | [C - Calendar Validator](https://atcoder.jp/contests/abc225/tasks/abc225_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc225/C.java) | `AtCoder` `*300` | Oct/30/2021 17:45 | 
