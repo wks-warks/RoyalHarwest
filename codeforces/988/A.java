@@ -1,36 +1,140 @@
-//Codeforces 988A 
-import java.util.Scanner;
-import java.util.TreeMap;
-import java.util.Map;
+// Author : RegalBeast
 
-public class CF988A {
-    static final Scanner SC = new Scanner(System.in);
-    public static void main(String[] args) {
-        TreeMap<Integer, Integer> ratings = new TreeMap<>();
-        int students = SC.nextInt();
-        int teamSize = SC.nextInt();
-        for (int s = 0; s < students; ++s) {
-            int rating = SC.nextInt();
-            if (!ratings.containsKey(rating))
-                ratings.put(rating, s+1);
-        }
-        if (ratings.size() >= teamSize) {
-            System.out.println("YES");
-            int printed = 0;
-            for (Map.Entry<Integer, Integer> me : ratings.entrySet()) {
-                if (printed == teamSize) {
-                    System.out.println();
-                    break;
-                }
-                else {
-                    System.out.print(me.getValue() + " ");
-                    printed += 1;
-                }
-            }
-        }
-        else {
-            System.out.println("NO");
-        }
-        
+import java.io.*;
+import java.util.*;
+import java.util.concurrent.*;
+
+public class Main implements Runnable {
+  static Input in = new Input();
+  static PrintWriter out = Output();
+  
+  public static void main(String[] args) {
+    new Thread(null, new Main(), String.join(
+                                  "All that is gold does not glitter,",
+                                  "Not all those who wander are lost;",
+                                  "The old that is strong does not wither,",
+                                  "Deep roots are not reached by the frost.",
+                                  
+                                  "From the ashes a fire shall be woken,",
+                                  "A light from the shadows shall spring;",
+                                  "Renewed shall be blade that was broken,",
+                                  "The crownless again shall be king."
+                                ), 1<<25).start();
+  }
+
+  public void run() {
+    int students = in.nextInt();
+    int teamSize = in.nextInt();
+
+    int[] ratings = new int[students];
+    for (int s = 0; s < students; s++) {
+      ratings[s] = in.nextInt();
     }
+
+    Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+    for (int s = 0; s < students; s++) {
+      map.put(ratings[s], s+1);
+    }
+
+    if (map.size() < teamSize) {
+      out.println("NO");
+    } else {
+      out.println("YES");
+      int printed = 0;
+      for (var idx : map.values()) {
+        out.print(idx + " ");
+        printed++;
+        if (printed == teamSize) {
+          break;
+        }
+      }
+      out.println();
+    }
+    
+    in.close();
+    out.close();
+  }
+  
+  static PrintWriter Output() {
+    return new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
+  }
+  
+  static PrintWriter Output(String fileName) {
+    PrintWriter pw = null;
+    try {
+      pw = new PrintWriter(new BufferedWriter(new FileWriter(fileName)));
+    } catch (IOException ex) {
+      ex.printStackTrace();
+    }
+    return pw;
+  }
+}
+
+class Input {
+  BufferedReader br;
+  StringTokenizer st;
+  public Input() {
+    br = new BufferedReader(new InputStreamReader(System.in));
+  }
+
+  public Input(String fileName) {
+    try {
+      br = new BufferedReader(new FileReader(fileName));
+    } catch (IOException ex) {
+      ex.printStackTrace();
+    }
+  }
+
+  public String next() {
+    while (st == null || !st.hasMoreElements()) {
+      try {
+        st = new StringTokenizer(br.readLine());
+      } catch (IOException ex) {
+        ex.printStackTrace();
+      }
+    }
+    return st.nextToken();
+  }
+
+  public int nextInt() {
+    return Integer.parseInt(next());
+  }
+
+  public long nextLong() {
+    return Long.parseLong(next());
+  }
+
+  public Float nextFloat() {
+    return Float.parseFloat(next());
+  }
+
+  public Double nextDouble() {
+    return Double.parseDouble(next());
+  }
+
+  public String nextLine() {
+    if (st != null && st.hasMoreElements()) {
+      StringBuilder sb = new StringBuilder();
+      while (st.hasMoreElements()) {
+        sb.append(next());
+      }
+      return sb.toString();
+    }
+
+    String str = null;
+    try {
+      str = br.readLine();
+    } catch (IOException ex) {
+      ex.printStackTrace();
+    }
+    return str;
+  }
+
+  public void close() {
+    try {
+      br.close();
+    } catch (IOException ex) {
+      ex.printStackTrace();
+    }
+  }
 }
