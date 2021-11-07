@@ -3487,6 +3487,22 @@
     ],
     "timestamp": "Oct/30/2021 18:21"
   },
+  "AC27087018": {
+    "contest_id": "abc226",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc226/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Martial artist",
+    "problem_url": "https://atcoder.jp/contests/abc226/tasks/abc226_c",
+    "submission_id": "AC27087018",
+    "submission_url": "https://atcoder.jp/contests/abc226/submissions/27087018",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/07/2021 17:45"
+  },
   "AC27091337": {
     "contest_id": "abc226",
     "language": "Java (OpenJDK 11.0.6)",
