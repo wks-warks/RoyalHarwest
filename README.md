@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1008 | [E - Just one](https://atcoder.jp/contests/abc226/tasks/abc226_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/E.java) | `AtCoder` `*500` | Nov/07/2021 18:34 | 
+1009 | [E - Just one](https://atcoder.jp/contests/abc226/tasks/abc226_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/E.java) | `AtCoder` `*500` | Nov/07/2021 18:34 | 
+1008 | [D - Teleportation](https://atcoder.jp/contests/abc226/tasks/abc226_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/D.java) | `AtCoder` `*400` | Nov/07/2021 17:54 | 
 1007 | [E - Divisibility by 25](https://codeforces.com/contest/988/problem/E) | [Java 11](./codeforces/988/E.java) | `brute force` `greedy` `*2100` | Nov/02/2021 11:17 | 
 1006 | [D - Points and Powers of Two](https://codeforces.com/contest/988/problem/D) | [Java 11](./codeforces/988/D.java) | `brute force` `math` `*1800` | Nov/02/2021 10:51 | 
 1005 | [C - Equal Sums](https://codeforces.com/contest/988/problem/C) | [Java 11](./codeforces/988/C.java) | `implementation` `sortings` `*1400` | Nov/02/2021 10:41 | 
