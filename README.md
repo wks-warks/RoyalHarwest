@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1017 | [D - Moderate Modular Mode](https://codeforces.com/contest/1604/problem/D) | [Java 11](./codeforces/1604/D.java) | `math` `number theory` `*1600` | Nov/09/2021 16:11 | 
 1016 | [E - Just one](https://atcoder.jp/contests/abc226/tasks/abc226_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/E.java) | `AtCoder` `*500` | Nov/07/2021 18:34 | 
 1015 | [D - Teleportation](https://atcoder.jp/contests/abc226/tasks/abc226_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/D.java) | `AtCoder` `*400` | Nov/07/2021 17:54 | 
 1014 | [C - Martial artist](https://atcoder.jp/contests/abc226/tasks/abc226_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/C.java) | `AtCoder` `*300` | Nov/07/2021 17:45 | 
