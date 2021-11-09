@@ -13072,6 +13072,21 @@
     ],
     "timestamp": "Nov/02/2021 11:17"
   },
+  "CF134742901": {
+    "contest_id": 1604,
+    "language": "Java 11",
+    "path": "codeforces/1604/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "XOR Specia-LIS-t",
+    "problem_url": "https://codeforces.com/contest/1604/problem/B",
+    "submission_id": "CF134742901",
+    "submission_url": "https://codeforces.com/contest/1604/submission/134742901",
+    "tags": [
+      "*1100"
+    ],
+    "timestamp": "Nov/09/2021 15:29"
+  },
   "CF134743911": {
     "contest_id": 1604,
     "language": "Java 11",
