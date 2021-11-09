@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1019 | [D - Moderate Modular Mode](https://codeforces.com/contest/1604/problem/D) | [Java 11](./codeforces/1604/D.java) | `math` `number theory` `*1600` | Nov/09/2021 16:11 | 
-1018 | [C - Di-visible Confusion](https://codeforces.com/contest/1604/problem/C) | [Java 11](./codeforces/1604/C.java) | `brute force` `greedy` `math` `number theory` `*1300` | Nov/09/2021 15:44 | 
-1017 | [B - XOR Specia-LIS-t](https://codeforces.com/contest/1604/problem/B) | [Java 11](./codeforces/1604/B.java) | `*1100` | Nov/09/2021 15:29 | 
+1020 | [D - Moderate Modular Mode](https://codeforces.com/contest/1604/problem/D) | [Java 11](./codeforces/1604/D.java) | `math` `number theory` `*1600` | Nov/09/2021 16:11 | 
+1019 | [C - Di-visible Confusion](https://codeforces.com/contest/1604/problem/C) | [Java 11](./codeforces/1604/C.java) | `brute force` `greedy` `math` `number theory` `*1300` | Nov/09/2021 15:44 | 
+1018 | [B - XOR Specia-LIS-t](https://codeforces.com/contest/1604/problem/B) | [Java 11](./codeforces/1604/B.java) | `*1100` | Nov/09/2021 15:29 | 
+1017 | [A - Era](https://codeforces.com/contest/1604/problem/A) | [Java 11](./codeforces/1604/A.java) | `greedy` `*800` | Nov/09/2021 15:19 | 
 1016 | [E - Just one](https://atcoder.jp/contests/abc226/tasks/abc226_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/E.java) | `AtCoder` `*500` | Nov/07/2021 18:34 | 
 1015 | [D - Teleportation](https://atcoder.jp/contests/abc226/tasks/abc226_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/D.java) | `AtCoder` `*400` | Nov/07/2021 17:54 | 
 1014 | [C - Martial artist](https://atcoder.jp/contests/abc226/tasks/abc226_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc226/C.java) | `AtCoder` `*300` | Nov/07/2021 17:45 | 
