@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1022 | [D - Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D) | [Java 11](./codeforces/1607/D.java) | `greedy` `math` `sortings` `*1300` | Nov/10/2021 16:57 | 
-1021 | [C - Minimum Extraction](https://codeforces.com/contest/1607/problem/C) | [Java 11](./codeforces/1607/C.java) | `brute force` `sortings` `*1000` | Nov/10/2021 16:26 | 
+1023 | [D - Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D) | [Java 11](./codeforces/1607/D.java) | `greedy` `math` `sortings` `*1300` | Nov/10/2021 16:57 | 
+1022 | [C - Minimum Extraction](https://codeforces.com/contest/1607/problem/C) | [Java 11](./codeforces/1607/C.java) | `brute force` `sortings` `*1000` | Nov/10/2021 16:26 | 
+1021 | [B - Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | [Java 11](./codeforces/1607/B.java) | `math` `*900` | Nov/10/2021 16:20 | 
 1020 | [D - Divide and Summarize](https://codeforces.com/contest/1461/problem/D) | [Java 11](./codeforces/1461/D.java) | `binary search` `brute force` `data structures` `divide and conquer` `implementation` `sortings` `*1600` | Nov/10/2021 14:47 | 
 1019 | [D - Moderate Modular Mode](https://codeforces.com/contest/1604/problem/D) | [Java 11](./codeforces/1604/D.java) | `math` `number theory` `*1600` | Nov/09/2021 16:11 | 
 1018 | [C - Di-visible Confusion](https://codeforces.com/contest/1604/problem/C) | [Java 11](./codeforces/1604/C.java) | `brute force` `greedy` `math` `number theory` `*1300` | Nov/09/2021 15:44 | 

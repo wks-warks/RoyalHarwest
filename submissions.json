@@ -13160,6 +13160,22 @@
     ],
     "timestamp": "Nov/10/2021 14:47"
   },
+  "CF134845102": {
+    "contest_id": 1607,
+    "language": "Java 11",
+    "path": "codeforces/1607/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Odd Grasshopper",
+    "problem_url": "https://codeforces.com/contest/1607/problem/B",
+    "submission_id": "CF134845102",
+    "submission_url": "https://codeforces.com/contest/1607/submission/134845102",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/10/2021 16:20"
+  },
   "CF134845608": {
     "contest_id": 1607,
     "language": "Java 11",
