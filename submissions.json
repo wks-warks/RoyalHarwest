@@ -13139,6 +13139,27 @@
     ],
     "timestamp": "Nov/09/2021 16:11"
   },
+  "CF134837828": {
+    "contest_id": 1461,
+    "language": "Java 11",
+    "path": "codeforces/1461/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Divide and Summarize",
+    "problem_url": "https://codeforces.com/contest/1461/problem/D",
+    "submission_id": "CF134837828",
+    "submission_url": "https://codeforces.com/contest/1461/submission/134837828",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Nov/10/2021 14:47"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
