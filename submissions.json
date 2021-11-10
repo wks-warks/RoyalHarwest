@@ -13160,6 +13160,24 @@
     ],
     "timestamp": "Nov/10/2021 14:47"
   },
+  "CF134848573": {
+    "contest_id": 1607,
+    "language": "Java 11",
+    "path": "codeforces/1607/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Blue-Red Permutation",
+    "problem_url": "https://codeforces.com/contest/1607/problem/D",
+    "submission_id": "CF134848573",
+    "submission_url": "https://codeforces.com/contest/1607/submission/134848573",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Nov/10/2021 16:57"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
