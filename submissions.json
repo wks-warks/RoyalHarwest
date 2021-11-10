@@ -13160,6 +13160,23 @@
     ],
     "timestamp": "Nov/10/2021 14:47"
   },
+  "CF134845608": {
+    "contest_id": 1607,
+    "language": "Java 11",
+    "path": "codeforces/1607/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimum Extraction",
+    "problem_url": "https://codeforces.com/contest/1607/problem/C",
+    "submission_id": "CF134845608",
+    "submission_url": "https://codeforces.com/contest/1607/submission/134845608",
+    "tags": [
+      "brute force",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Nov/10/2021 16:26"
+  },
   "CF134848573": {
     "contest_id": 1607,
     "language": "Java 11",
