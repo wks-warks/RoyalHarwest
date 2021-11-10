@@ -13160,6 +13160,23 @@
     ],
     "timestamp": "Nov/10/2021 14:47"
   },
+  "CF134842770": {
+    "contest_id": 1607,
+    "language": "Java 11",
+    "path": "codeforces/1607/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Linear Keyboard",
+    "problem_url": "https://codeforces.com/contest/1607/problem/A",
+    "submission_id": "CF134842770",
+    "submission_url": "https://codeforces.com/contest/1607/submission/134842770",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/10/2021 15:53"
+  },
   "CF134845102": {
     "contest_id": 1607,
     "language": "Java 11",
