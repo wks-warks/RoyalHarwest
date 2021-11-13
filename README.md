@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1026 | [C - ABC conjecture](https://atcoder.jp/contests/abc227/tasks/abc227_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/C.java) | `AtCoder` `*300` | Nov/13/2021 17:54 | 
-1025 | [B - KEYENCE building](https://atcoder.jp/contests/abc227/tasks/abc227_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/B.java) | `AtCoder` `*200` | Nov/13/2021 17:39 | 
+1027 | [C - ABC conjecture](https://atcoder.jp/contests/abc227/tasks/abc227_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/C.java) | `AtCoder` `*300` | Nov/13/2021 17:54 | 
+1026 | [B - KEYENCE building](https://atcoder.jp/contests/abc227/tasks/abc227_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/B.java) | `AtCoder` `*200` | Nov/13/2021 17:39 | 
+1025 | [A - Last Card](https://atcoder.jp/contests/abc227/tasks/abc227_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/A.java) | `AtCoder` `*100` | Nov/13/2021 17:35 | 
 1024 | [D - Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D) | [Java 11](./codeforces/1607/D.java) | `greedy` `math` `sortings` `*1300` | Nov/10/2021 16:57 | 
 1023 | [C - Minimum Extraction](https://codeforces.com/contest/1607/problem/C) | [Java 11](./codeforces/1607/C.java) | `brute force` `sortings` `*1000` | Nov/10/2021 16:26 | 
 1022 | [B - Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | [Java 11](./codeforces/1607/B.java) | `math` `*900` | Nov/10/2021 16:20 | 
