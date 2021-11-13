@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1025 | [C - ABC conjecture](https://atcoder.jp/contests/abc227/tasks/abc227_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/C.java) | `AtCoder` `*300` | Nov/13/2021 17:54 | 
 1024 | [D - Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D) | [Java 11](./codeforces/1607/D.java) | `greedy` `math` `sortings` `*1300` | Nov/10/2021 16:57 | 
 1023 | [C - Minimum Extraction](https://codeforces.com/contest/1607/problem/C) | [Java 11](./codeforces/1607/C.java) | `brute force` `sortings` `*1000` | Nov/10/2021 16:26 | 
 1022 | [B - Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | [Java 11](./codeforces/1607/B.java) | `math` `*900` | Nov/10/2021 16:20 | 

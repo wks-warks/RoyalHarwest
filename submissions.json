@@ -3631,6 +3631,22 @@
     ],
     "timestamp": "Nov/07/2021 18:34"
   },
+  "AC27220114": {
+    "contest_id": "abc227",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc227/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "ABC conjecture",
+    "problem_url": "https://atcoder.jp/contests/abc227/tasks/abc227_c",
+    "submission_id": "AC27220114",
+    "submission_url": "https://atcoder.jp/contests/abc227/submissions/27220114",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/13/2021 17:54"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
