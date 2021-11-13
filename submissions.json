@@ -3631,6 +3631,22 @@
     ],
     "timestamp": "Nov/07/2021 18:34"
   },
+  "AC27214443": {
+    "contest_id": "abc227",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc227/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "KEYENCE building",
+    "problem_url": "https://atcoder.jp/contests/abc227/tasks/abc227_b",
+    "submission_id": "AC27214443",
+    "submission_url": "https://atcoder.jp/contests/abc227/submissions/27214443",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/13/2021 17:39"
+  },
   "AC27220114": {
     "contest_id": "abc227",
     "language": "Java (OpenJDK 11.0.6)",
