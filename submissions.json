@@ -3679,6 +3679,22 @@
     ],
     "timestamp": "Nov/13/2021 17:54"
   },
+  "AC27267491": {
+    "contest_id": "abc073",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc073/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "joisino's travel",
+    "problem_url": "https://atcoder.jp/contests/abc073/tasks/abc073_d",
+    "submission_id": "AC27267491",
+    "submission_url": "https://atcoder.jp/contests/abc073/submissions/27267491",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/15/2021 03:45"
+  },
   "AC27275456": {
     "contest_id": "abc074",
     "language": "Java (OpenJDK 11.0.6)",
