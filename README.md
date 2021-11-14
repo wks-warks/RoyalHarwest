@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1033 | [D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/D.java) | `AtCoder` `*500` | Nov/15/2021 18:13 | 
-1032 | [C - Sugar Water](https://atcoder.jp/contests/abc074/tasks/arc083_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/C.java) | `AtCoder` `*300` | Nov/15/2021 17:02 | 
-1031 | [B - Collecting Balls (Easy Version)](https://atcoder.jp/contests/abc074/tasks/abc074_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/B.java) | `AtCoder` `*200` | Nov/15/2021 16:31 | 
-1030 | [A - Bichrome Cells](https://atcoder.jp/contests/abc074/tasks/abc074_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/A.java) | `AtCoder` `*100` | Nov/15/2021 16:26 | 
-1029 | [D - joisino's travel](https://atcoder.jp/contests/abc073/tasks/abc073_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc073/D.java) | `AtCoder` `*400` | Nov/15/2021 03:45 | 
-1028 | [C - Write and Erase](https://atcoder.jp/contests/abc073/tasks/abc073_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc073/C.java) | `AtCoder` `*300` | Nov/15/2021 02:28 | 
+1034 | [D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/D.java) | `AtCoder` `*500` | Nov/15/2021 18:13 | 
+1033 | [C - Sugar Water](https://atcoder.jp/contests/abc074/tasks/arc083_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/C.java) | `AtCoder` `*300` | Nov/15/2021 17:02 | 
+1032 | [B - Collecting Balls (Easy Version)](https://atcoder.jp/contests/abc074/tasks/abc074_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/B.java) | `AtCoder` `*200` | Nov/15/2021 16:31 | 
+1031 | [A - Bichrome Cells](https://atcoder.jp/contests/abc074/tasks/abc074_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/A.java) | `AtCoder` `*100` | Nov/15/2021 16:26 | 
+1030 | [D - joisino's travel](https://atcoder.jp/contests/abc073/tasks/abc073_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc073/D.java) | `AtCoder` `*400` | Nov/15/2021 03:45 | 
+1029 | [C - Write and Erase](https://atcoder.jp/contests/abc073/tasks/abc073_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc073/C.java) | `AtCoder` `*300` | Nov/15/2021 02:28 | 
+1028 | [B - Theater](https://atcoder.jp/contests/abc073/tasks/abc073_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc073/B.java) | `AtCoder` `*200` | Nov/15/2021 02:24 | 
 1027 | [C - ABC conjecture](https://atcoder.jp/contests/abc227/tasks/abc227_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/C.java) | `AtCoder` `*300` | Nov/13/2021 17:54 | 
 1026 | [B - KEYENCE building](https://atcoder.jp/contests/abc227/tasks/abc227_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/B.java) | `AtCoder` `*200` | Nov/13/2021 17:39 | 
 1025 | [A - Last Card](https://atcoder.jp/contests/abc227/tasks/abc227_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/A.java) | `AtCoder` `*100` | Nov/13/2021 17:35 | 
