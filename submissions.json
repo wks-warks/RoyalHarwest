@@ -3679,6 +3679,22 @@
     ],
     "timestamp": "Nov/13/2021 17:54"
   },
+  "AC27267223": {
+    "contest_id": "abc073",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc073/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "September 9",
+    "problem_url": "https://atcoder.jp/contests/abc073/tasks/abc073_a",
+    "submission_id": "AC27267223",
+    "submission_url": "https://atcoder.jp/contests/abc073/submissions/27267223",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/15/2021 02:22"
+  },
   "AC27267230": {
     "contest_id": "abc073",
     "language": "Java (OpenJDK 11.0.6)",
