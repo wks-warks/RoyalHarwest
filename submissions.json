@@ -3807,6 +3807,22 @@
     ],
     "timestamp": "Nov/15/2021 18:13"
   },
+  "AC27281146": {
+    "contest_id": "abc075",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc075/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Bridge",
+    "problem_url": "https://atcoder.jp/contests/abc075/tasks/abc075_c",
+    "submission_id": "AC27281146",
+    "submission_url": "https://atcoder.jp/contests/abc075/submissions/27281146",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/15/2021 22:21"
+  },
   "AC27281341": {
     "contest_id": "abc075",
     "language": "Java (OpenJDK 11.0.6)",
