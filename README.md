@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1028 | [D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/D.java) | `AtCoder` `*500` | Nov/15/2021 18:13 | 
 1027 | [C - ABC conjecture](https://atcoder.jp/contests/abc227/tasks/abc227_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/C.java) | `AtCoder` `*300` | Nov/13/2021 17:54 | 
 1026 | [B - KEYENCE building](https://atcoder.jp/contests/abc227/tasks/abc227_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/B.java) | `AtCoder` `*200` | Nov/13/2021 17:39 | 
 1025 | [A - Last Card](https://atcoder.jp/contests/abc227/tasks/abc227_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/A.java) | `AtCoder` `*100` | Nov/13/2021 17:35 | 

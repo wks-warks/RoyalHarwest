@@ -3679,6 +3679,22 @@
     ],
     "timestamp": "Nov/13/2021 17:54"
   },
+  "AC27277290": {
+    "contest_id": "abc074",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc074/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Restoring Road Network",
+    "problem_url": "https://atcoder.jp/contests/abc074/tasks/arc083_b",
+    "submission_id": "AC27277290",
+    "submission_url": "https://atcoder.jp/contests/abc074/submissions/27277290",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Nov/15/2021 18:13"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
