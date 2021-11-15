@@ -3679,6 +3679,22 @@
     ],
     "timestamp": "Nov/13/2021 17:54"
   },
+  "AC27276003": {
+    "contest_id": "abc074",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc074/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Sugar Water",
+    "problem_url": "https://atcoder.jp/contests/abc074/tasks/arc083_a",
+    "submission_id": "AC27276003",
+    "submission_url": "https://atcoder.jp/contests/abc074/submissions/27276003",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/15/2021 17:02"
+  },
   "AC27277290": {
     "contest_id": "abc074",
     "language": "Java (OpenJDK 11.0.6)",
