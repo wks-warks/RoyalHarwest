@@ -3807,6 +3807,22 @@
     ],
     "timestamp": "Nov/15/2021 18:13"
   },
+  "AC27281424": {
+    "contest_id": "abc076",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc076/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Addition and Multiplication",
+    "problem_url": "https://atcoder.jp/contests/abc076/tasks/abc076_b",
+    "submission_id": "AC27281424",
+    "submission_url": "https://atcoder.jp/contests/abc076/submissions/27281424",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/15/2021 22:54"
+  },
   "AC27281488": {
     "contest_id": "abc076",
     "language": "Java (OpenJDK 11.0.6)",
