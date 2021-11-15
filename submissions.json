@@ -3807,6 +3807,22 @@
     ],
     "timestamp": "Nov/15/2021 18:13"
   },
+  "AC27281488": {
+    "contest_id": "abc076",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc076/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Dubious Document 2",
+    "problem_url": "https://atcoder.jp/contests/abc076/tasks/abc076_c",
+    "submission_id": "AC27281488",
+    "submission_url": "https://atcoder.jp/contests/abc076/submissions/27281488",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/15/2021 23:06"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
