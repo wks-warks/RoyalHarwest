@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1040 | [C - Dubious Document 2](https://atcoder.jp/contests/abc076/tasks/abc076_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc076/C.java) | `AtCoder` `*300` | Nov/15/2021 23:06 | 
-1039 | [B - Addition and Multiplication](https://atcoder.jp/contests/abc076/tasks/abc076_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc076/B.java) | `AtCoder` `*200` | Nov/15/2021 22:54 | 
-1038 | [A - Rating Goal](https://atcoder.jp/contests/abc076/tasks/abc076_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc076/A.java) | `AtCoder` `*100` | Nov/15/2021 22:51 | 
-1037 | [D - Axis-Parallel Rectangle](https://atcoder.jp/contests/abc075/tasks/abc075_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc075/D.java) | `AtCoder` `*400` | Nov/15/2021 22:41 | 
-1036 | [C - Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc075/C.java) | `AtCoder` `*300` | Nov/15/2021 22:21 | 
+1041 | [C - Dubious Document 2](https://atcoder.jp/contests/abc076/tasks/abc076_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc076/C.java) | `AtCoder` `*300` | Nov/15/2021 23:06 | 
+1040 | [B - Addition and Multiplication](https://atcoder.jp/contests/abc076/tasks/abc076_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc076/B.java) | `AtCoder` `*200` | Nov/15/2021 22:54 | 
+1039 | [A - Rating Goal](https://atcoder.jp/contests/abc076/tasks/abc076_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc076/A.java) | `AtCoder` `*100` | Nov/15/2021 22:51 | 
+1038 | [D - Axis-Parallel Rectangle](https://atcoder.jp/contests/abc075/tasks/abc075_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc075/D.java) | `AtCoder` `*400` | Nov/15/2021 22:41 | 
+1037 | [C - Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc075/C.java) | `AtCoder` `*300` | Nov/15/2021 22:21 | 
+1036 | [B - Minesweeper](https://atcoder.jp/contests/abc075/tasks/abc075_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc075/B.java) | `AtCoder` `*200` | Nov/15/2021 22:08 | 
 1035 | [D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/D.java) | `AtCoder` `*500` | Nov/15/2021 18:13 | 
 1034 | [C - Sugar Water](https://atcoder.jp/contests/abc074/tasks/arc083_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/C.java) | `AtCoder` `*300` | Nov/15/2021 17:02 | 
 1033 | [B - Collecting Balls (Easy Version)](https://atcoder.jp/contests/abc074/tasks/abc074_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/B.java) | `AtCoder` `*200` | Nov/15/2021 16:31 | 

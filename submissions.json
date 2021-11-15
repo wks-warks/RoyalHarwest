@@ -3807,6 +3807,22 @@
     ],
     "timestamp": "Nov/15/2021 18:13"
   },
+  "AC27281021": {
+    "contest_id": "abc075",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc075/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Minesweeper",
+    "problem_url": "https://atcoder.jp/contests/abc075/tasks/abc075_b",
+    "submission_id": "AC27281021",
+    "submission_url": "https://atcoder.jp/contests/abc075/submissions/27281021",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/15/2021 22:08"
+  },
   "AC27281146": {
     "contest_id": "abc075",
     "language": "Java (OpenJDK 11.0.6)",
