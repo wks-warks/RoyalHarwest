@@ -3679,6 +3679,22 @@
     ],
     "timestamp": "Nov/13/2021 17:54"
   },
+  "AC27275456": {
+    "contest_id": "abc074",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc074/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Bichrome Cells",
+    "problem_url": "https://atcoder.jp/contests/abc074/tasks/abc074_a",
+    "submission_id": "AC27275456",
+    "submission_url": "https://atcoder.jp/contests/abc074/submissions/27275456",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/15/2021 16:26"
+  },
   "AC27275538": {
     "contest_id": "abc074",
     "language": "Java (OpenJDK 11.0.6)",

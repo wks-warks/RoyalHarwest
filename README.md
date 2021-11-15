@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1030 | [D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/D.java) | `AtCoder` `*500` | Nov/15/2021 18:13 | 
-1029 | [C - Sugar Water](https://atcoder.jp/contests/abc074/tasks/arc083_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/C.java) | `AtCoder` `*300` | Nov/15/2021 17:02 | 
-1028 | [B - Collecting Balls (Easy Version)](https://atcoder.jp/contests/abc074/tasks/abc074_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/B.java) | `AtCoder` `*200` | Nov/15/2021 16:31 | 
+1031 | [D - Restoring Road Network](https://atcoder.jp/contests/abc074/tasks/arc083_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/D.java) | `AtCoder` `*500` | Nov/15/2021 18:13 | 
+1030 | [C - Sugar Water](https://atcoder.jp/contests/abc074/tasks/arc083_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/C.java) | `AtCoder` `*300` | Nov/15/2021 17:02 | 
+1029 | [B - Collecting Balls (Easy Version)](https://atcoder.jp/contests/abc074/tasks/abc074_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/B.java) | `AtCoder` `*200` | Nov/15/2021 16:31 | 
+1028 | [A - Bichrome Cells](https://atcoder.jp/contests/abc074/tasks/abc074_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc074/A.java) | `AtCoder` `*100` | Nov/15/2021 16:26 | 
 1027 | [C - ABC conjecture](https://atcoder.jp/contests/abc227/tasks/abc227_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/C.java) | `AtCoder` `*300` | Nov/13/2021 17:54 | 
 1026 | [B - KEYENCE building](https://atcoder.jp/contests/abc227/tasks/abc227_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/B.java) | `AtCoder` `*200` | Nov/13/2021 17:39 | 
 1025 | [A - Last Card](https://atcoder.jp/contests/abc227/tasks/abc227_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc227/A.java) | `AtCoder` `*100` | Nov/13/2021 17:35 | 
