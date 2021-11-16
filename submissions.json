@@ -3919,6 +3919,22 @@
     ],
     "timestamp": "Nov/15/2021 23:06"
   },
+  "AC27295700": {
+    "contest_id": "abc077",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc077/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Snuke Festival",
+    "problem_url": "https://atcoder.jp/contests/abc077/tasks/arc084_a",
+    "submission_id": "AC27295700",
+    "submission_url": "https://atcoder.jp/contests/abc077/submissions/27295700",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/16/2021 23:03"
+  },
   "AC27295716": {
     "contest_id": "abc077",
     "language": "Java (OpenJDK 11.0.6)",
