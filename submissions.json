@@ -3919,6 +3919,22 @@
     ],
     "timestamp": "Nov/15/2021 23:06"
   },
+  "AC27295622": {
+    "contest_id": "abc077",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc077/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Rotation",
+    "problem_url": "https://atcoder.jp/contests/abc077/tasks/abc077_a",
+    "submission_id": "AC27295622",
+    "submission_url": "https://atcoder.jp/contests/abc077/submissions/27295622",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/16/2021 22:50"
+  },
   "AC27295700": {
     "contest_id": "abc077",
     "language": "Java (OpenJDK 11.0.6)",
