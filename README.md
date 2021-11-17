@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1043 | [C - HSI](https://atcoder.jp/contests/abc078/tasks/arc085_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc078/C.java) | `AtCoder` `*300` | Nov/17/2021 17:33 | 
+1044 | [C - HSI](https://atcoder.jp/contests/abc078/tasks/arc085_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc078/C.java) | `AtCoder` `*300` | Nov/17/2021 17:33 | 
+1043 | [B - ISU](https://atcoder.jp/contests/abc078/tasks/abc078_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc078/B.java) | `AtCoder` `*200` | Nov/17/2021 17:18 | 
 1042 | [C - Dubious Document 2](https://atcoder.jp/contests/abc076/tasks/abc076_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc076/C.java) | `AtCoder` `*300` | Nov/15/2021 23:06 | 
 1041 | [B - Addition and Multiplication](https://atcoder.jp/contests/abc076/tasks/abc076_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc076/B.java) | `AtCoder` `*200` | Nov/15/2021 22:54 | 
 1040 | [A - Rating Goal](https://atcoder.jp/contests/abc076/tasks/abc076_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc076/A.java) | `AtCoder` `*100` | Nov/15/2021 22:51 | 
