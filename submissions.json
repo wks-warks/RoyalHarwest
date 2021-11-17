@@ -3919,6 +3919,22 @@
     ],
     "timestamp": "Nov/15/2021 23:06"
   },
+  "AC27304947": {
+    "contest_id": "abc078",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc078/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "HEX",
+    "problem_url": "https://atcoder.jp/contests/abc078/tasks/abc078_a",
+    "submission_id": "AC27304947",
+    "submission_url": "https://atcoder.jp/contests/abc078/submissions/27304947",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/17/2021 17:16"
+  },
   "AC27304982": {
     "contest_id": "abc078",
     "language": "Java (OpenJDK 11.0.6)",
