@@ -4015,6 +4015,22 @@
     ],
     "timestamp": "Nov/17/2021 17:33"
   },
+  "AC27310010": {
+    "contest_id": "abc079",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc079/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Lucas Number",
+    "problem_url": "https://atcoder.jp/contests/abc079/tasks/abc079_b",
+    "submission_id": "AC27310010",
+    "submission_url": "https://atcoder.jp/contests/abc079/submissions/27310010",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/18/2021 00:35"
+  },
   "AC27310042": {
     "contest_id": "abc079",
     "language": "Java (OpenJDK 11.0.6)",
