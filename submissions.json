@@ -4015,6 +4015,22 @@
     ],
     "timestamp": "Nov/17/2021 17:33"
   },
+  "AC27309989": {
+    "contest_id": "abc079",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc079/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Good Integer",
+    "problem_url": "https://atcoder.jp/contests/abc079/tasks/abc079_a",
+    "submission_id": "AC27309989",
+    "submission_url": "https://atcoder.jp/contests/abc079/submissions/27309989",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/18/2021 00:31"
+  },
   "AC27310010": {
     "contest_id": "abc079",
     "language": "Java (OpenJDK 11.0.6)",

@@ -13,17 +13,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1059 | [D - Non-decreasing](https://atcoder.jp/contests/abc081/tasks/arc086_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/D.java) | `AtCoder` `*600` | Nov/19/2021 15:59 | 
-1058 | [C - Not so Diverse](https://atcoder.jp/contests/abc081/tasks/arc086_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/C.java) | `AtCoder` `*300` | Nov/19/2021 15:46 | 
-1057 | [B - Shift only](https://atcoder.jp/contests/abc081/tasks/abc081_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/B.java) | `AtCoder` `*200` | Nov/19/2021 15:39 | 
-1056 | [A - Placing Marbles](https://atcoder.jp/contests/abc081/tasks/abc081_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/A.java) | `AtCoder` `*100` | Nov/19/2021 15:34 | 
-1055 | [A - Parking](https://atcoder.jp/contests/abc080/tasks/abc080_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc080/A.java) | `AtCoder` `*100` | Nov/19/2021 01:29 | 
-1054 | [B - Harshad Number](https://atcoder.jp/contests/abc080/tasks/abc080_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc080/B.java) | `AtCoder` `*200` | Nov/19/2021 01:26 | 
-1053 | [C - Shopping Street](https://atcoder.jp/contests/abc080/tasks/abc080_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc080/C.java) | `AtCoder` `*300` | Nov/19/2021 01:24 | 
-1052 | [D - Recording](https://atcoder.jp/contests/abc080/tasks/abc080_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc080/D.java) | `AtCoder` `*400` | Nov/19/2021 01:11 | 
-1051 | [D - Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc079/D.java) | `AtCoder` `*400` | Nov/18/2021 01:05 | 
-1050 | [C - Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc079/C.java) | `AtCoder` `*300` | Nov/18/2021 00:44 | 
-1049 | [B - Lucas Number](https://atcoder.jp/contests/abc079/tasks/abc079_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc079/B.java) | `AtCoder` `*200` | Nov/18/2021 00:35 | 
+1060 | [D - Non-decreasing](https://atcoder.jp/contests/abc081/tasks/arc086_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/D.java) | `AtCoder` `*600` | Nov/19/2021 15:59 | 
+1059 | [C - Not so Diverse](https://atcoder.jp/contests/abc081/tasks/arc086_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/C.java) | `AtCoder` `*300` | Nov/19/2021 15:46 | 
+1058 | [B - Shift only](https://atcoder.jp/contests/abc081/tasks/abc081_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/B.java) | `AtCoder` `*200` | Nov/19/2021 15:39 | 
+1057 | [A - Placing Marbles](https://atcoder.jp/contests/abc081/tasks/abc081_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/A.java) | `AtCoder` `*100` | Nov/19/2021 15:34 | 
+1056 | [A - Parking](https://atcoder.jp/contests/abc080/tasks/abc080_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc080/A.java) | `AtCoder` `*100` | Nov/19/2021 01:29 | 
+1055 | [B - Harshad Number](https://atcoder.jp/contests/abc080/tasks/abc080_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc080/B.java) | `AtCoder` `*200` | Nov/19/2021 01:26 | 
+1054 | [C - Shopping Street](https://atcoder.jp/contests/abc080/tasks/abc080_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc080/C.java) | `AtCoder` `*300` | Nov/19/2021 01:24 | 
+1053 | [D - Recording](https://atcoder.jp/contests/abc080/tasks/abc080_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc080/D.java) | `AtCoder` `*400` | Nov/19/2021 01:11 | 
+1052 | [D - Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc079/D.java) | `AtCoder` `*400` | Nov/18/2021 01:05 | 
+1051 | [C - Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc079/C.java) | `AtCoder` `*300` | Nov/18/2021 00:44 | 
+1050 | [B - Lucas Number](https://atcoder.jp/contests/abc079/tasks/abc079_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc079/B.java) | `AtCoder` `*200` | Nov/18/2021 00:35 | 
+1049 | [A - Good Integer](https://atcoder.jp/contests/abc079/tasks/abc079_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc079/A.java) | `AtCoder` `*100` | Nov/18/2021 00:31 | 
 1048 | [C - HSI](https://atcoder.jp/contests/abc078/tasks/arc085_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc078/C.java) | `AtCoder` `*300` | Nov/17/2021 17:33 | 
 1047 | [B - ISU](https://atcoder.jp/contests/abc078/tasks/abc078_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc078/B.java) | `AtCoder` `*200` | Nov/17/2021 17:18 | 
 1046 | [A - HEX](https://atcoder.jp/contests/abc078/tasks/abc078_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc078/A.java) | `AtCoder` `*100` | Nov/17/2021 17:16 | 
