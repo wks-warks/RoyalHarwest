@@ -4015,6 +4015,22 @@
     ],
     "timestamp": "Nov/17/2021 17:33"
   },
+  "AC27322943": {
+    "contest_id": "abc080",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc080/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Parking",
+    "problem_url": "https://atcoder.jp/contests/abc080/tasks/abc080_a",
+    "submission_id": "AC27322943",
+    "submission_url": "https://atcoder.jp/contests/abc080/submissions/27322943",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/19/2021 01:29"
+  },
   "AC27330018": {
     "contest_id": "abc081",
     "language": "Java (OpenJDK 11.0.6)",
