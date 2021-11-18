@@ -4015,6 +4015,22 @@
     ],
     "timestamp": "Nov/17/2021 17:33"
   },
+  "AC27322888": {
+    "contest_id": "abc080",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc080/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Recording",
+    "problem_url": "https://atcoder.jp/contests/abc080/tasks/abc080_d",
+    "submission_id": "AC27322888",
+    "submission_url": "https://atcoder.jp/contests/abc080/submissions/27322888",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/19/2021 01:11"
+  },
   "AC27322931": {
     "contest_id": "abc080",
     "language": "Java (OpenJDK 11.0.6)",
