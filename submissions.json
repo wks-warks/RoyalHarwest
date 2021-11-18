@@ -4015,6 +4015,22 @@
     ],
     "timestamp": "Nov/17/2021 17:33"
   },
+  "AC27322937": {
+    "contest_id": "abc080",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc080/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Harshad Number",
+    "problem_url": "https://atcoder.jp/contests/abc080/tasks/abc080_b",
+    "submission_id": "AC27322937",
+    "submission_url": "https://atcoder.jp/contests/abc080/submissions/27322937",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/19/2021 01:26"
+  },
   "AC27322943": {
     "contest_id": "abc080",
     "language": "Java (OpenJDK 11.0.6)",
