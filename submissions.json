@@ -4015,6 +4015,22 @@
     ],
     "timestamp": "Nov/17/2021 17:33"
   },
+  "AC27322931": {
+    "contest_id": "abc080",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc080/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Shopping Street",
+    "problem_url": "https://atcoder.jp/contests/abc080/tasks/abc080_c",
+    "submission_id": "AC27322931",
+    "submission_url": "https://atcoder.jp/contests/abc080/submissions/27322931",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/19/2021 01:24"
+  },
   "AC27322937": {
     "contest_id": "abc080",
     "language": "Java (OpenJDK 11.0.6)",
