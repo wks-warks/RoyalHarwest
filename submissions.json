@@ -4015,6 +4015,22 @@
     ],
     "timestamp": "Nov/17/2021 17:33"
   },
+  "AC27330018": {
+    "contest_id": "abc081",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc081/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Placing Marbles",
+    "problem_url": "https://atcoder.jp/contests/abc081/tasks/abc081_a",
+    "submission_id": "AC27330018",
+    "submission_url": "https://atcoder.jp/contests/abc081/submissions/27330018",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/19/2021 15:34"
+  },
   "AC27330078": {
     "contest_id": "abc081",
     "language": "Java (OpenJDK 11.0.6)",
