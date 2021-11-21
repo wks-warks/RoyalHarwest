@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1065 | [D - FT Robot](https://atcoder.jp/contests/abc082/tasks/arc087_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/D.java) | `AtCoder` `*500` | Nov/23/2021 02:39 | 
-1064 | [C - Good Sequence](https://atcoder.jp/contests/abc082/tasks/arc087_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/C.java) | `AtCoder` `*300` | Nov/23/2021 02:03 | 
-1063 | [B - Two Anagrams](https://atcoder.jp/contests/abc082/tasks/abc082_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/B.java) | `AtCoder` `*200` | Nov/23/2021 01:58 | 
-1062 | [A - Round Up the Mean](https://atcoder.jp/contests/abc082/tasks/abc082_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/A.java) | `AtCoder` `*100` | Nov/23/2021 01:42 | 
-1061 | [B - Range Point Distance](https://atcoder.jp/contests/arc129/tasks/arc129_b) | [Java (OpenJDK 11.0.6)](./atcoder/arc129/B.java) | `AtCoder` `*400` | Nov/21/2021 18:20 | 
+1066 | [D - FT Robot](https://atcoder.jp/contests/abc082/tasks/arc087_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/D.java) | `AtCoder` `*500` | Nov/23/2021 02:39 | 
+1065 | [C - Good Sequence](https://atcoder.jp/contests/abc082/tasks/arc087_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/C.java) | `AtCoder` `*300` | Nov/23/2021 02:03 | 
+1064 | [B - Two Anagrams](https://atcoder.jp/contests/abc082/tasks/abc082_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/B.java) | `AtCoder` `*200` | Nov/23/2021 01:58 | 
+1063 | [A - Round Up the Mean](https://atcoder.jp/contests/abc082/tasks/abc082_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/A.java) | `AtCoder` `*100` | Nov/23/2021 01:42 | 
+1062 | [B - Range Point Distance](https://atcoder.jp/contests/arc129/tasks/arc129_b) | [Java (OpenJDK 11.0.6)](./atcoder/arc129/B.java) | `AtCoder` `*400` | Nov/21/2021 18:20 | 
+1061 | [A - Smaller XOR](https://atcoder.jp/contests/arc129/tasks/arc129_a) | [Java (OpenJDK 11.0.6)](./atcoder/arc129/A.java) | `AtCoder` `*300` | Nov/21/2021 17:53 | 
 1060 | [D - Non-decreasing](https://atcoder.jp/contests/abc081/tasks/arc086_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/D.java) | `AtCoder` `*600` | Nov/19/2021 15:59 | 
 1059 | [C - Not so Diverse](https://atcoder.jp/contests/abc081/tasks/arc086_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/C.java) | `AtCoder` `*300` | Nov/19/2021 15:46 | 
 1058 | [B - Shift only](https://atcoder.jp/contests/abc081/tasks/abc081_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/B.java) | `AtCoder` `*200` | Nov/19/2021 15:39 | 

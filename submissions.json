@@ -4207,6 +4207,22 @@
     ],
     "timestamp": "Nov/19/2021 15:59"
   },
+  "AC27425612": {
+    "contest_id": "arc129",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/arc129/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Smaller XOR",
+    "problem_url": "https://atcoder.jp/contests/arc129/tasks/arc129_a",
+    "submission_id": "AC27425612",
+    "submission_url": "https://atcoder.jp/contests/arc129/submissions/27425612",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/21/2021 17:53"
+  },
   "AC27427793": {
     "contest_id": "arc129",
     "language": "Java (OpenJDK 11.0.6)",
