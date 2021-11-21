@@ -4207,6 +4207,22 @@
     ],
     "timestamp": "Nov/19/2021 15:59"
   },
+  "AC27427793": {
+    "contest_id": "arc129",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/arc129/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Range Point Distance",
+    "problem_url": "https://atcoder.jp/contests/arc129/tasks/arc129_b",
+    "submission_id": "AC27427793",
+    "submission_url": "https://atcoder.jp/contests/arc129/submissions/27427793",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/21/2021 18:20"
+  },
   "AC27452311": {
     "contest_id": "abc082",
     "language": "Java (OpenJDK 11.0.6)",
