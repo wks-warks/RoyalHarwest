@@ -4207,6 +4207,22 @@
     ],
     "timestamp": "Nov/19/2021 15:59"
   },
+  "AC27452311": {
+    "contest_id": "abc082",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc082/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Round Up the Mean",
+    "problem_url": "https://atcoder.jp/contests/abc082/tasks/abc082_a",
+    "submission_id": "AC27452311",
+    "submission_url": "https://atcoder.jp/contests/abc082/submissions/27452311",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/23/2021 01:42"
+  },
   "AC27452367": {
     "contest_id": "abc082",
     "language": "Java (OpenJDK 11.0.6)",
