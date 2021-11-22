@@ -4207,6 +4207,22 @@
     ],
     "timestamp": "Nov/19/2021 15:59"
   },
+  "AC27452384": {
+    "contest_id": "abc082",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc082/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Good Sequence",
+    "problem_url": "https://atcoder.jp/contests/abc082/tasks/arc087_a",
+    "submission_id": "AC27452384",
+    "submission_url": "https://atcoder.jp/contests/abc082/submissions/27452384",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/23/2021 02:03"
+  },
   "AC27452514": {
     "contest_id": "abc082",
     "language": "Java (OpenJDK 11.0.6)",

@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1061 | [D - FT Robot](https://atcoder.jp/contests/abc082/tasks/arc087_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/D.java) | `AtCoder` `*500` | Nov/23/2021 02:39 | 
+1062 | [D - FT Robot](https://atcoder.jp/contests/abc082/tasks/arc087_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/D.java) | `AtCoder` `*500` | Nov/23/2021 02:39 | 
+1061 | [C - Good Sequence](https://atcoder.jp/contests/abc082/tasks/arc087_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/C.java) | `AtCoder` `*300` | Nov/23/2021 02:03 | 
 1060 | [D - Non-decreasing](https://atcoder.jp/contests/abc081/tasks/arc086_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/D.java) | `AtCoder` `*600` | Nov/19/2021 15:59 | 
 1059 | [C - Not so Diverse](https://atcoder.jp/contests/abc081/tasks/arc086_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/C.java) | `AtCoder` `*300` | Nov/19/2021 15:46 | 
 1058 | [B - Shift only](https://atcoder.jp/contests/abc081/tasks/abc081_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc081/B.java) | `AtCoder` `*200` | Nov/19/2021 15:39 | 
