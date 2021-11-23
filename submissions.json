@@ -4303,6 +4303,22 @@
     ],
     "timestamp": "Nov/23/2021 02:39"
   },
+  "AC27461401": {
+    "contest_id": "abc083",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc083/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Some Sums",
+    "problem_url": "https://atcoder.jp/contests/abc083/tasks/abc083_b",
+    "submission_id": "AC27461401",
+    "submission_url": "https://atcoder.jp/contests/abc083/submissions/27461401",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/23/2021 16:41"
+  },
   "AC27461443": {
     "contest_id": "abc083",
     "language": "Java (OpenJDK 11.0.6)",
