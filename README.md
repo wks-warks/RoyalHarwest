@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1067 | [A - Libra](https://atcoder.jp/contests/abc083/tasks/abc083_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc083/A.java) | `AtCoder` `*100` | Nov/23/2021 16:44 | 
 1066 | [D - FT Robot](https://atcoder.jp/contests/abc082/tasks/arc087_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/D.java) | `AtCoder` `*500` | Nov/23/2021 02:39 | 
 1065 | [C - Good Sequence](https://atcoder.jp/contests/abc082/tasks/arc087_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/C.java) | `AtCoder` `*300` | Nov/23/2021 02:03 | 
 1064 | [B - Two Anagrams](https://atcoder.jp/contests/abc082/tasks/abc082_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc082/B.java) | `AtCoder` `*200` | Nov/23/2021 01:58 | 
