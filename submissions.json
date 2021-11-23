@@ -4303,6 +4303,22 @@
     ],
     "timestamp": "Nov/23/2021 02:39"
   },
+  "AC27461347": {
+    "contest_id": "abc083",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc083/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Multiple Gift",
+    "problem_url": "https://atcoder.jp/contests/abc083/tasks/arc088_a",
+    "submission_id": "AC27461347",
+    "submission_url": "https://atcoder.jp/contests/abc083/submissions/27461347",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/23/2021 16:37"
+  },
   "AC27461401": {
     "contest_id": "abc083",
     "language": "Java (OpenJDK 11.0.6)",
