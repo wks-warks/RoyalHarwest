@@ -4367,6 +4367,22 @@
     ],
     "timestamp": "Nov/23/2021 16:44"
   },
+  "AC27463177": {
+    "contest_id": "abc084",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc084/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Special Trains",
+    "problem_url": "https://atcoder.jp/contests/abc084/tasks/abc084_c",
+    "submission_id": "AC27463177",
+    "submission_url": "https://atcoder.jp/contests/abc084/submissions/27463177",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/23/2021 18:26"
+  },
   "AC27463396": {
     "contest_id": "abc084",
     "language": "Java (OpenJDK 11.0.6)",
