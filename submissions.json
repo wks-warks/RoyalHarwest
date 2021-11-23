@@ -4367,6 +4367,22 @@
     ],
     "timestamp": "Nov/23/2021 16:44"
   },
+  "AC27462985": {
+    "contest_id": "abc084",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc084/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Postal Code",
+    "problem_url": "https://atcoder.jp/contests/abc084/tasks/abc084_b",
+    "submission_id": "AC27462985",
+    "submission_url": "https://atcoder.jp/contests/abc084/submissions/27462985",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/23/2021 18:14"
+  },
   "AC27463177": {
     "contest_id": "abc084",
     "language": "Java (OpenJDK 11.0.6)",
