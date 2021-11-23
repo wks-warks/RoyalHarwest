@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1074 | [A - Already 2018](https://atcoder.jp/contests/abc085/tasks/abc085_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc085/A.java) | `AtCoder` `*100` | Nov/23/2021 19:12 | 
-1073 | [B - Kagami Mochi](https://atcoder.jp/contests/abc085/tasks/abc085_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc085/B.java) | `AtCoder` `*200` | Nov/23/2021 19:10 | 
-1072 | [C - Otoshidama](https://atcoder.jp/contests/abc085/tasks/abc085_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc085/C.java) | `AtCoder` `*300` | Nov/23/2021 19:06 | 
-1071 | [D - Katana Thrower](https://atcoder.jp/contests/abc085/tasks/abc085_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc085/D.java) | `AtCoder` `*400` | Nov/23/2021 18:55 | 
+1075 | [A - Already 2018](https://atcoder.jp/contests/abc085/tasks/abc085_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc085/A.java) | `AtCoder` `*100` | Nov/23/2021 19:12 | 
+1074 | [B - Kagami Mochi](https://atcoder.jp/contests/abc085/tasks/abc085_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc085/B.java) | `AtCoder` `*200` | Nov/23/2021 19:10 | 
+1073 | [C - Otoshidama](https://atcoder.jp/contests/abc085/tasks/abc085_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc085/C.java) | `AtCoder` `*300` | Nov/23/2021 19:06 | 
+1072 | [D - Katana Thrower](https://atcoder.jp/contests/abc085/tasks/abc085_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc085/D.java) | `AtCoder` `*400` | Nov/23/2021 18:55 | 
+1071 | [D - 2017-like Number](https://atcoder.jp/contests/abc084/tasks/abc084_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc084/D.java) | `AtCoder` `*400` | Nov/23/2021 18:38 | 
 1070 | [A - Libra](https://atcoder.jp/contests/abc083/tasks/abc083_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc083/A.java) | `AtCoder` `*100` | Nov/23/2021 16:44 | 
 1069 | [B - Some Sums](https://atcoder.jp/contests/abc083/tasks/abc083_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc083/B.java) | `AtCoder` `*200` | Nov/23/2021 16:41 | 
 1068 | [C - Multiple Gift](https://atcoder.jp/contests/abc083/tasks/arc088_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc083/C.java) | `AtCoder` `*300` | Nov/23/2021 16:37 | 
