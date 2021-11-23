@@ -4367,6 +4367,22 @@
     ],
     "timestamp": "Nov/23/2021 16:44"
   },
+  "AC27463943": {
+    "contest_id": "abc085",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc085/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Kagami Mochi",
+    "problem_url": "https://atcoder.jp/contests/abc085/tasks/abc085_b",
+    "submission_id": "AC27463943",
+    "submission_url": "https://atcoder.jp/contests/abc085/submissions/27463943",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/23/2021 19:10"
+  },
   "AC27463970": {
     "contest_id": "abc085",
     "language": "Java (OpenJDK 11.0.6)",
