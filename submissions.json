@@ -4671,6 +4671,22 @@
     ],
     "timestamp": "Nov/25/2021 14:36"
   },
+  "AC27491587": {
+    "contest_id": "abc089",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc089/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Practical Skill Test",
+    "problem_url": "https://atcoder.jp/contests/abc089/tasks/abc089_d",
+    "submission_id": "AC27491587",
+    "submission_url": "https://atcoder.jp/contests/abc089/submissions/27491587",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/26/2021 02:59"
+  },
   "AC27491618": {
     "contest_id": "abc090",
     "language": "Java (OpenJDK 11.0.6)",
