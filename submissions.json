@@ -4543,6 +4543,22 @@
     ],
     "timestamp": "Nov/24/2021 19:11"
   },
+  "AC27484965": {
+    "contest_id": "abc087",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc087/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Coins",
+    "problem_url": "https://atcoder.jp/contests/abc087/tasks/abc087_b",
+    "submission_id": "AC27484965",
+    "submission_url": "https://atcoder.jp/contests/abc087/submissions/27484965",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/25/2021 14:09"
+  },
   "AC27484982": {
     "contest_id": "abc087",
     "language": "Java (OpenJDK 11.0.6)",
