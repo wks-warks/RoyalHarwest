@@ -4671,6 +4671,22 @@
     ],
     "timestamp": "Nov/25/2021 14:36"
   },
+  "AC27491491": {
+    "contest_id": "abc089",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc089/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Hina Arare",
+    "problem_url": "https://atcoder.jp/contests/abc089/tasks/abc089_b",
+    "submission_id": "AC27491491",
+    "submission_url": "https://atcoder.jp/contests/abc089/submissions/27491491",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/26/2021 02:06"
+  },
   "AC27491498": {
     "contest_id": "abc090",
     "language": "Java (OpenJDK 11.0.6)",
