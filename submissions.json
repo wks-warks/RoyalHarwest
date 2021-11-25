@@ -4543,6 +4543,22 @@
     ],
     "timestamp": "Nov/24/2021 19:11"
   },
+  "AC27484847": {
+    "contest_id": "abc087",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc087/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "People on a Line",
+    "problem_url": "https://atcoder.jp/contests/abc087/tasks/arc090_b",
+    "submission_id": "AC27484847",
+    "submission_url": "https://atcoder.jp/contests/abc087/submissions/27484847",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/25/2021 13:59"
+  },
   "AC27484915": {
     "contest_id": "abc087",
     "language": "Java (OpenJDK 11.0.6)",

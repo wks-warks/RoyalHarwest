@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1088 | [A - Infinite Coins](https://atcoder.jp/contests/abc088/tasks/abc088_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/A.java) | `AtCoder` `*100` | Nov/25/2021 14:36 | 
-1087 | [B - Card Game for Two](https://atcoder.jp/contests/abc088/tasks/abc088_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/B.java) | `AtCoder` `*200` | Nov/25/2021 14:34 | 
-1086 | [C - Takahashi's Information](https://atcoder.jp/contests/abc088/tasks/abc088_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/C.java) | `AtCoder` `*300` | Nov/25/2021 14:32 | 
-1085 | [D - Grid Repainting](https://atcoder.jp/contests/abc088/tasks/abc088_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/D.java) | `AtCoder` `*400` | Nov/25/2021 14:26 | 
-1084 | [A - Buying Sweets](https://atcoder.jp/contests/abc087/tasks/abc087_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc087/A.java) | `AtCoder` `*100` | Nov/25/2021 14:11 | 
-1083 | [B - Coins](https://atcoder.jp/contests/abc087/tasks/abc087_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc087/B.java) | `AtCoder` `*200` | Nov/25/2021 14:09 | 
-1082 | [C - Candies](https://atcoder.jp/contests/abc087/tasks/arc090_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc087/C.java) | `AtCoder` `*300` | Nov/25/2021 14:05 | 
+1089 | [A - Infinite Coins](https://atcoder.jp/contests/abc088/tasks/abc088_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/A.java) | `AtCoder` `*100` | Nov/25/2021 14:36 | 
+1088 | [B - Card Game for Two](https://atcoder.jp/contests/abc088/tasks/abc088_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/B.java) | `AtCoder` `*200` | Nov/25/2021 14:34 | 
+1087 | [C - Takahashi's Information](https://atcoder.jp/contests/abc088/tasks/abc088_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/C.java) | `AtCoder` `*300` | Nov/25/2021 14:32 | 
+1086 | [D - Grid Repainting](https://atcoder.jp/contests/abc088/tasks/abc088_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/D.java) | `AtCoder` `*400` | Nov/25/2021 14:26 | 
+1085 | [A - Buying Sweets](https://atcoder.jp/contests/abc087/tasks/abc087_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc087/A.java) | `AtCoder` `*100` | Nov/25/2021 14:11 | 
+1084 | [B - Coins](https://atcoder.jp/contests/abc087/tasks/abc087_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc087/B.java) | `AtCoder` `*200` | Nov/25/2021 14:09 | 
+1083 | [C - Candies](https://atcoder.jp/contests/abc087/tasks/arc090_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc087/C.java) | `AtCoder` `*300` | Nov/25/2021 14:05 | 
+1082 | [D - People on a Line](https://atcoder.jp/contests/abc087/tasks/arc090_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc087/D.java) | `AtCoder` `*400` | Nov/25/2021 13:59 | 
 1081 | [C - Traveling](https://atcoder.jp/contests/abc086/tasks/arc089_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc086/C.java) | `AtCoder` `*300` | Nov/24/2021 19:11 | 
 1080 | [B - 1 21](https://atcoder.jp/contests/abc086/tasks/abc086_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc086/B.java) | `AtCoder` `*200` | Nov/24/2021 18:59 | 
 1079 | [A - Product](https://atcoder.jp/contests/abc086/tasks/abc086_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc086/A.java) | `AtCoder` `*100` | Nov/24/2021 18:56 | 
