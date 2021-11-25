@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1095 | [D - Remainder Reminder](https://atcoder.jp/contests/abc090/tasks/arc091_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc090/D.java) | `AtCoder` `*400` | Nov/26/2021 03:11 | 
-1094 | [D - Practical Skill Test](https://atcoder.jp/contests/abc089/tasks/abc089_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc089/D.java) | `AtCoder` `*400` | Nov/26/2021 02:59 | 
-1093 | [C - Flip,Flip, and Flip......](https://atcoder.jp/contests/abc090/tasks/arc091_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc090/C.java) | `AtCoder` `*300` | Nov/26/2021 02:34 | 
-1092 | [C - March](https://atcoder.jp/contests/abc089/tasks/abc089_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc089/C.java) | `AtCoder` `*300` | Nov/26/2021 02:21 | 
-1091 | [B - Palindromic Numbers](https://atcoder.jp/contests/abc090/tasks/abc090_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc090/B.java) | `AtCoder` `*200` | Nov/26/2021 02:10 | 
-1090 | [B - Hina Arare](https://atcoder.jp/contests/abc089/tasks/abc089_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc089/B.java) | `AtCoder` `*200` | Nov/26/2021 02:06 | 
+1096 | [D - Remainder Reminder](https://atcoder.jp/contests/abc090/tasks/arc091_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc090/D.java) | `AtCoder` `*400` | Nov/26/2021 03:11 | 
+1095 | [D - Practical Skill Test](https://atcoder.jp/contests/abc089/tasks/abc089_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc089/D.java) | `AtCoder` `*400` | Nov/26/2021 02:59 | 
+1094 | [C - Flip,Flip, and Flip......](https://atcoder.jp/contests/abc090/tasks/arc091_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc090/C.java) | `AtCoder` `*300` | Nov/26/2021 02:34 | 
+1093 | [C - March](https://atcoder.jp/contests/abc089/tasks/abc089_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc089/C.java) | `AtCoder` `*300` | Nov/26/2021 02:21 | 
+1092 | [B - Palindromic Numbers](https://atcoder.jp/contests/abc090/tasks/abc090_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc090/B.java) | `AtCoder` `*200` | Nov/26/2021 02:10 | 
+1091 | [B - Hina Arare](https://atcoder.jp/contests/abc089/tasks/abc089_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc089/B.java) | `AtCoder` `*200` | Nov/26/2021 02:06 | 
+1090 | [A - Diagonal String](https://atcoder.jp/contests/abc090/tasks/abc090_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc090/A.java) | `AtCoder` `*100` | Nov/26/2021 02:03 | 
 1089 | [A - Infinite Coins](https://atcoder.jp/contests/abc088/tasks/abc088_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/A.java) | `AtCoder` `*100` | Nov/25/2021 14:36 | 
 1088 | [B - Card Game for Two](https://atcoder.jp/contests/abc088/tasks/abc088_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/B.java) | `AtCoder` `*200` | Nov/25/2021 14:34 | 
 1087 | [C - Takahashi's Information](https://atcoder.jp/contests/abc088/tasks/abc088_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/C.java) | `AtCoder` `*300` | Nov/25/2021 14:32 | 

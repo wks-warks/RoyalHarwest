@@ -4671,6 +4671,22 @@
     ],
     "timestamp": "Nov/25/2021 14:36"
   },
+  "AC27491487": {
+    "contest_id": "abc090",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc090/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Diagonal String",
+    "problem_url": "https://atcoder.jp/contests/abc090/tasks/abc090_a",
+    "submission_id": "AC27491487",
+    "submission_url": "https://atcoder.jp/contests/abc090/submissions/27491487",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/26/2021 02:03"
+  },
   "AC27491491": {
     "contest_id": "abc089",
     "language": "Java (OpenJDK 11.0.6)",
