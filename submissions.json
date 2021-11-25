@@ -4671,6 +4671,22 @@
     ],
     "timestamp": "Nov/25/2021 14:36"
   },
+  "AC27491618": {
+    "contest_id": "abc090",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc090/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Remainder Reminder",
+    "problem_url": "https://atcoder.jp/contests/abc090/tasks/arc091_b",
+    "submission_id": "AC27491618",
+    "submission_url": "https://atcoder.jp/contests/abc090/submissions/27491618",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/26/2021 03:11"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
