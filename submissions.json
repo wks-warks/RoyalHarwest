@@ -4671,6 +4671,22 @@
     ],
     "timestamp": "Nov/25/2021 14:36"
   },
+  "AC27491498": {
+    "contest_id": "abc090",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc090/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Palindromic Numbers",
+    "problem_url": "https://atcoder.jp/contests/abc090/tasks/abc090_b",
+    "submission_id": "AC27491498",
+    "submission_url": "https://atcoder.jp/contests/abc090/submissions/27491498",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/26/2021 02:10"
+  },
   "AC27491513": {
     "contest_id": "abc089",
     "language": "Java (OpenJDK 11.0.6)",
