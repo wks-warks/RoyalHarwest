@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1082 | [A - Infinite Coins](https://atcoder.jp/contests/abc088/tasks/abc088_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/A.java) | `AtCoder` `*100` | Nov/25/2021 14:36 | 
+1083 | [A - Infinite Coins](https://atcoder.jp/contests/abc088/tasks/abc088_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/A.java) | `AtCoder` `*100` | Nov/25/2021 14:36 | 
+1082 | [B - Card Game for Two](https://atcoder.jp/contests/abc088/tasks/abc088_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc088/B.java) | `AtCoder` `*200` | Nov/25/2021 14:34 | 
 1081 | [C - Traveling](https://atcoder.jp/contests/abc086/tasks/arc089_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc086/C.java) | `AtCoder` `*300` | Nov/24/2021 19:11 | 
 1080 | [B - 1 21](https://atcoder.jp/contests/abc086/tasks/abc086_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc086/B.java) | `AtCoder` `*200` | Nov/24/2021 18:59 | 
 1079 | [A - Product](https://atcoder.jp/contests/abc086/tasks/abc086_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc086/A.java) | `AtCoder` `*100` | Nov/24/2021 18:56 | 

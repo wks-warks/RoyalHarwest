@@ -4543,6 +4543,22 @@
     ],
     "timestamp": "Nov/24/2021 19:11"
   },
+  "AC27485205": {
+    "contest_id": "abc088",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc088/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Card Game for Two",
+    "problem_url": "https://atcoder.jp/contests/abc088/tasks/abc088_b",
+    "submission_id": "AC27485205",
+    "submission_url": "https://atcoder.jp/contests/abc088/submissions/27485205",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/25/2021 14:34"
+  },
   "AC27485216": {
     "contest_id": "abc088",
     "language": "Java (OpenJDK 11.0.6)",
