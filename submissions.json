@@ -4671,6 +4671,22 @@
     ],
     "timestamp": "Nov/25/2021 14:36"
   },
+  "AC27491486": {
+    "contest_id": "abc089",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc089/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Grouping 2",
+    "problem_url": "https://atcoder.jp/contests/abc089/tasks/abc089_a",
+    "submission_id": "AC27491486",
+    "submission_url": "https://atcoder.jp/contests/abc089/submissions/27491486",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/26/2021 02:01"
+  },
   "AC27491487": {
     "contest_id": "abc090",
     "language": "Java (OpenJDK 11.0.6)",
