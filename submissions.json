@@ -4671,6 +4671,22 @@
     ],
     "timestamp": "Nov/25/2021 14:36"
   },
+  "AC27491536": {
+    "contest_id": "abc090",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc090/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Flip,Flip, and Flip......",
+    "problem_url": "https://atcoder.jp/contests/abc090/tasks/arc091_a",
+    "submission_id": "AC27491536",
+    "submission_url": "https://atcoder.jp/contests/abc090/submissions/27491536",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/26/2021 02:34"
+  },
   "AC27491587": {
     "contest_id": "abc089",
     "language": "Java (OpenJDK 11.0.6)",
