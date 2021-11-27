@@ -4799,6 +4799,22 @@
     ],
     "timestamp": "Nov/26/2021 03:11"
   },
+  "AC27515497": {
+    "contest_id": "abc229",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc229/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "First Grid",
+    "problem_url": "https://atcoder.jp/contests/abc229/tasks/abc229_a",
+    "submission_id": "AC27515497",
+    "submission_url": "https://atcoder.jp/contests/abc229/submissions/27515497",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/27/2021 17:34"
+  },
   "AC27518739": {
     "contest_id": "abc229",
     "language": "Java (OpenJDK 11.0.6)",
