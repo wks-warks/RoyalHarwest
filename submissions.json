@@ -4799,6 +4799,22 @@
     ],
     "timestamp": "Nov/26/2021 03:11"
   },
+  "AC27523024": {
+    "contest_id": "abc229",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc229/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Cheese",
+    "problem_url": "https://atcoder.jp/contests/abc229/tasks/abc229_c",
+    "submission_id": "AC27523024",
+    "submission_url": "https://atcoder.jp/contests/abc229/submissions/27523024",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/27/2021 17:43"
+  },
   "AC27527608": {
     "contest_id": "abc229",
     "language": "Java (OpenJDK 11.0.6)",
