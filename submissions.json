@@ -4799,6 +4799,22 @@
     ],
     "timestamp": "Nov/26/2021 03:11"
   },
+  "AC27527608": {
+    "contest_id": "abc229",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc229/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Longest X",
+    "problem_url": "https://atcoder.jp/contests/abc229/tasks/abc229_d",
+    "submission_id": "AC27527608",
+    "submission_url": "https://atcoder.jp/contests/abc229/submissions/27527608",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/27/2021 17:51"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
