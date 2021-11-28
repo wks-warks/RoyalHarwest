@@ -4863,6 +4863,22 @@
     ],
     "timestamp": "Nov/27/2021 17:51"
   },
+  "AC27571375": {
+    "contest_id": "arc130",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/arc130/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Colorful Lines",
+    "problem_url": "https://atcoder.jp/contests/arc130/tasks/arc130_b",
+    "submission_id": "AC27571375",
+    "submission_url": "https://atcoder.jp/contests/arc130/submissions/27571375",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/28/2021 17:51"
+  },
   "AC27626528": {
     "contest_id": "abc094",
     "language": "Java (OpenJDK 11.0.6)",
