@@ -4863,6 +4863,22 @@
     ],
     "timestamp": "Nov/27/2021 17:51"
   },
+  "AC27569238": {
+    "contest_id": "arc130",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/arc130/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Remove One Character",
+    "problem_url": "https://atcoder.jp/contests/arc130/tasks/arc130_a",
+    "submission_id": "AC27569238",
+    "submission_url": "https://atcoder.jp/contests/arc130/submissions/27569238",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/28/2021 17:36"
+  },
   "AC27571375": {
     "contest_id": "arc130",
     "language": "Java (OpenJDK 11.0.6)",
