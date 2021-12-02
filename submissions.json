@@ -4863,6 +4863,22 @@
     ],
     "timestamp": "Nov/27/2021 17:51"
   },
+  "AC27626826": {
+    "contest_id": "abc094",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc094/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Toll Gates",
+    "problem_url": "https://atcoder.jp/contests/abc094/tasks/abc094_b",
+    "submission_id": "AC27626826",
+    "submission_url": "https://atcoder.jp/contests/abc094/submissions/27626826",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/02/2021 13:45"
+  },
   "AC27626850": {
     "contest_id": "abc094",
     "language": "Java (OpenJDK 11.0.6)",

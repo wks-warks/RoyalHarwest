@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1107 | [E - Fraction Floor Sum](https://atcoder.jp/contests/abc230/tasks/abc230_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/E.java) | `AtCoder` `*500` | Dec/05/2021 15:42 | 
-1106 | [D - Destroyer Takahashi](https://atcoder.jp/contests/abc230/tasks/abc230_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/D.java) | `AtCoder` `*400` | Dec/05/2021 15:24 | 
-1105 | [C - X drawing](https://atcoder.jp/contests/abc230/tasks/abc230_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/C.java) | `AtCoder` `*300` | Dec/05/2021 15:16 | 
-1104 | [B - Triple Metre](https://atcoder.jp/contests/abc230/tasks/abc230_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/B.java) | `AtCoder` `*200` | Dec/05/2021 15:03 | 
-1103 | [A - AtCoder Quiz 3](https://atcoder.jp/contests/abc230/tasks/abc230_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/A.java) | `AtCoder` `*100` | Dec/05/2021 14:59 | 
-1102 | [A - Cats and Dogs](https://atcoder.jp/contests/abc094/tasks/abc094_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc094/A.java) | `AtCoder` `*100` | Dec/02/2021 13:47 | 
+1108 | [E - Fraction Floor Sum](https://atcoder.jp/contests/abc230/tasks/abc230_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/E.java) | `AtCoder` `*500` | Dec/05/2021 15:42 | 
+1107 | [D - Destroyer Takahashi](https://atcoder.jp/contests/abc230/tasks/abc230_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/D.java) | `AtCoder` `*400` | Dec/05/2021 15:24 | 
+1106 | [C - X drawing](https://atcoder.jp/contests/abc230/tasks/abc230_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/C.java) | `AtCoder` `*300` | Dec/05/2021 15:16 | 
+1105 | [B - Triple Metre](https://atcoder.jp/contests/abc230/tasks/abc230_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/B.java) | `AtCoder` `*200` | Dec/05/2021 15:03 | 
+1104 | [A - AtCoder Quiz 3](https://atcoder.jp/contests/abc230/tasks/abc230_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/A.java) | `AtCoder` `*100` | Dec/05/2021 14:59 | 
+1103 | [A - Cats and Dogs](https://atcoder.jp/contests/abc094/tasks/abc094_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc094/A.java) | `AtCoder` `*100` | Dec/02/2021 13:47 | 
+1102 | [B - Toll Gates](https://atcoder.jp/contests/abc094/tasks/abc094_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc094/B.java) | `AtCoder` `*200` | Dec/02/2021 13:45 | 
 1101 | [D - Longest X](https://atcoder.jp/contests/abc229/tasks/abc229_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc229/D.java) | `AtCoder` `*400` | Nov/27/2021 17:51 | 
 1100 | [C - Cheese](https://atcoder.jp/contests/abc229/tasks/abc229_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc229/C.java) | `AtCoder` `*300` | Nov/27/2021 17:43 | 
 1099 | [B - Hard Calculation](https://atcoder.jp/contests/abc229/tasks/abc229_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc229/B.java) | `AtCoder` `*200` | Nov/27/2021 17:37 | 
