@@ -4863,6 +4863,22 @@
     ],
     "timestamp": "Nov/27/2021 17:51"
   },
+  "AC27626850": {
+    "contest_id": "abc094",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc094/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Cats and Dogs",
+    "problem_url": "https://atcoder.jp/contests/abc094/tasks/abc094_a",
+    "submission_id": "AC27626850",
+    "submission_url": "https://atcoder.jp/contests/abc094/submissions/27626850",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/02/2021 13:47"
+  },
   "AC27709269": {
     "contest_id": "abc230",
     "language": "Java (OpenJDK 11.0.6)",
