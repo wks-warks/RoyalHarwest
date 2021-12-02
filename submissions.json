@@ -4863,6 +4863,22 @@
     ],
     "timestamp": "Nov/27/2021 17:51"
   },
+  "AC27626759": {
+    "contest_id": "abc094",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc094/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Many Medians",
+    "problem_url": "https://atcoder.jp/contests/abc094/tasks/arc095_a",
+    "submission_id": "AC27626759",
+    "submission_url": "https://atcoder.jp/contests/abc094/submissions/27626759",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/02/2021 13:39"
+  },
   "AC27626826": {
     "contest_id": "abc094",
     "language": "Java (OpenJDK 11.0.6)",
