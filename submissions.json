@@ -4863,6 +4863,22 @@
     ],
     "timestamp": "Nov/27/2021 17:51"
   },
+  "AC27709344": {
+    "contest_id": "abc230",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc230/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Triple Metre",
+    "problem_url": "https://atcoder.jp/contests/abc230/tasks/abc230_b",
+    "submission_id": "AC27709344",
+    "submission_url": "https://atcoder.jp/contests/abc230/submissions/27709344",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/05/2021 15:03"
+  },
   "AC27709545": {
     "contest_id": "abc230",
     "language": "Java (OpenJDK 11.0.6)",
