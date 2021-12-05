@@ -4863,6 +4863,22 @@
     ],
     "timestamp": "Nov/27/2021 17:51"
   },
+  "AC27709655": {
+    "contest_id": "abc230",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc230/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Destroyer Takahashi",
+    "problem_url": "https://atcoder.jp/contests/abc230/tasks/abc230_d",
+    "submission_id": "AC27709655",
+    "submission_url": "https://atcoder.jp/contests/abc230/submissions/27709655",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/05/2021 15:24"
+  },
   "AC27709919": {
     "contest_id": "abc230",
     "language": "Java (OpenJDK 11.0.6)",
