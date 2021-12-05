@@ -4863,6 +4863,22 @@
     ],
     "timestamp": "Nov/27/2021 17:51"
   },
+  "AC27709269": {
+    "contest_id": "abc230",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc230/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "AtCoder Quiz 3",
+    "problem_url": "https://atcoder.jp/contests/abc230/tasks/abc230_a",
+    "submission_id": "AC27709269",
+    "submission_url": "https://atcoder.jp/contests/abc230/submissions/27709269",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/05/2021 14:59"
+  },
   "AC27709344": {
     "contest_id": "abc230",
     "language": "Java (OpenJDK 11.0.6)",
