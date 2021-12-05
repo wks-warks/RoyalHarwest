@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1102 | [E - Fraction Floor Sum](https://atcoder.jp/contests/abc230/tasks/abc230_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc230/E.java) | `AtCoder` `*500` | Dec/05/2021 15:42 | 
 1101 | [D - Longest X](https://atcoder.jp/contests/abc229/tasks/abc229_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc229/D.java) | `AtCoder` `*400` | Nov/27/2021 17:51 | 
 1100 | [C - Cheese](https://atcoder.jp/contests/abc229/tasks/abc229_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc229/C.java) | `AtCoder` `*300` | Nov/27/2021 17:43 | 
 1099 | [B - Hard Calculation](https://atcoder.jp/contests/abc229/tasks/abc229_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc229/B.java) | `AtCoder` `*200` | Nov/27/2021 17:37 | 
