@@ -5039,6 +5039,22 @@
     ],
     "timestamp": "Dec/05/2021 15:42"
   },
+  "AC27755163": {
+    "contest_id": "abc125",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc125/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Flipping Signs",
+    "problem_url": "https://atcoder.jp/contests/abc125/tasks/abc125_d",
+    "submission_id": "AC27755163",
+    "submission_url": "https://atcoder.jp/contests/abc125/submissions/27755163",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/07/2021 19:38"
+  },
   "AC27755312": {
     "contest_id": "abc125",
     "language": "Java (OpenJDK 11.0.6)",
