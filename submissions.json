@@ -5039,6 +5039,22 @@
     ],
     "timestamp": "Dec/05/2021 15:42"
   },
+  "AC27755402": {
+    "contest_id": "abc125",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc125/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Biscuit Generator",
+    "problem_url": "https://atcoder.jp/contests/abc125/tasks/abc125_a",
+    "submission_id": "AC27755402",
+    "submission_url": "https://atcoder.jp/contests/abc125/submissions/27755402",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/07/2021 19:51"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
