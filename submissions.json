@@ -5103,6 +5103,22 @@
     ],
     "timestamp": "Dec/07/2021 19:51"
   },
+  "AC27852690": {
+    "contest_id": "abc231",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc231/F.java",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Jealous Two",
+    "problem_url": "https://atcoder.jp/contests/abc231/tasks/abc231_f",
+    "submission_id": "AC27852690",
+    "submission_url": "https://atcoder.jp/contests/abc231/submissions/27852690",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/11/2021 19:20"
+  },
   "AC28031615": {
     "contest_id": "abc232",
     "language": "Java (OpenJDK 11.0.6)",
