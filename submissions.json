@@ -5103,6 +5103,22 @@
     ],
     "timestamp": "Dec/07/2021 19:51"
   },
+  "AC27824224": {
+    "contest_id": "abc231",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc231/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Counting 2",
+    "problem_url": "https://atcoder.jp/contests/abc231/tasks/abc231_c",
+    "submission_id": "AC27824224",
+    "submission_url": "https://atcoder.jp/contests/abc231/submissions/27824224",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/11/2021 17:39"
+  },
   "AC27833079": {
     "contest_id": "abc231",
     "language": "Java (OpenJDK 11.0.6)",
