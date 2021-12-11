@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1124 | [D - Weak Takahashi](https://atcoder.jp/contests/abc232/tasks/abc232_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/D.java) | `AtCoder` `*400` | Dec/20/2021 20:18 | 
-1123 | [C - Graph Isomorphism](https://atcoder.jp/contests/abc232/tasks/abc232_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/C.java) | `AtCoder` `*300` | Dec/20/2021 20:07 | 
-1122 | [B - Caesar Cipher](https://atcoder.jp/contests/abc232/tasks/abc232_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/B.java) | `AtCoder` `*200` | Dec/20/2021 14:01 | 
-1121 | [A - QQ solver](https://atcoder.jp/contests/abc232/tasks/abc232_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/A.java) | `AtCoder` `*100` | Dec/20/2021 13:56 | 
-1120 | [F - Jealous Two](https://atcoder.jp/contests/abc231/tasks/abc231_f) | [Java (OpenJDK 11.0.6)](./atcoder/abc231/F.java) | `AtCoder` `*500` | Dec/11/2021 19:20 | 
-1119 | [D - Neighbors](https://atcoder.jp/contests/abc231/tasks/abc231_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc231/D.java) | `AtCoder` `*400` | Dec/11/2021 17:57 | 
-1118 | [C - Counting 2](https://atcoder.jp/contests/abc231/tasks/abc231_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc231/C.java) | `AtCoder` `*300` | Dec/11/2021 17:39 | 
-1117 | [B - Election](https://atcoder.jp/contests/abc231/tasks/abc231_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc231/B.java) | `AtCoder` `*200` | Dec/11/2021 17:34 | 
+1125 | [D - Weak Takahashi](https://atcoder.jp/contests/abc232/tasks/abc232_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/D.java) | `AtCoder` `*400` | Dec/20/2021 20:18 | 
+1124 | [C - Graph Isomorphism](https://atcoder.jp/contests/abc232/tasks/abc232_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/C.java) | `AtCoder` `*300` | Dec/20/2021 20:07 | 
+1123 | [B - Caesar Cipher](https://atcoder.jp/contests/abc232/tasks/abc232_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/B.java) | `AtCoder` `*200` | Dec/20/2021 14:01 | 
+1122 | [A - QQ solver](https://atcoder.jp/contests/abc232/tasks/abc232_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/A.java) | `AtCoder` `*100` | Dec/20/2021 13:56 | 
+1121 | [F - Jealous Two](https://atcoder.jp/contests/abc231/tasks/abc231_f) | [Java (OpenJDK 11.0.6)](./atcoder/abc231/F.java) | `AtCoder` `*500` | Dec/11/2021 19:20 | 
+1120 | [D - Neighbors](https://atcoder.jp/contests/abc231/tasks/abc231_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc231/D.java) | `AtCoder` `*400` | Dec/11/2021 17:57 | 
+1119 | [C - Counting 2](https://atcoder.jp/contests/abc231/tasks/abc231_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc231/C.java) | `AtCoder` `*300` | Dec/11/2021 17:39 | 
+1118 | [B - Election](https://atcoder.jp/contests/abc231/tasks/abc231_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc231/B.java) | `AtCoder` `*200` | Dec/11/2021 17:34 | 
+1117 | [A - Water Pressure](https://atcoder.jp/contests/abc231/tasks/abc231_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc231/A.java) | `AtCoder` `*100` | Dec/11/2021 17:31 | 
 1116 | [A - Biscuit Generator](https://atcoder.jp/contests/abc125/tasks/abc125_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc125/A.java) | `AtCoder` `*100` | Dec/07/2021 19:51 | 
 1115 | [B - Resale](https://atcoder.jp/contests/abc125/tasks/abc125_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc125/B.java) | `AtCoder` `*200` | Dec/07/2021 19:49 | 
 1114 | [C - GCD on Blackboard](https://atcoder.jp/contests/abc125/tasks/abc125_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc125/C.java) | `AtCoder` `*300` | Dec/07/2021 19:46 | 

@@ -5103,6 +5103,22 @@
     ],
     "timestamp": "Dec/07/2021 19:51"
   },
+  "AC27814536": {
+    "contest_id": "abc231",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc231/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Water Pressure",
+    "problem_url": "https://atcoder.jp/contests/abc231/tasks/abc231_a",
+    "submission_id": "AC27814536",
+    "submission_url": "https://atcoder.jp/contests/abc231/submissions/27814536",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/11/2021 17:31"
+  },
   "AC27819830": {
     "contest_id": "abc231",
     "language": "Java (OpenJDK 11.0.6)",
