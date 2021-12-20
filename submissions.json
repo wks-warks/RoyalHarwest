@@ -5103,6 +5103,22 @@
     ],
     "timestamp": "Dec/07/2021 19:51"
   },
+  "AC28031700": {
+    "contest_id": "abc232",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc232/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Caesar Cipher",
+    "problem_url": "https://atcoder.jp/contests/abc232/tasks/abc232_b",
+    "submission_id": "AC28031700",
+    "submission_url": "https://atcoder.jp/contests/abc232/submissions/28031700",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/20/2021 14:01"
+  },
   "AC28038092": {
     "contest_id": "abc232",
     "language": "Java (OpenJDK 11.0.6)",
