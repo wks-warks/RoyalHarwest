@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1117 | [D - Weak Takahashi](https://atcoder.jp/contests/abc232/tasks/abc232_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/D.java) | `AtCoder` `*400` | Dec/20/2021 20:18 | 
+1118 | [D - Weak Takahashi](https://atcoder.jp/contests/abc232/tasks/abc232_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/D.java) | `AtCoder` `*400` | Dec/20/2021 20:18 | 
+1117 | [C - Graph Isomorphism](https://atcoder.jp/contests/abc232/tasks/abc232_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/C.java) | `AtCoder` `*300` | Dec/20/2021 20:07 | 
 1116 | [A - Biscuit Generator](https://atcoder.jp/contests/abc125/tasks/abc125_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc125/A.java) | `AtCoder` `*100` | Dec/07/2021 19:51 | 
 1115 | [B - Resale](https://atcoder.jp/contests/abc125/tasks/abc125_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc125/B.java) | `AtCoder` `*200` | Dec/07/2021 19:49 | 
 1114 | [C - GCD on Blackboard](https://atcoder.jp/contests/abc125/tasks/abc125_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc125/C.java) | `AtCoder` `*300` | Dec/07/2021 19:46 | 

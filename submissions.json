@@ -5103,6 +5103,22 @@
     ],
     "timestamp": "Dec/07/2021 19:51"
   },
+  "AC28038092": {
+    "contest_id": "abc232",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc232/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Graph Isomorphism",
+    "problem_url": "https://atcoder.jp/contests/abc232/tasks/abc232_c",
+    "submission_id": "AC28038092",
+    "submission_url": "https://atcoder.jp/contests/abc232/submissions/28038092",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/20/2021 20:07"
+  },
   "AC28038326": {
     "contest_id": "abc232",
     "language": "Java (OpenJDK 11.0.6)",
