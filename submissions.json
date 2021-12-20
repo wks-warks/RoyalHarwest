@@ -5103,6 +5103,22 @@
     ],
     "timestamp": "Dec/07/2021 19:51"
   },
+  "AC28031615": {
+    "contest_id": "abc232",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc232/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "QQ solver",
+    "problem_url": "https://atcoder.jp/contests/abc232/tasks/abc232_a",
+    "submission_id": "AC28031615",
+    "submission_url": "https://atcoder.jp/contests/abc232/submissions/28031615",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/20/2021 13:56"
+  },
   "AC28031700": {
     "contest_id": "abc232",
     "language": "Java (OpenJDK 11.0.6)",
