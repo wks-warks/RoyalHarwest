@@ -5247,6 +5247,22 @@
     ],
     "timestamp": "Dec/20/2021 20:18"
   },
+  "AC28225769": {
+    "contest_id": "abc093",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc093/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Small and Large Integers",
+    "problem_url": "https://atcoder.jp/contests/abc093/tasks/abc093_b",
+    "submission_id": "AC28225769",
+    "submission_url": "https://atcoder.jp/contests/abc093/submissions/28225769",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/29/2021 22:03"
+  },
   "AC28225834": {
     "contest_id": "abc093",
     "language": "Java (OpenJDK 11.0.6)",
