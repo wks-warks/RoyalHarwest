@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1133 | [C - Same Integers](https://atcoder.jp/contests/abc093/tasks/arc094_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/C.java) | `AtCoder` `*300` | Dec/29/2021 22:09 | 
-1132 | [B - Small and Large Integers](https://atcoder.jp/contests/abc093/tasks/abc093_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/B.java) | `AtCoder` `*200` | Dec/29/2021 22:03 | 
-1131 | [A - abc of ABC](https://atcoder.jp/contests/abc093/tasks/abc093_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/A.java) | `AtCoder` `*100` | Dec/29/2021 21:57 | 
-1130 | [C - Traveling Plan](https://atcoder.jp/contests/abc092/tasks/arc093_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc092/C.java) | `AtCoder` `*300` | Dec/29/2021 21:40 | 
-1129 | [B - Chocolate](https://atcoder.jp/contests/abc092/tasks/abc092_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc092/B.java) | `AtCoder` `*200` | Dec/29/2021 21:30 | 
-1128 | [A - Traveling Budget](https://atcoder.jp/contests/abc092/tasks/abc092_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc092/A.java) | `AtCoder` `*100` | Dec/29/2021 21:26 | 
-1127 | [C - 2D Plane 2N Points](https://atcoder.jp/contests/abc091/tasks/arc092_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc091/C.java) | `AtCoder` `*400` | Dec/29/2021 15:22 | 
-1126 | [B - Two Colors Card Game](https://atcoder.jp/contests/abc091/tasks/abc091_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc091/B.java) | `AtCoder` `*200` | Dec/29/2021 14:24 | 
+1134 | [C - Same Integers](https://atcoder.jp/contests/abc093/tasks/arc094_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/C.java) | `AtCoder` `*300` | Dec/29/2021 22:09 | 
+1133 | [B - Small and Large Integers](https://atcoder.jp/contests/abc093/tasks/abc093_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/B.java) | `AtCoder` `*200` | Dec/29/2021 22:03 | 
+1132 | [A - abc of ABC](https://atcoder.jp/contests/abc093/tasks/abc093_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/A.java) | `AtCoder` `*100` | Dec/29/2021 21:57 | 
+1131 | [C - Traveling Plan](https://atcoder.jp/contests/abc092/tasks/arc093_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc092/C.java) | `AtCoder` `*300` | Dec/29/2021 21:40 | 
+1130 | [B - Chocolate](https://atcoder.jp/contests/abc092/tasks/abc092_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc092/B.java) | `AtCoder` `*200` | Dec/29/2021 21:30 | 
+1129 | [A - Traveling Budget](https://atcoder.jp/contests/abc092/tasks/abc092_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc092/A.java) | `AtCoder` `*100` | Dec/29/2021 21:26 | 
+1128 | [C - 2D Plane 2N Points](https://atcoder.jp/contests/abc091/tasks/arc092_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc091/C.java) | `AtCoder` `*400` | Dec/29/2021 15:22 | 
+1127 | [B - Two Colors Card Game](https://atcoder.jp/contests/abc091/tasks/abc091_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc091/B.java) | `AtCoder` `*200` | Dec/29/2021 14:24 | 
+1126 | [A - Two Coins](https://atcoder.jp/contests/abc091/tasks/abc091_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc091/A.java) | `AtCoder` `*100` | Dec/29/2021 14:16 | 
 1125 | [D - Weak Takahashi](https://atcoder.jp/contests/abc232/tasks/abc232_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/D.java) | `AtCoder` `*400` | Dec/20/2021 20:18 | 
 1124 | [C - Graph Isomorphism](https://atcoder.jp/contests/abc232/tasks/abc232_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/C.java) | `AtCoder` `*300` | Dec/20/2021 20:07 | 
 1123 | [B - Caesar Cipher](https://atcoder.jp/contests/abc232/tasks/abc232_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/B.java) | `AtCoder` `*200` | Dec/20/2021 14:01 | 
