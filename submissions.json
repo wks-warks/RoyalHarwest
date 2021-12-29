@@ -5247,6 +5247,22 @@
     ],
     "timestamp": "Dec/20/2021 20:18"
   },
+  "AC28225834": {
+    "contest_id": "abc093",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc093/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Same Integers",
+    "problem_url": "https://atcoder.jp/contests/abc093/tasks/arc094_a",
+    "submission_id": "AC28225834",
+    "submission_url": "https://atcoder.jp/contests/abc093/submissions/28225834",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/29/2021 22:09"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",

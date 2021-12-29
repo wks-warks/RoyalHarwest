@@ -5,7 +5,7 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/RegalBeast.svg)](https://codeforces.com/profile/RegalBeast)
+* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/warks.svg)](https://codeforces.com/profile/warks)
 * AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/warks.svg)](https://atcoder.jp/users/warks)
 
 
@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1126 | [C - Same Integers](https://atcoder.jp/contests/abc093/tasks/arc094_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/C.java) | `AtCoder` `*300` | Dec/29/2021 22:09 | 
 1125 | [D - Weak Takahashi](https://atcoder.jp/contests/abc232/tasks/abc232_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/D.java) | `AtCoder` `*400` | Dec/20/2021 20:18 | 
 1124 | [C - Graph Isomorphism](https://atcoder.jp/contests/abc232/tasks/abc232_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/C.java) | `AtCoder` `*300` | Dec/20/2021 20:07 | 
 1123 | [B - Caesar Cipher](https://atcoder.jp/contests/abc232/tasks/abc232_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/B.java) | `AtCoder` `*200` | Dec/20/2021 14:01 | 
