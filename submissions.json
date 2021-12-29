@@ -5247,6 +5247,22 @@
     ],
     "timestamp": "Dec/20/2021 20:18"
   },
+  "AC28218954": {
+    "contest_id": "abc091",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc091/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Two Colors Card Game",
+    "problem_url": "https://atcoder.jp/contests/abc091/tasks/abc091_b",
+    "submission_id": "AC28218954",
+    "submission_url": "https://atcoder.jp/contests/abc091/submissions/28218954",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/29/2021 14:24"
+  },
   "AC28219784": {
     "contest_id": "abc091",
     "language": "Java (OpenJDK 11.0.6)",
