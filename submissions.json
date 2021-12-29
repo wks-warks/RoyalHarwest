@@ -5247,6 +5247,22 @@
     ],
     "timestamp": "Dec/20/2021 20:18"
   },
+  "AC28225552": {
+    "contest_id": "abc092",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc092/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Traveling Plan",
+    "problem_url": "https://atcoder.jp/contests/abc092/tasks/arc093_a",
+    "submission_id": "AC28225552",
+    "submission_url": "https://atcoder.jp/contests/abc092/submissions/28225552",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/29/2021 21:40"
+  },
   "AC28225723": {
     "contest_id": "abc093",
     "language": "Java (OpenJDK 11.0.6)",

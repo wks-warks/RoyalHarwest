@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1128 | [C - Same Integers](https://atcoder.jp/contests/abc093/tasks/arc094_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/C.java) | `AtCoder` `*300` | Dec/29/2021 22:09 | 
-1127 | [B - Small and Large Integers](https://atcoder.jp/contests/abc093/tasks/abc093_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/B.java) | `AtCoder` `*200` | Dec/29/2021 22:03 | 
-1126 | [A - abc of ABC](https://atcoder.jp/contests/abc093/tasks/abc093_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/A.java) | `AtCoder` `*100` | Dec/29/2021 21:57 | 
+1129 | [C - Same Integers](https://atcoder.jp/contests/abc093/tasks/arc094_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/C.java) | `AtCoder` `*300` | Dec/29/2021 22:09 | 
+1128 | [B - Small and Large Integers](https://atcoder.jp/contests/abc093/tasks/abc093_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/B.java) | `AtCoder` `*200` | Dec/29/2021 22:03 | 
+1127 | [A - abc of ABC](https://atcoder.jp/contests/abc093/tasks/abc093_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/A.java) | `AtCoder` `*100` | Dec/29/2021 21:57 | 
+1126 | [C - Traveling Plan](https://atcoder.jp/contests/abc092/tasks/arc093_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc092/C.java) | `AtCoder` `*300` | Dec/29/2021 21:40 | 
 1125 | [D - Weak Takahashi](https://atcoder.jp/contests/abc232/tasks/abc232_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/D.java) | `AtCoder` `*400` | Dec/20/2021 20:18 | 
 1124 | [C - Graph Isomorphism](https://atcoder.jp/contests/abc232/tasks/abc232_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/C.java) | `AtCoder` `*300` | Dec/20/2021 20:07 | 
 1123 | [B - Caesar Cipher](https://atcoder.jp/contests/abc232/tasks/abc232_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc232/B.java) | `AtCoder` `*200` | Dec/20/2021 14:01 | 
