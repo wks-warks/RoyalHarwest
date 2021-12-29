@@ -5247,6 +5247,22 @@
     ],
     "timestamp": "Dec/20/2021 20:18"
   },
+  "AC28225378": {
+    "contest_id": "abc092",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc092/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Traveling Budget",
+    "problem_url": "https://atcoder.jp/contests/abc092/tasks/abc092_a",
+    "submission_id": "AC28225378",
+    "submission_url": "https://atcoder.jp/contests/abc092/submissions/28225378",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/29/2021 21:26"
+  },
   "AC28225416": {
     "contest_id": "abc092",
     "language": "Java (OpenJDK 11.0.6)",
