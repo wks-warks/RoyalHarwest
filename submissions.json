@@ -14988,6 +14988,23 @@
     ],
     "timestamp": "Nov/10/2021 16:57"
   },
+  "CF141550066": {
+    "contest_id": 1621,
+    "language": "Java 11",
+    "path": "codeforces/1621/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hidden Permutations",
+    "problem_url": "https://codeforces.com/contest/1621/problem/C",
+    "submission_id": "CF141550066",
+    "submission_url": "https://codeforces.com/contest/1621/submission/141550066",
+    "tags": [
+      "dfs and similar",
+      "interactive",
+      "math"
+    ],
+    "timestamp": "Jan/03/2022 21:40"
+  },
   "CF141572432": {
     "contest_id": 1621,
     "language": "Java 11",

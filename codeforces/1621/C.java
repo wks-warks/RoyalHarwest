@@ -393,7 +393,7 @@ public class C implements Runnable {
     }
 
     private static void settleChain(int qPrior, int i, List<Integer> chain, int[] perm, Set<Integer> settledIdx) {
-        int start = (chain.size() - qPrior % chain.size());
+        int start = (chain.size() - qPrior) % chain.size();
         if (start < 0) {
             start += chain.size();
         }
