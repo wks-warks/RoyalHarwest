@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1135 | [C - Hidden Permutations](https://codeforces.com/contest/1621/problem/C) | [Java 11](./codeforces/1621/C.java) | `dfs and similar` `interactive` `math` | Jan/03/2022 23:03 | 
+1136 | [C - Hidden Permutations](https://codeforces.com/contest/1621/problem/C) | [Java 11](./codeforces/1621/C.java) | `dfs and similar` `interactive` `math` | Jan/03/2022 23:03 | 
+1135 | [B - Integers Shop](https://codeforces.com/contest/1621/problem/B) | [Java 11](./codeforces/1621/B.java) | `data structures` `greedy` `implementation` | Jan/03/2022 20:27 | 
 1134 | [C - Same Integers](https://atcoder.jp/contests/abc093/tasks/arc094_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/C.java) | `AtCoder` `*300` | Dec/29/2021 22:09 | 
 1133 | [B - Small and Large Integers](https://atcoder.jp/contests/abc093/tasks/abc093_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/B.java) | `AtCoder` `*200` | Dec/29/2021 22:03 | 
 1132 | [A - abc of ABC](https://atcoder.jp/contests/abc093/tasks/abc093_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/A.java) | `AtCoder` `*100` | Dec/29/2021 21:57 | 
