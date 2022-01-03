@@ -5391,6 +5391,22 @@
     ],
     "timestamp": "Dec/29/2021 22:09"
   },
+  "AC28311094": {
+    "contest_id": "abc091",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc091/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "2D Plane 2N Points",
+    "problem_url": "https://atcoder.jp/contests/abc091/tasks/arc092_a",
+    "submission_id": "AC28311094",
+    "submission_url": "https://atcoder.jp/contests/abc091/submissions/28311094",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/03/2022 18:04"
+  },
   "AC28313011": {
     "contest_id": "abc091",
     "language": "Java (OpenJDK 11.0.6)",
