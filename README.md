@@ -6,13 +6,13 @@ Submissions
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/warks.svg)](https://codeforces.com/profile/warks)
-* AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/warks.svg)](https://atcoder.jp/users/warks)
 
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1135 | [C - Hidden Permutations](https://codeforces.com/contest/1621/problem/C) | [Java 11](./codeforces/1621/C.java) | `dfs and similar` `interactive` `math` | Jan/03/2022 23:03 | 
 1134 | [C - Same Integers](https://atcoder.jp/contests/abc093/tasks/arc094_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/C.java) | `AtCoder` `*300` | Dec/29/2021 22:09 | 
 1133 | [B - Small and Large Integers](https://atcoder.jp/contests/abc093/tasks/abc093_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/B.java) | `AtCoder` `*200` | Dec/29/2021 22:03 | 
 1132 | [A - abc of ABC](https://atcoder.jp/contests/abc093/tasks/abc093_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc093/A.java) | `AtCoder` `*100` | Dec/29/2021 21:57 | 
