@@ -5423,6 +5423,22 @@
     ],
     "timestamp": "Jan/03/2022 19:57"
   },
+  "AC28349406": {
+    "contest_id": "abc233",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc233/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "10yen Stamp",
+    "problem_url": "https://atcoder.jp/contests/abc233/tasks/abc233_a",
+    "submission_id": "AC28349406",
+    "submission_url": "https://atcoder.jp/contests/abc233/submissions/28349406",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/06/2022 15:12"
+  },
   "AC28349471": {
     "contest_id": "abc233",
     "language": "Java (OpenJDK 11.0.6)",
