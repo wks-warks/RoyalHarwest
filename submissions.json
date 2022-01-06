@@ -5423,6 +5423,22 @@
     ],
     "timestamp": "Jan/03/2022 19:57"
   },
+  "AC28349471": {
+    "contest_id": "abc233",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc233/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "A Reverse",
+    "problem_url": "https://atcoder.jp/contests/abc233/tasks/abc233_b",
+    "submission_id": "AC28349471",
+    "submission_url": "https://atcoder.jp/contests/abc233/submissions/28349471",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/06/2022 15:17"
+  },
   "AC28349602": {
     "contest_id": "abc233",
     "language": "Java (OpenJDK 11.0.6)",
