@@ -5423,6 +5423,22 @@
     ],
     "timestamp": "Jan/03/2022 19:57"
   },
+  "AC28349710": {
+    "contest_id": "abc233",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc233/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Count Interval",
+    "problem_url": "https://atcoder.jp/contests/abc233/tasks/abc233_d",
+    "submission_id": "AC28349710",
+    "submission_url": "https://atcoder.jp/contests/abc233/submissions/28349710",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/06/2022 15:36"
+  },
   "AC28349871": {
     "contest_id": "abc233",
     "language": "Java (OpenJDK 11.0.6)",
