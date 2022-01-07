@@ -5423,6 +5423,22 @@
     ],
     "timestamp": "Jan/03/2022 19:57"
   },
+  "AC28368685": {
+    "contest_id": "abc095",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc095/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Static Sushi",
+    "problem_url": "https://atcoder.jp/contests/abc095/tasks/arc096_b",
+    "submission_id": "AC28368685",
+    "submission_url": "https://atcoder.jp/contests/abc095/submissions/28368685",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/08/2022 03:11"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",

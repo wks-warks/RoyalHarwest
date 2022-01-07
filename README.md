@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1138 | [D - Static Sushi](https://atcoder.jp/contests/abc095/tasks/arc096_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc095/D.java) | `AtCoder` `*500` | Jan/08/2022 03:11 | 
 1137 | [C - Hidden Permutations](https://codeforces.com/contest/1621/problem/C) | [Java 11](./codeforces/1621/C.java) | `dfs and similar` `interactive` `math` | Jan/03/2022 23:03 | 
 1136 | [B - Integers Shop](https://codeforces.com/contest/1621/problem/B) | [Java 11](./codeforces/1621/B.java) | `data structures` `greedy` `implementation` | Jan/03/2022 20:27 | 
 1135 | [A - Stable Arrangement of Rooks](https://codeforces.com/contest/1621/problem/A) | [Java 11](./codeforces/1621/A.java) | `constructive algorithms` | Jan/03/2022 20:12 | 
