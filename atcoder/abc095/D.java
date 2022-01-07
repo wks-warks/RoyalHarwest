@@ -370,6 +370,16 @@ public class Main implements Runnable {
         long[] forward = getNutrition(sushis, circumference, 0, sushis.length, 1, clockwise);
         long[] backward = getNutrition(sushis, circumference, sushis.length-1, -1, -1, counterClockwise);
 
+        // for (var val : forward) {
+        //     out.println("F: " + val);
+        // }
+        // out.println();
+        // for (var val : backward) {
+        //     out.println("B: " + val);
+        // }
+        // out.println();
+            // out.println(String.format("Idx: %d\nPos: %d\nFwd: %d\nNetBkwd: %d\nCandidate: %d\nNutrition: %d\n",i, pos, fwd, bkwd, (fwd + Math.max(0, bkwd - pos)), nutrition));
+
         long candidate1 = getNutrition(sushis, circumference, 0, sushis.length, 1, clockwise, forward, backward, (a, b) -> a);
         long candidate2 = getNutrition(sushis, circumference, sushis.length-1, -1, -1, counterClockwise, backward, forward, (a, b) -> b);
         return Math.max(candidate1, candidate2);
