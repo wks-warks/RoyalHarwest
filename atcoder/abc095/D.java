@@ -370,16 +370,6 @@ public class Main implements Runnable {
         long[] forward = getNutrition(sushis, circumference, 0, sushis.length, 1, clockwise);
         long[] backward = getNutrition(sushis, circumference, sushis.length-1, -1, -1, counterClockwise);
 
-        // for (var val : forward) {
-        //     out.println("F: " + val);
-        // }
-        // out.println();
-        // for (var val : backward) {
-        //     out.println("B: " + val);
-        // }
-        // out.println();
-            // out.println(String.format("Idx: %d\nPos: %d\nFwd: %d\nNetBkwd: %d\nCandidate: %d\nNutrition: %d\n",i, pos, fwd, bkwd, (fwd + Math.max(0, bkwd - pos)), nutrition));
-
         long candidate1 = getNutrition(sushis, circumference, 0, sushis.length, 1, clockwise, forward, backward, (a, b) -> a);
         long candidate2 = getNutrition(sushis, circumference, sushis.length-1, -1, -1, counterClockwise, backward, forward, (a, b) -> b);
         return Math.max(candidate1, candidate2);
@@ -388,12 +378,16 @@ public class Main implements Runnable {
     private static long getNutrition(long[][] sushis, long circumference, int start, int end, int inc, BinaryOperator<Long> op1, long[] chosen, long[] opposite, BinaryOperator<Integer> op2) {
         long nutrition = 0;
 
-        SparseTable st = new SparseTable(opposite);
+        long[] oppositeMax = new long[opposite.length];
+        oppositeMax[end-inc] = opposite[end-inc];
+        for (int i = end-(inc<<1); i != start - inc; i -= inc) {
+            oppositeMax[i] = Math.max(oppositeMax[i+inc], opposite[i]);
+        }
         for (int i = start; i != end; i += inc) {
             long pos = op1.apply(sushis[i][0], circumference);
             long csn = chosen[i];
 
-            long opp = st.query(op2.apply(i+inc, end-inc), op2.apply(end-inc, i+inc));
+            long opp = (i+inc >= 0 && i+inc < oppositeMax.length) ? oppositeMax[i+inc] : 0;
             nutrition = Math.max(nutrition, csn + Math.max(0, opp - pos));
         }
 
@@ -416,42 +410,5 @@ public class Main implements Runnable {
         }
 
         return net;
-    }
-}
-
-class SparseTable {
-    long[][] table;
-
-    SparseTable (long[] arr) {
-        int k = findK(arr.length);
-        table = new long[arr.length][k+1];
-
-        for (int i = 0; i < arr.length; i++) {
-            table[i][0] = arr[i];
-        }
-
-        for (int i = 1; i <= k; i++) {
-            int end = arr.length - (1<<i);
-            for (int j = 0; j <= end; j++) {
-                table[j][i] = Math.max(table[j][i-1], table[j+(1<<(i-1))][i-1]);
-            }
-        }
-    }
-
-    long query(int start, int end) {
-        if (start == table.length || end == -1) {
-            return 0L;
-        }
-
-        int k = findK(end - start + 1);
-        return Math.max(table[start][k], table[end-(1<<k)+1][k]);
-    }
-
-    private static int findK(int length) {
-        int k = 0;
-        while((1<<(k+1)) <= length) {
-            k += 1;
-        }
-        return k;
     }
 }
