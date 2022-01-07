@@ -5423,6 +5423,22 @@
     ],
     "timestamp": "Jan/03/2022 19:57"
   },
+  "AC28368477": {
+    "contest_id": "abc095",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc095/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Half and Half",
+    "problem_url": "https://atcoder.jp/contests/abc095/tasks/arc096_a",
+    "submission_id": "AC28368477",
+    "submission_url": "https://atcoder.jp/contests/abc095/submissions/28368477",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/08/2022 02:02"
+  },
   "AC28368678": {
     "contest_id": "abc095",
     "language": "Java (OpenJDK 11.0.6)",
