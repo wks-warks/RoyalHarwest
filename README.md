@@ -13,22 +13,23 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1162 | [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | [Java (OpenJDK 11.0.6)](./atcoder/dp/N.java) | `AtCoder` `*100` | Jan/22/2022 05:58 | 
-1161 | [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m) | [Java (OpenJDK 11.0.6)](./atcoder/dp/M.java) | `AtCoder` `*100` | Jan/22/2022 05:27 | 
-1160 | [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | [Java (OpenJDK 11.0.6)](./atcoder/dp/L.java) | `AtCoder` `*100` | Jan/22/2022 05:00 | 
-1159 | [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k) | [Java (OpenJDK 11.0.6)](./atcoder/dp/K.java) | `AtCoder` `*100` | Jan/22/2022 03:50 | 
-1158 | [J - Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) | [Java (OpenJDK 11.0.6)](./atcoder/dp/J.java) | `AtCoder` `*100` | Jan/20/2022 19:56 | 
-1157 | [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | [Java (OpenJDK 11.0.6)](./atcoder/dp/I.java) | `AtCoder` `*100` | Jan/19/2022 17:53 | 
-1156 | [H - Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | [Java (OpenJDK 11.0.6)](./atcoder/dp/H.java) | `AtCoder` `*100` | Jan/19/2022 17:42 | 
-1155 | [G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | [Java (OpenJDK 11.0.6)](./atcoder/dp/G.java) | `AtCoder` `*100` | Jan/19/2022 17:33 | 
-1154 | [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | [Java (OpenJDK 11.0.6)](./atcoder/dp/F.java) | `AtCoder` `*100` | Jan/19/2022 17:21 | 
-1153 | [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | [Java (OpenJDK 11.0.6)](./atcoder/dp/E.java) | `AtCoder` `*100` | Jan/19/2022 16:37 | 
-1152 | [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | [Java (OpenJDK 11.0.6)](./atcoder/dp/D.java) | `AtCoder` `*100` | Jan/19/2022 16:24 | 
-1151 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [Java (OpenJDK 11.0.6)](./atcoder/dp/C.java) | `AtCoder` `*100` | Jan/19/2022 16:16 | 
-1150 | [B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | [Java (OpenJDK 11.0.6)](./atcoder/dp/B.java) | `AtCoder` `*100` | Jan/19/2022 16:09 | 
-1149 | [A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | [Java (OpenJDK 11.0.6)](./atcoder/dp/A.java) | `AtCoder` `*100` | Jan/19/2022 16:05 | 
-1148 | [E - Arithmetic Number](https://atcoder.jp/contests/abc234/tasks/abc234_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc234/E.java) | `AtCoder` `*500` | Jan/08/2022 18:15 | 
-1147 | [D - Prefix K-th Max](https://atcoder.jp/contests/abc234/tasks/abc234_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc234/D.java) | `AtCoder` `*400` | Jan/08/2022 17:54 | 
+1163 | [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | [Java (OpenJDK 11.0.6)](./atcoder/dp/N.java) | `AtCoder` `*100` | Jan/22/2022 05:58 | 
+1162 | [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m) | [Java (OpenJDK 11.0.6)](./atcoder/dp/M.java) | `AtCoder` `*100` | Jan/22/2022 05:27 | 
+1161 | [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | [Java (OpenJDK 11.0.6)](./atcoder/dp/L.java) | `AtCoder` `*100` | Jan/22/2022 05:00 | 
+1160 | [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k) | [Java (OpenJDK 11.0.6)](./atcoder/dp/K.java) | `AtCoder` `*100` | Jan/22/2022 03:50 | 
+1159 | [J - Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) | [Java (OpenJDK 11.0.6)](./atcoder/dp/J.java) | `AtCoder` `*100` | Jan/20/2022 19:56 | 
+1158 | [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | [Java (OpenJDK 11.0.6)](./atcoder/dp/I.java) | `AtCoder` `*100` | Jan/19/2022 17:53 | 
+1157 | [H - Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | [Java (OpenJDK 11.0.6)](./atcoder/dp/H.java) | `AtCoder` `*100` | Jan/19/2022 17:42 | 
+1156 | [G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | [Java (OpenJDK 11.0.6)](./atcoder/dp/G.java) | `AtCoder` `*100` | Jan/19/2022 17:33 | 
+1155 | [F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | [Java (OpenJDK 11.0.6)](./atcoder/dp/F.java) | `AtCoder` `*100` | Jan/19/2022 17:21 | 
+1154 | [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | [Java (OpenJDK 11.0.6)](./atcoder/dp/E.java) | `AtCoder` `*100` | Jan/19/2022 16:37 | 
+1153 | [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | [Java (OpenJDK 11.0.6)](./atcoder/dp/D.java) | `AtCoder` `*100` | Jan/19/2022 16:24 | 
+1152 | [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | [Java (OpenJDK 11.0.6)](./atcoder/dp/C.java) | `AtCoder` `*100` | Jan/19/2022 16:16 | 
+1151 | [B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | [Java (OpenJDK 11.0.6)](./atcoder/dp/B.java) | `AtCoder` `*100` | Jan/19/2022 16:09 | 
+1150 | [A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | [Java (OpenJDK 11.0.6)](./atcoder/dp/A.java) | `AtCoder` `*100` | Jan/19/2022 16:05 | 
+1149 | [E - Arithmetic Number](https://atcoder.jp/contests/abc234/tasks/abc234_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc234/E.java) | `AtCoder` `*500` | Jan/08/2022 18:15 | 
+1148 | [D - Prefix K-th Max](https://atcoder.jp/contests/abc234/tasks/abc234_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc234/D.java) | `AtCoder` `*400` | Jan/08/2022 17:54 | 
+1147 | [C - Happy New Year!](https://atcoder.jp/contests/abc234/tasks/abc234_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc234/C.java) | `AtCoder` `*300` | Jan/08/2022 17:41 | 
 1146 | [D - Static Sushi](https://atcoder.jp/contests/abc095/tasks/arc096_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc095/D.java) | `AtCoder` `*500` | Jan/08/2022 03:24 | 
 1145 | [C - Half and Half](https://atcoder.jp/contests/abc095/tasks/arc096_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc095/C.java) | `AtCoder` `*300` | Jan/08/2022 02:02 | 
 1144 | [B - Bitter Alchemy](https://atcoder.jp/contests/abc095/tasks/abc095_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc095/B.java) | `AtCoder` `*200` | Jan/08/2022 01:55 | 

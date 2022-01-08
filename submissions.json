@@ -5599,6 +5599,22 @@
     ],
     "timestamp": "Jan/08/2022 03:24"
   },
+  "AC28389825": {
+    "contest_id": "abc234",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc234/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Happy New Year!",
+    "problem_url": "https://atcoder.jp/contests/abc234/tasks/abc234_c",
+    "submission_id": "AC28389825",
+    "submission_url": "https://atcoder.jp/contests/abc234/submissions/28389825",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/08/2022 17:41"
+  },
   "AC28396610": {
     "contest_id": "abc234",
     "language": "Java (OpenJDK 11.0.6)",
