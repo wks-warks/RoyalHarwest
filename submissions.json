@@ -5599,6 +5599,22 @@
     ],
     "timestamp": "Jan/08/2022 03:24"
   },
+  "AC28396610": {
+    "contest_id": "abc234",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc234/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Prefix K-th Max",
+    "problem_url": "https://atcoder.jp/contests/abc234/tasks/abc234_d",
+    "submission_id": "AC28396610",
+    "submission_url": "https://atcoder.jp/contests/abc234/submissions/28396610",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/08/2022 17:54"
+  },
   "AC28403500": {
     "contest_id": "abc234",
     "language": "Java (OpenJDK 11.0.6)",
