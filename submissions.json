@@ -5599,6 +5599,22 @@
     ],
     "timestamp": "Jan/08/2022 03:24"
   },
+  "AC28385585": {
+    "contest_id": "abc234",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc234/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Longest Segment",
+    "problem_url": "https://atcoder.jp/contests/abc234/tasks/abc234_b",
+    "submission_id": "AC28385585",
+    "submission_url": "https://atcoder.jp/contests/abc234/submissions/28385585",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/08/2022 17:36"
+  },
   "AC28389825": {
     "contest_id": "abc234",
     "language": "Java (OpenJDK 11.0.6)",
