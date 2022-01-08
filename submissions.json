@@ -5599,6 +5599,22 @@
     ],
     "timestamp": "Jan/08/2022 03:24"
   },
+  "AC28403500": {
+    "contest_id": "abc234",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc234/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Arithmetic Number",
+    "problem_url": "https://atcoder.jp/contests/abc234/tasks/abc234_e",
+    "submission_id": "AC28403500",
+    "submission_url": "https://atcoder.jp/contests/abc234/submissions/28403500",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/08/2022 18:15"
+  },
   "AC28633869": {
     "contest_id": "dp",
     "language": "Java (OpenJDK 11.0.6)",
