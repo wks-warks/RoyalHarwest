@@ -5599,6 +5599,22 @@
     ],
     "timestamp": "Jan/08/2022 03:24"
   },
+  "AC28380438": {
+    "contest_id": "abc234",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc234/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Weird Function",
+    "problem_url": "https://atcoder.jp/contests/abc234/tasks/abc234_a",
+    "submission_id": "AC28380438",
+    "submission_url": "https://atcoder.jp/contests/abc234/submissions/28380438",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/08/2022 17:32"
+  },
   "AC28385585": {
     "contest_id": "abc234",
     "language": "Java (OpenJDK 11.0.6)",
