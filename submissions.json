@@ -15647,6 +15647,22 @@
     ],
     "timestamp": "Jan/03/2022 23:03"
   },
+  "CF142501221": {
+    "contest_id": 1625,
+    "language": "Java 11",
+    "path": "codeforces/1625/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Road Optimization",
+    "problem_url": "https://codeforces.com/contest/1625/problem/C",
+    "submission_id": "CF142501221",
+    "submission_url": "https://codeforces.com/contest/1625/submission/142501221",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Jan/12/2022 18:52"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
