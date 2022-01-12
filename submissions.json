@@ -15647,6 +15647,24 @@
     ],
     "timestamp": "Jan/03/2022 23:03"
   },
+  "CF142470664": {
+    "contest_id": 1625,
+    "language": "Java 11",
+    "path": "codeforces/1625/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ancient Civilization",
+    "problem_url": "https://codeforces.com/contest/1625/problem/A",
+    "submission_id": "CF142470664",
+    "submission_url": "https://codeforces.com/contest/1625/submission/142470664",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/12/2022 17:42"
+  },
   "CF142475377": {
     "contest_id": 1625,
     "language": "Java 11",
