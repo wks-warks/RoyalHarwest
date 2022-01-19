@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1151 | [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | [Java (OpenJDK 11.0.6)](./atcoder/dp/N.java) | `AtCoder` `*100` | Jan/22/2022 05:58 | 
-1150 | [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m) | [Java (OpenJDK 11.0.6)](./atcoder/dp/M.java) | `AtCoder` `*100` | Jan/22/2022 05:27 | 
-1149 | [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | [Java (OpenJDK 11.0.6)](./atcoder/dp/L.java) | `AtCoder` `*100` | Jan/22/2022 05:00 | 
-1148 | [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k) | [Java (OpenJDK 11.0.6)](./atcoder/dp/K.java) | `AtCoder` `*100` | Jan/22/2022 03:50 | 
-1147 | [J - Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) | [Java (OpenJDK 11.0.6)](./atcoder/dp/J.java) | `AtCoder` `*100` | Jan/20/2022 19:56 | 
+1152 | [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | [Java (OpenJDK 11.0.6)](./atcoder/dp/N.java) | `AtCoder` `*100` | Jan/22/2022 05:58 | 
+1151 | [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m) | [Java (OpenJDK 11.0.6)](./atcoder/dp/M.java) | `AtCoder` `*100` | Jan/22/2022 05:27 | 
+1150 | [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | [Java (OpenJDK 11.0.6)](./atcoder/dp/L.java) | `AtCoder` `*100` | Jan/22/2022 05:00 | 
+1149 | [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k) | [Java (OpenJDK 11.0.6)](./atcoder/dp/K.java) | `AtCoder` `*100` | Jan/22/2022 03:50 | 
+1148 | [J - Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) | [Java (OpenJDK 11.0.6)](./atcoder/dp/J.java) | `AtCoder` `*100` | Jan/20/2022 19:56 | 
+1147 | [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | [Java (OpenJDK 11.0.6)](./atcoder/dp/I.java) | `AtCoder` `*100` | Jan/19/2022 17:53 | 
 1146 | [D - Static Sushi](https://atcoder.jp/contests/abc095/tasks/arc096_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc095/D.java) | `AtCoder` `*500` | Jan/08/2022 03:24 | 
 1145 | [C - Half and Half](https://atcoder.jp/contests/abc095/tasks/arc096_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc095/C.java) | `AtCoder` `*300` | Jan/08/2022 02:02 | 
 1144 | [B - Bitter Alchemy](https://atcoder.jp/contests/abc095/tasks/abc095_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc095/B.java) | `AtCoder` `*200` | Jan/08/2022 01:55 | 
