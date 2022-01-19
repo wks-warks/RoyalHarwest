@@ -5599,6 +5599,22 @@
     ],
     "timestamp": "Jan/08/2022 03:24"
   },
+  "AC28634950": {
+    "contest_id": "dp",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/dp/F.java",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "LCS",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_f",
+    "submission_id": "AC28634950",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/28634950",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/19/2022 17:21"
+  },
   "AC28635202": {
     "contest_id": "dp",
     "language": "Java (OpenJDK 11.0.6)",
