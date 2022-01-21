@@ -1,5 +1,6 @@
 // Author : warks
-import java.util.BitSet;
+import java.util.Map;
+import java.util.HashMap;
 
 public class Main implements Runnable {
     // Credits: NASU41
@@ -356,26 +357,28 @@ public class Main implements Runnable {
 
         boolean taroWins = checkWin(stones, options);
         out.println(taroWins ? "First" : "Second");
-        
+
         out.close();
     }
 
+    static Map<Integer, Boolean> memo = new HashMap<Integer, Boolean>();
     private static boolean checkWin(int stones, int[] options) {
-        BitSet wins = new BitSet(stones+1);
-        for (int s = 0; s < stones; s++) {
-            for (var option : options) {
-                int net = s + option;
-
-                if (net <= stones) {
-                    if (!wins.get(s)) {
-                        wins.set(net);
-                    }
-                } else {
-                    break;
-                }
-            }
+        if (stones < options[0]) {
+            return false;
+        }
+        if (memo.containsKey(stones)) {
+            return memo.get(stones);
         }
 
-        return wins.get(stones);
+        boolean wins = false;
+        for (var option : options) {
+            if (option > stones) {
+                break;
+            }
+            wins |= !checkWin(stones - option, options);
+        }
+
+        memo.put(stones, wins);
+        return wins; 
     }
 }

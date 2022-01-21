@@ -5599,6 +5599,22 @@
     ],
     "timestamp": "Jan/08/2022 03:24"
   },
+  "AC28668998": {
+    "contest_id": "dp",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/dp/K.java",
+    "platform": "AtCoder",
+    "problem_index": "K",
+    "problem_name": "Stones",
+    "problem_url": "https://atcoder.jp/contests/dp/tasks/dp_k",
+    "submission_id": "AC28668998",
+    "submission_url": "https://atcoder.jp/contests/dp/submissions/28668998",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/22/2022 03:45"
+  },
   "AC28669012": {
     "contest_id": "dp",
     "language": "Java (OpenJDK 11.0.6)",
