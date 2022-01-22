@@ -1,4 +1,6 @@
 // Author : warks
+import java.util.Map;
+import java.util.HashMap;
 
 public class Main implements Runnable {
     // Credits: NASU41
@@ -351,35 +353,36 @@ public class Main implements Runnable {
     public void run() {
         int slimes = in.nextInt();
         int[] sizes = in.nextIntArray(slimes);
+        long[] sizeSum = getSum(sizes);
 
-        long mergeCost = getMergeCost(sizes);
+        long mergeCost = getMergeCost(sizes, sizeSum, 1, slimes);
         out.println(mergeCost);
         
         out.close();
     }
 
-    private static long getMergeCost(int[] sizes) {
-        long[] sizeSum = getSum(sizes);
-
-        long[][] costs = new long[sizes.length+1][sizes.length+1];
-
-        for (int start = sizes.length; start >= 1; start--) {
-            for (int end = start; end <= sizes.length; end++) {
-                if (start != end) {
-                    long cost = Long.MAX_VALUE;
-
-                    for (int partition = start + 1; partition <= end; partition++) {
-                        long firstSize = sizeSum[partition-1] - sizeSum[start-1];
-                        long secondSize = sizeSum[end] - sizeSum[partition-1];
-                        long candidate = firstSize + secondSize + costs[start][partition-1] + costs[partition][end];
-                        cost = Math.min(cost, candidate);
-                    }
-                    costs[start][end] = cost;
-                }
-            }
+    static Map<Integer, Long> memo = new HashMap<Integer, Long>();
+    private static long getMergeCost(int[] sizes, long[] sizeSum, int start, int end) {
+        if (start == end) {
+            return 0;
         }
 
-        return costs[1][sizes.length];
+        int key = (start << 9) + end;
+        if (memo.containsKey(key)) {
+            return memo.get(key);
+        }
+
+        long cost = Long.MAX_VALUE;
+        for (int partition = start + 1; partition <= end; partition++) {
+            long firstSize = sizeSum[partition-1] - sizeSum[start-1];
+            long secondSize = sizeSum[end] - sizeSum[partition-1];
+
+            long candidate = firstSize + secondSize + getMergeCost(sizes, sizeSum, start, partition-1) + getMergeCost(sizes, sizeSum, partition, end);
+            cost = Math.min(cost, candidate);
+        }
+
+        memo.put(key, cost);
+        return cost;
     }
 
     private static long[] getSum(int[] arr) {
