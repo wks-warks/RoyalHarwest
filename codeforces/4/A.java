@@ -352,7 +352,7 @@ public class A implements Runnable {
     public void run() {
         int watermelons = in.nextInt();
         boolean divisible = watermelons > 2 && (watermelons & 1) == 0;
-        out.println(divisible ? "YES" : "NO");
+        out.print(divisible ? "YES " : "NO ");
         
         out.close();
     }
