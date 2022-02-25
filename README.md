@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1175 | [C - Connect 6](https://atcoder.jp/contests/abc241/tasks/abc241_c) | [Rust (1.42.0)](./atcoder/abc241/C.rs) | `AtCoder` `*300` | Feb/28/2022 20:56 | 
-1174 | [B - Pasta](https://atcoder.jp/contests/abc241/tasks/abc241_b) | [Rust (1.42.0)](./atcoder/abc241/B.rs) | `AtCoder` `*200` | Feb/28/2022 19:46 | 
-1173 | [A - Digit Machine](https://atcoder.jp/contests/abc241/tasks/abc241_a) | [Rust (1.42.0)](./atcoder/abc241/A.rs) | `AtCoder` `*100` | Feb/28/2022 19:25 | 
-1172 | [E - Ranges on Tree](https://atcoder.jp/contests/abc240/tasks/abc240_e) | [Rust (1.42.0)](./atcoder/abc240/E.rs) | `AtCoder` `*500` | Feb/26/2022 01:02 | 
+1176 | [C - Connect 6](https://atcoder.jp/contests/abc241/tasks/abc241_c) | [Rust (1.42.0)](./atcoder/abc241/C.rs) | `AtCoder` `*300` | Feb/28/2022 20:56 | 
+1175 | [B - Pasta](https://atcoder.jp/contests/abc241/tasks/abc241_b) | [Rust (1.42.0)](./atcoder/abc241/B.rs) | `AtCoder` `*200` | Feb/28/2022 19:46 | 
+1174 | [A - Digit Machine](https://atcoder.jp/contests/abc241/tasks/abc241_a) | [Rust (1.42.0)](./atcoder/abc241/A.rs) | `AtCoder` `*100` | Feb/28/2022 19:25 | 
+1173 | [E - Ranges on Tree](https://atcoder.jp/contests/abc240/tasks/abc240_e) | [Rust (1.42.0)](./atcoder/abc240/E.rs) | `AtCoder` `*500` | Feb/26/2022 01:02 | 
+1172 | [D - Strange Balls](https://atcoder.jp/contests/abc240/tasks/abc240_d) | [Rust (1.42.0)](./atcoder/abc240/D.rs) | `AtCoder` `*400` | Feb/25/2022 21:19 | 
 1171 | [Q - Flowers](https://atcoder.jp/contests/dp/tasks/dp_q) | [Java (OpenJDK 11.0.6)](./atcoder/dp/Q.java) | `AtCoder` `*100` | Feb/04/2022 01:56 | 
 1170 | [P - Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | [Java (OpenJDK 11.0.6)](./atcoder/dp/P.java) | `AtCoder` `*100` | Feb/02/2022 15:50 | 
 1169 | [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | [Java (OpenJDK 11.0.6)](./atcoder/dp/O.java) | `AtCoder` `*100` | Feb/02/2022 15:06 | 
