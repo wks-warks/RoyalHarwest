@@ -6015,6 +6015,22 @@
     ],
     "timestamp": "Feb/04/2022 01:56"
   },
+  "AC29642024": {
+    "contest_id": "abc240",
+    "language": "Rust (1.42.0)",
+    "path": "atcoder/abc240/A.rs",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Edge Checker",
+    "problem_url": "https://atcoder.jp/contests/abc240/tasks/abc240_a",
+    "submission_id": "AC29642024",
+    "submission_url": "https://atcoder.jp/contests/abc240/submissions/29642024",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/25/2022 19:54"
+  },
   "AC29642278": {
     "contest_id": "abc240",
     "language": "Rust (1.42.0)",
