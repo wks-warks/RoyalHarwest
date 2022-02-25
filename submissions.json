@@ -6015,6 +6015,22 @@
     ],
     "timestamp": "Feb/04/2022 01:56"
   },
+  "AC29645368": {
+    "contest_id": "abc240",
+    "language": "Rust (1.42.0)",
+    "path": "atcoder/abc240/E.rs",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Ranges on Tree",
+    "problem_url": "https://atcoder.jp/contests/abc240/tasks/abc240_e",
+    "submission_id": "AC29645368",
+    "submission_url": "https://atcoder.jp/contests/abc240/submissions/29645368",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Feb/26/2022 01:02"
+  },
   "AC29776492": {
     "contest_id": "abc241",
     "language": "Rust (1.42.0)",
