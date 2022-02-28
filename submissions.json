@@ -6015,6 +6015,22 @@
     ],
     "timestamp": "Feb/04/2022 01:56"
   },
+  "AC29776492": {
+    "contest_id": "abc241",
+    "language": "Rust (1.42.0)",
+    "path": "atcoder/abc241/A.rs",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Digit Machine",
+    "problem_url": "https://atcoder.jp/contests/abc241/tasks/abc241_a",
+    "submission_id": "AC29776492",
+    "submission_url": "https://atcoder.jp/contests/abc241/submissions/29776492",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/28/2022 19:25"
+  },
   "AC29776992": {
     "contest_id": "abc241",
     "language": "Rust (1.42.0)",
