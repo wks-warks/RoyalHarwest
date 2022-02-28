@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1172 | [C - Connect 6](https://atcoder.jp/contests/abc241/tasks/abc241_c) | [Rust (1.42.0)](./atcoder/abc241/C.rs) | `AtCoder` `*300` | Feb/28/2022 20:56 | 
 1171 | [Q - Flowers](https://atcoder.jp/contests/dp/tasks/dp_q) | [Java (OpenJDK 11.0.6)](./atcoder/dp/Q.java) | `AtCoder` `*100` | Feb/04/2022 01:56 | 
 1170 | [P - Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | [Java (OpenJDK 11.0.6)](./atcoder/dp/P.java) | `AtCoder` `*100` | Feb/02/2022 15:50 | 
 1169 | [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | [Java (OpenJDK 11.0.6)](./atcoder/dp/O.java) | `AtCoder` `*100` | Feb/02/2022 15:06 | 
