@@ -38,7 +38,9 @@ fn get_radius(mut lantern_pos: Vec<u32>, road_length: u32) -> f64 {
             let next = lantern_pos[i + 1];
             let diff = next - curr;
             let candidate = diff as f64 / 2_f64;
-            radius = radius.max(candidate);
+            if candidate > radius {
+                radius = candidate;
+            }
         }
     }
 
