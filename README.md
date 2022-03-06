@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1180 | [C - Chocolate Bar](https://atcoder.jp/contests/abc062/tasks/arc074_a) | [Rust (1.42.0)](./atcoder/abc062/C.rs) | `AtCoder` `*400` | Mar/06/2022 19:47 | 
 1179 | [C - Connect 6](https://atcoder.jp/contests/abc241/tasks/abc241_c) | [Rust (1.42.0)](./atcoder/abc241/C.rs) | `AtCoder` `*300` | Feb/28/2022 20:56 | 
 1178 | [B - Pasta](https://atcoder.jp/contests/abc241/tasks/abc241_b) | [Rust (1.42.0)](./atcoder/abc241/B.rs) | `AtCoder` `*200` | Feb/28/2022 19:46 | 
 1177 | [A - Digit Machine](https://atcoder.jp/contests/abc241/tasks/abc241_a) | [Rust (1.42.0)](./atcoder/abc241/A.rs) | `AtCoder` `*100` | Feb/28/2022 19:25 | 

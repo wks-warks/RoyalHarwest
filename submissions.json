@@ -6143,6 +6143,22 @@
     ],
     "timestamp": "Feb/28/2022 20:56"
   },
+  "AC29925850": {
+    "contest_id": "abc062",
+    "language": "Rust (1.42.0)",
+    "path": "atcoder/abc062/C.rs",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Chocolate Bar",
+    "problem_url": "https://atcoder.jp/contests/abc062/tasks/arc074_a",
+    "submission_id": "AC29925850",
+    "submission_url": "https://atcoder.jp/contests/abc062/submissions/29925850",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Mar/06/2022 19:47"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
