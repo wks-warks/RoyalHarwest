@@ -15908,6 +15908,23 @@
     ],
     "timestamp": "Jan/28/2022 16:51"
   },
+  "CF148633833": {
+    "contest_id": 1551,
+    "language": "Rust 2021",
+    "path": "codeforces/1551/A.rs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Polycarp and Coins",
+    "problem_url": "https://codeforces.com/contest/1551/problem/A",
+    "submission_id": "CF148633833",
+    "submission_url": "https://codeforces.com/contest/1551/submission/148633833",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/06/2022 23:20"
+  },
   "CF148635228": {
     "contest_id": 492,
     "language": "Rust 2021",
