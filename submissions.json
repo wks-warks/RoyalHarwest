@@ -16395,6 +16395,23 @@
     ],
     "timestamp": "Mar/06/2022 23:43"
   },
+  "CF148822460": {
+    "contest_id": 1650,
+    "language": "Rust 2021",
+    "path": "codeforces/1650/A.rs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Deletions of Two Adjacent Letters",
+    "problem_url": "https://codeforces.com/contest/1650/problem/A",
+    "submission_id": "CF148822460",
+    "submission_url": "https://codeforces.com/contest/1650/submission/148822460",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/08/2022 20:17"
+  },
   "CF148830615": {
     "contest_id": 1650,
     "language": "Rust 2021",
