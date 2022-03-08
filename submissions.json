@@ -16395,6 +16395,25 @@
     ],
     "timestamp": "Mar/06/2022 23:43"
   },
+  "CF148860906": {
+    "contest_id": 1650,
+    "language": "Rust 2021",
+    "path": "codeforces/1650/C.rs",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Weight of the System of Nested Segments",
+    "problem_url": "https://codeforces.com/contest/1650/problem/C",
+    "submission_id": "CF148860906",
+    "submission_url": "https://codeforces.com/contest/1650/submission/148860906",
+    "tags": [
+      "greedy",
+      "hashing",
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Mar/08/2022 20:55"
+  },
   "CF148886192": {
     "contest_id": 1650,
     "language": "Rust 2021",
