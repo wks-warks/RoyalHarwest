@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30267760": {
+    "contest_id": "abc244",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc244/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Last Letter",
+    "problem_url": "https://atcoder.jp/contests/abc244/tasks/abc244_a",
+    "submission_id": "AC30267760",
+    "submission_url": "https://atcoder.jp/contests/abc244/submissions/30267760",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/20/2022 17:30"
+  },
   "AC30273734": {
     "contest_id": "abc244",
     "language": "Java (OpenJDK 11.0.6)",
