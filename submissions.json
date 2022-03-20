@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30279623": {
+    "contest_id": "abc244",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc244/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Yamanote Line Game",
+    "problem_url": "https://atcoder.jp/contests/abc244/tasks/abc244_c",
+    "submission_id": "AC30279623",
+    "submission_url": "https://atcoder.jp/contests/abc244/submissions/30279623",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/20/2022 17:44"
+  },
   "AC30289407": {
     "contest_id": "abc244",
     "language": "Java (OpenJDK 11.0.6)",
