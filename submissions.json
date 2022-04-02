@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30644851": {
+    "contest_id": "abc246",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc246/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "2-variable Function",
+    "problem_url": "https://atcoder.jp/contests/abc246/tasks/abc246_d",
+    "submission_id": "AC30644851",
+    "submission_url": "https://atcoder.jp/contests/abc246/submissions/30644851",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Apr/02/2022 17:58"
+  },
   "AC30669507": {
     "contest_id": "abc246",
     "language": "Java (OpenJDK 11.0.6)",
