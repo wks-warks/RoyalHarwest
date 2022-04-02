@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30669507": {
+    "contest_id": "abc246",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc246/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Bishop 2",
+    "problem_url": "https://atcoder.jp/contests/abc246/tasks/abc246_e",
+    "submission_id": "AC30669507",
+    "submission_url": "https://atcoder.jp/contests/abc246/submissions/30669507",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Apr/02/2022 19:06"
+  },
   "AC30763705": {
     "contest_id": "abc245",
     "language": "Java (OpenJDK 11.0.6)",
