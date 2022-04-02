@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30632575": {
+    "contest_id": "abc246",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc246/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Get Closer",
+    "problem_url": "https://atcoder.jp/contests/abc246/tasks/abc246_b",
+    "submission_id": "AC30632575",
+    "submission_url": "https://atcoder.jp/contests/abc246/submissions/30632575",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/02/2022 17:38"
+  },
   "AC30640436": {
     "contest_id": "abc246",
     "language": "Java (OpenJDK 11.0.6)",
