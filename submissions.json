@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30627643": {
+    "contest_id": "abc246",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc246/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Four Points",
+    "problem_url": "https://atcoder.jp/contests/abc246/tasks/abc246_a",
+    "submission_id": "AC30627643",
+    "submission_url": "https://atcoder.jp/contests/abc246/submissions/30627643",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/02/2022 17:33"
+  },
   "AC30632575": {
     "contest_id": "abc246",
     "language": "Java (OpenJDK 11.0.6)",
