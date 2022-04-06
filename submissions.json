@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30763741": {
+    "contest_id": "abc245",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc245/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Choose Elements",
+    "problem_url": "https://atcoder.jp/contests/abc245/tasks/abc245_c",
+    "submission_id": "AC30763741",
+    "submission_url": "https://atcoder.jp/contests/abc245/submissions/30763741",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Apr/07/2022 01:22"
+  },
   "AC30763803": {
     "contest_id": "abc245",
     "language": "Java (OpenJDK 11.0.6)",
