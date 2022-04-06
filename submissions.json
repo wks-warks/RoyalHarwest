@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30763875": {
+    "contest_id": "abc245",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc245/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Wrapping Chocolate",
+    "problem_url": "https://atcoder.jp/contests/abc245/tasks/abc245_e",
+    "submission_id": "AC30763875",
+    "submission_url": "https://atcoder.jp/contests/abc245/submissions/30763875",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Apr/07/2022 02:00"
+  },
   "AC30763920": {
     "contest_id": "abc245",
     "language": "Java (OpenJDK 11.0.6)",
