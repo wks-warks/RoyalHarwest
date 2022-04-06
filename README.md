@@ -13,22 +13,23 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1197 | [D - Range Count Query](https://atcoder.jp/contests/abc248/tasks/abc248_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/D.java) | `AtCoder` `*400` | Apr/16/2022 18:05 | 
-1196 | [C - Dice Sum](https://atcoder.jp/contests/abc248/tasks/abc248_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/C.java) | `AtCoder` `*300` | Apr/16/2022 17:48 | 
-1195 | [B - Slimes](https://atcoder.jp/contests/abc248/tasks/abc248_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/B.java) | `AtCoder` `*200` | Apr/16/2022 17:33 | 
-1194 | [A - Lacked Number](https://atcoder.jp/contests/abc248/tasks/abc248_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/A.java) | `AtCoder` `*100` | Apr/16/2022 17:32 | 
-1193 | [E - Max Min](https://atcoder.jp/contests/abc247/tasks/abc247_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/E.java) | `AtCoder` `*500` | Apr/10/2022 18:24 | 
-1192 | [D - Cylinder](https://atcoder.jp/contests/abc247/tasks/abc247_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/D.java) | `AtCoder` `*400` | Apr/10/2022 18:05 | 
-1191 | [C - 1 2 1 3 1 2 1](https://atcoder.jp/contests/abc247/tasks/abc247_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/C.java) | `AtCoder` `*300` | Apr/10/2022 17:43 | 
-1190 | [B - Unique Nicknames](https://atcoder.jp/contests/abc247/tasks/abc247_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/B.java) | `AtCoder` `*200` | Apr/10/2022 17:39 | 
-1189 | [A - Move Right](https://atcoder.jp/contests/abc247/tasks/abc247_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/A.java) | `AtCoder` `*100` | Apr/10/2022 17:32 | 
-1188 | [B - 01 Generation](https://atcoder.jp/contests/arc138/tasks/arc138_b) | [Rust (1.42.0)](./atcoder/arc138/B.rs) | `AtCoder` `*500` | Apr/10/2022 02:57 | 
-1187 | [A - Larger Score](https://atcoder.jp/contests/arc138/tasks/arc138_a) | [Rust (1.42.0)](./atcoder/arc138/A.rs) | `AtCoder` `*400` | Apr/10/2022 02:36 | 
-1186 | [F - Endless Walk](https://atcoder.jp/contests/abc245/tasks/abc245_f) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/F.java) | `AtCoder` `*500` | Apr/07/2022 02:13 | 
-1185 | [E - Wrapping Chocolate](https://atcoder.jp/contests/abc245/tasks/abc245_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/E.java) | `AtCoder` `*500` | Apr/07/2022 02:00 | 
-1184 | [D - Polynomial division](https://atcoder.jp/contests/abc245/tasks/abc245_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/D.java) | `AtCoder` `*400` | Apr/07/2022 01:40 | 
-1183 | [C - Choose Elements](https://atcoder.jp/contests/abc245/tasks/abc245_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/C.java) | `AtCoder` `*300` | Apr/07/2022 01:22 | 
-1182 | [B - Mex](https://atcoder.jp/contests/abc245/tasks/abc245_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/B.java) | `AtCoder` `*200` | Apr/07/2022 01:15 | 
+1198 | [D - Range Count Query](https://atcoder.jp/contests/abc248/tasks/abc248_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/D.java) | `AtCoder` `*400` | Apr/16/2022 18:05 | 
+1197 | [C - Dice Sum](https://atcoder.jp/contests/abc248/tasks/abc248_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/C.java) | `AtCoder` `*300` | Apr/16/2022 17:48 | 
+1196 | [B - Slimes](https://atcoder.jp/contests/abc248/tasks/abc248_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/B.java) | `AtCoder` `*200` | Apr/16/2022 17:33 | 
+1195 | [A - Lacked Number](https://atcoder.jp/contests/abc248/tasks/abc248_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/A.java) | `AtCoder` `*100` | Apr/16/2022 17:32 | 
+1194 | [E - Max Min](https://atcoder.jp/contests/abc247/tasks/abc247_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/E.java) | `AtCoder` `*500` | Apr/10/2022 18:24 | 
+1193 | [D - Cylinder](https://atcoder.jp/contests/abc247/tasks/abc247_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/D.java) | `AtCoder` `*400` | Apr/10/2022 18:05 | 
+1192 | [C - 1 2 1 3 1 2 1](https://atcoder.jp/contests/abc247/tasks/abc247_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/C.java) | `AtCoder` `*300` | Apr/10/2022 17:43 | 
+1191 | [B - Unique Nicknames](https://atcoder.jp/contests/abc247/tasks/abc247_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/B.java) | `AtCoder` `*200` | Apr/10/2022 17:39 | 
+1190 | [A - Move Right](https://atcoder.jp/contests/abc247/tasks/abc247_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc247/A.java) | `AtCoder` `*100` | Apr/10/2022 17:32 | 
+1189 | [B - 01 Generation](https://atcoder.jp/contests/arc138/tasks/arc138_b) | [Rust (1.42.0)](./atcoder/arc138/B.rs) | `AtCoder` `*500` | Apr/10/2022 02:57 | 
+1188 | [A - Larger Score](https://atcoder.jp/contests/arc138/tasks/arc138_a) | [Rust (1.42.0)](./atcoder/arc138/A.rs) | `AtCoder` `*400` | Apr/10/2022 02:36 | 
+1187 | [F - Endless Walk](https://atcoder.jp/contests/abc245/tasks/abc245_f) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/F.java) | `AtCoder` `*500` | Apr/07/2022 02:13 | 
+1186 | [E - Wrapping Chocolate](https://atcoder.jp/contests/abc245/tasks/abc245_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/E.java) | `AtCoder` `*500` | Apr/07/2022 02:00 | 
+1185 | [D - Polynomial division](https://atcoder.jp/contests/abc245/tasks/abc245_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/D.java) | `AtCoder` `*400` | Apr/07/2022 01:40 | 
+1184 | [C - Choose Elements](https://atcoder.jp/contests/abc245/tasks/abc245_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/C.java) | `AtCoder` `*300` | Apr/07/2022 01:22 | 
+1183 | [B - Mex](https://atcoder.jp/contests/abc245/tasks/abc245_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/B.java) | `AtCoder` `*200` | Apr/07/2022 01:15 | 
+1182 | [A - Good morning](https://atcoder.jp/contests/abc245/tasks/abc245_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc245/A.java) | `AtCoder` `*100` | Apr/07/2022 01:12 | 
 1181 | [B - Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | [Rust 2021](./codeforces/492/B.rs) | `binary search` `implementation` `math` `sortings` `*1200` | Mar/06/2022 23:43 | 
 1180 | [A - Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | [Rust 2021](./codeforces/1551/A.rs) | `greedy` `math` `*800` | Mar/06/2022 23:20 | 
 1179 | [C - Chocolate Bar](https://atcoder.jp/contests/abc062/tasks/arc074_a) | [Rust (1.42.0)](./atcoder/abc062/C.rs) | `AtCoder` `*400` | Mar/06/2022 19:47 | 
