@@ -16395,6 +16395,25 @@
     ],
     "timestamp": "Mar/06/2022 23:43"
   },
+  "CF153092834": {
+    "contest_id": 1665,
+    "language": "Java 11",
+    "path": "codeforces/1665/C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tree Infection",
+    "problem_url": "https://codeforces.com/contest/1665/problem/C",
+    "submission_id": "CF153092834",
+    "submission_url": "https://codeforces.com/contest/1665/submission/153092834",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Apr/09/2022 02:29"
+  },
   "CF153165957": {
     "contest_id": 1661,
     "language": "Java 11",
