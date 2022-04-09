@@ -16395,6 +16395,28 @@
     ],
     "timestamp": "Mar/06/2022 23:43"
   },
+  "CF153183004": {
+    "contest_id": 1661,
+    "language": "Java 11",
+    "path": "codeforces/1661/B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Getting Zero",
+    "problem_url": "https://codeforces.com/contest/1661/problem/B",
+    "submission_id": "CF153183004",
+    "submission_url": "https://codeforces.com/contest/1661/submission/153183004",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1300"
+    ],
+    "timestamp": "Apr/09/2022 20:43"
+  },
   "CF153193189": {
     "contest_id": 1661,
     "language": "Java 11",
