@@ -16395,6 +16395,23 @@
     ],
     "timestamp": "Mar/06/2022 23:43"
   },
+  "CF153165957": {
+    "contest_id": 1661,
+    "language": "Java 11",
+    "path": "codeforces/1661/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Balancing",
+    "problem_url": "https://codeforces.com/contest/1661/problem/A",
+    "submission_id": "CF153165957",
+    "submission_url": "https://codeforces.com/contest/1661/submission/153165957",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/09/2022 20:14"
+  },
   "CF153183004": {
     "contest_id": 1661,
     "language": "Java 11",
