@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30832568": {
+    "contest_id": "arc138",
+    "language": "Rust (1.42.0)",
+    "path": "atcoder/arc138/A.rs",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Larger Score",
+    "problem_url": "https://atcoder.jp/contests/arc138/tasks/arc138_a",
+    "submission_id": "AC30832568",
+    "submission_url": "https://atcoder.jp/contests/arc138/submissions/30832568",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Apr/10/2022 02:36"
+  },
   "AC30832655": {
     "contest_id": "arc138",
     "language": "Rust (1.42.0)",
