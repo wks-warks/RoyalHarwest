@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30832655": {
+    "contest_id": "arc138",
+    "language": "Rust (1.42.0)",
+    "path": "atcoder/arc138/B.rs",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "01 Generation",
+    "problem_url": "https://atcoder.jp/contests/arc138/tasks/arc138_b",
+    "submission_id": "AC30832655",
+    "submission_url": "https://atcoder.jp/contests/arc138/submissions/30832655",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Apr/10/2022 02:57"
+  },
   "AC30848808": {
     "contest_id": "abc247",
     "language": "Java (OpenJDK 11.0.6)",
