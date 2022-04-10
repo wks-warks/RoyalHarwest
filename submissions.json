@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30854659": {
+    "contest_id": "abc247",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc247/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Unique Nicknames",
+    "problem_url": "https://atcoder.jp/contests/abc247/tasks/abc247_b",
+    "submission_id": "AC30854659",
+    "submission_url": "https://atcoder.jp/contests/abc247/submissions/30854659",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/10/2022 17:39"
+  },
   "AC30858215": {
     "contest_id": "abc247",
     "language": "Java (OpenJDK 11.0.6)",
