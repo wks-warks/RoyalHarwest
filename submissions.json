@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC30878168": {
+    "contest_id": "abc247",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc247/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Max Min",
+    "problem_url": "https://atcoder.jp/contests/abc247/tasks/abc247_e",
+    "submission_id": "AC30878168",
+    "submission_url": "https://atcoder.jp/contests/abc247/submissions/30878168",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Apr/10/2022 18:24"
+  },
   "AC31004458": {
     "contest_id": "abc248",
     "language": "Java (OpenJDK 11.0.6)",
