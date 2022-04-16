@@ -6159,6 +6159,22 @@
     ],
     "timestamp": "Mar/06/2022 19:47"
   },
+  "AC31004458": {
+    "contest_id": "abc248",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc248/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Lacked Number",
+    "problem_url": "https://atcoder.jp/contests/abc248/tasks/abc248_a",
+    "submission_id": "AC31004458",
+    "submission_url": "https://atcoder.jp/contests/abc248/submissions/31004458",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/16/2022 17:32"
+  },
   "AC31007714": {
     "contest_id": "abc248",
     "language": "Java (OpenJDK 11.0.6)",
