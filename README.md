@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1183 | [D - Range Count Query](https://atcoder.jp/contests/abc248/tasks/abc248_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/D.java) | `AtCoder` `*400` | Apr/16/2022 18:05 | 
-1182 | [C - Dice Sum](https://atcoder.jp/contests/abc248/tasks/abc248_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/C.java) | `AtCoder` `*300` | Apr/16/2022 17:48 | 
+1184 | [D - Range Count Query](https://atcoder.jp/contests/abc248/tasks/abc248_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/D.java) | `AtCoder` `*400` | Apr/16/2022 18:05 | 
+1183 | [C - Dice Sum](https://atcoder.jp/contests/abc248/tasks/abc248_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/C.java) | `AtCoder` `*300` | Apr/16/2022 17:48 | 
+1182 | [B - Slimes](https://atcoder.jp/contests/abc248/tasks/abc248_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/B.java) | `AtCoder` `*200` | Apr/16/2022 17:33 | 
 1181 | [B - Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | [Rust 2021](./codeforces/492/B.rs) | `binary search` `implementation` `math` `sortings` `*1200` | Mar/06/2022 23:43 | 
 1180 | [A - Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | [Rust 2021](./codeforces/1551/A.rs) | `greedy` `math` `*800` | Mar/06/2022 23:20 | 
 1179 | [C - Chocolate Bar](https://atcoder.jp/contests/abc062/tasks/arc074_a) | [Rust (1.42.0)](./atcoder/abc062/C.rs) | `AtCoder` `*400` | Mar/06/2022 19:47 | 
