@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1212 | [B - Optimal Partition](https://codeforces.com/contest/1667/problem/B) | [Rust 2021](./codeforces/1667/B.rs) | `data structures` `dp` | Apr/20/2022 15:12 | 
-1211 | [C - Make it Increasing](https://codeforces.com/contest/1668/problem/C) | [Java 11](./codeforces/1668/C.java) | `greedy` `math` | Apr/19/2022 20:55 | 
-1210 | [B - Social Distance](https://codeforces.com/contest/1668/problem/B) | [Java 11](./codeforces/1668/B.java) | `greedy` `math` | Apr/19/2022 20:40 | 
-1209 | [A - Direction Change](https://codeforces.com/contest/1668/problem/A) | [Java 11](./codeforces/1668/A.java) | `math` | Apr/19/2022 20:25 | 
+1213 | [B - Optimal Partition](https://codeforces.com/contest/1667/problem/B) | [Rust 2021](./codeforces/1667/B.rs) | `data structures` `dp` | Apr/20/2022 15:12 | 
+1212 | [C - Make it Increasing](https://codeforces.com/contest/1668/problem/C) | [Java 11](./codeforces/1668/C.java) | `greedy` `math` | Apr/19/2022 20:55 | 
+1211 | [B - Social Distance](https://codeforces.com/contest/1668/problem/B) | [Java 11](./codeforces/1668/B.java) | `greedy` `math` | Apr/19/2022 20:40 | 
+1210 | [A - Direction Change](https://codeforces.com/contest/1668/problem/A) | [Java 11](./codeforces/1668/A.java) | `math` | Apr/19/2022 20:25 | 
+1209 | [D - Reverse Sort Sum](https://codeforces.com/contest/1659/problem/D) | [Java 11](./codeforces/1659/D.java) | `constructive algorithms` `data structures` `greedy` `implementation` `math` `two pointers` | Apr/17/2022 21:34 | 
 1208 | [D - Range Count Query](https://atcoder.jp/contests/abc248/tasks/abc248_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/D.java) | `AtCoder` `*400` | Apr/16/2022 18:05 | 
 1207 | [C - Dice Sum](https://atcoder.jp/contests/abc248/tasks/abc248_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/C.java) | `AtCoder` `*300` | Apr/16/2022 17:48 | 
 1206 | [B - Slimes](https://atcoder.jp/contests/abc248/tasks/abc248_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/B.java) | `AtCoder` `*200` | Apr/16/2022 17:33 | 
