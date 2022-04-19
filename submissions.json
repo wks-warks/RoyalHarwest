@@ -16395,6 +16395,21 @@
     ],
     "timestamp": "Mar/06/2022 23:43"
   },
+  "CF154086573": {
+    "contest_id": 1668,
+    "language": "Java 11",
+    "path": "codeforces/1668/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Direction Change",
+    "problem_url": "https://codeforces.com/contest/1668/problem/A",
+    "submission_id": "CF154086573",
+    "submission_url": "https://codeforces.com/contest/1668/submission/154086573",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Apr/19/2022 20:25"
+  },
   "CF154095695": {
     "contest_id": 1668,
     "language": "Java 11",
