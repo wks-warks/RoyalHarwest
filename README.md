@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1209 | [B - Optimal Partition](https://codeforces.com/contest/1667/problem/B) | [Rust 2021](./codeforces/1667/B.rs) | `data structures` `dp` | Apr/20/2022 15:12 | 
 1208 | [D - Range Count Query](https://atcoder.jp/contests/abc248/tasks/abc248_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/D.java) | `AtCoder` `*400` | Apr/16/2022 18:05 | 
 1207 | [C - Dice Sum](https://atcoder.jp/contests/abc248/tasks/abc248_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/C.java) | `AtCoder` `*300` | Apr/16/2022 17:48 | 
 1206 | [B - Slimes](https://atcoder.jp/contests/abc248/tasks/abc248_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc248/B.java) | `AtCoder` `*200` | Apr/16/2022 17:33 | 

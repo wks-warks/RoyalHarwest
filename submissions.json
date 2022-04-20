@@ -16395,6 +16395,22 @@
     ],
     "timestamp": "Mar/06/2022 23:43"
   },
+  "CF154183955": {
+    "contest_id": 1667,
+    "language": "Rust 2021",
+    "path": "codeforces/1667/B.rs",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Optimal Partition",
+    "problem_url": "https://codeforces.com/contest/1667/problem/B",
+    "submission_id": "CF154183955",
+    "submission_url": "https://codeforces.com/contest/1667/submission/154183955",
+    "tags": [
+      "data structures",
+      "dp"
+    ],
+    "timestamp": "Apr/20/2022 15:12"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
