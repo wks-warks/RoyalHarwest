@@ -17298,6 +17298,22 @@
     ],
     "timestamp": "Apr/20/2022 15:12"
   },
+  "CF154512150": {
+    "contest_id": 1671,
+    "language": "Java 11",
+    "path": "codeforces/1671/A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Building",
+    "problem_url": "https://codeforces.com/contest/1671/problem/A",
+    "submission_id": "CF154512150",
+    "submission_url": "https://codeforces.com/contest/1671/submission/154512150",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/22/2022 20:10"
+  },
   "CF154523354": {
     "contest_id": 1671,
     "language": "Java 11",
