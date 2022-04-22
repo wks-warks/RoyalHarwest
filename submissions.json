@@ -17298,6 +17298,23 @@
     ],
     "timestamp": "Apr/20/2022 15:12"
   },
+  "CF154599521": {
+    "contest_id": 967,
+    "language": "Rust 2021",
+    "path": "codeforces/967/B.rs",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Watering System",
+    "problem_url": "https://codeforces.com/contest/967/problem/B",
+    "submission_id": "CF154599521",
+    "submission_url": "https://codeforces.com/contest/967/submission/154599521",
+    "tags": [
+      "math",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Apr/23/2022 02:59"
+  },
   "CF154695884": {
     "contest_id": 1672,
     "language": "Java 11",
