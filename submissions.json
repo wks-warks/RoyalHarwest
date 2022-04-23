@@ -6591,6 +6591,22 @@
     ],
     "timestamp": "Apr/16/2022 18:05"
   },
+  "AC31205467": {
+    "contest_id": "abc249",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc249/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Index Trio",
+    "problem_url": "https://atcoder.jp/contests/abc249/tasks/abc249_d",
+    "submission_id": "AC31205467",
+    "submission_url": "https://atcoder.jp/contests/abc249/submissions/31205467",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Apr/23/2022 18:52"
+  },
   "AC31511503": {
     "contest_id": "abc242",
     "language": "Rust (1.42.0)",

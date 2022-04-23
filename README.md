@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1230 | [C - 1111gal password](https://atcoder.jp/contests/abc242/tasks/abc242_c) | [Rust (1.42.0)](./atcoder/abc242/C.rs) | `AtCoder` `*300` | May/08/2022 15:49 | 
-1229 | [B - Minimize Ordering](https://atcoder.jp/contests/abc242/tasks/abc242_b) | [Rust (1.42.0)](./atcoder/abc242/B.rs) | `AtCoder` `*200` | May/08/2022 15:37 | 
-1228 | [A - T-shirt](https://atcoder.jp/contests/abc242/tasks/abc242_a) | [Rust (1.42.0)](./atcoder/abc242/A.rs) | `AtCoder` `*100` | May/08/2022 15:29 | 
+1231 | [C - 1111gal password](https://atcoder.jp/contests/abc242/tasks/abc242_c) | [Rust (1.42.0)](./atcoder/abc242/C.rs) | `AtCoder` `*300` | May/08/2022 15:49 | 
+1230 | [B - Minimize Ordering](https://atcoder.jp/contests/abc242/tasks/abc242_b) | [Rust (1.42.0)](./atcoder/abc242/B.rs) | `AtCoder` `*200` | May/08/2022 15:37 | 
+1229 | [A - T-shirt](https://atcoder.jp/contests/abc242/tasks/abc242_a) | [Rust (1.42.0)](./atcoder/abc242/A.rs) | `AtCoder` `*100` | May/08/2022 15:29 | 
+1228 | [D - Index Trio](https://atcoder.jp/contests/abc249/tasks/abc249_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc249/D.java) | `AtCoder` `*400` | Apr/23/2022 18:52 | 
 1227 | [B - Optimal Partition](https://codeforces.com/contest/1667/problem/B) | [Rust 2021](./codeforces/1667/B.rs) | `data structures` `dp` | Apr/20/2022 15:12 | 
 1226 | [C - Make it Increasing](https://codeforces.com/contest/1668/problem/C) | [Java 11](./codeforces/1668/C.java) | `greedy` `math` | Apr/19/2022 20:55 | 
 1225 | [B - Social Distance](https://codeforces.com/contest/1668/problem/B) | [Java 11](./codeforces/1668/B.java) | `greedy` `math` | Apr/19/2022 20:40 | 
