@@ -6591,6 +6591,22 @@
     ],
     "timestamp": "Apr/16/2022 18:05"
   },
+  "AC31511808": {
+    "contest_id": "abc242",
+    "language": "Rust (1.42.0)",
+    "path": "atcoder/abc242/C.rs",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "1111gal password",
+    "problem_url": "https://atcoder.jp/contests/abc242/tasks/abc242_c",
+    "submission_id": "AC31511808",
+    "submission_url": "https://atcoder.jp/contests/abc242/submissions/31511808",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/08/2022 15:49"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
