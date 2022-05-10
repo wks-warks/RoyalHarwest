@@ -17298,6 +17298,24 @@
     ],
     "timestamp": "Apr/20/2022 15:12"
   },
+  "CF156752558": {
+    "contest_id": 1676,
+    "language": "Rust 2021",
+    "path": "codeforces/1676/H2.rs",
+    "platform": "Codeforces",
+    "problem_index": "H2",
+    "problem_name": "Maximum Crossings (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1676/problem/H2",
+    "submission_id": "CF156752558",
+    "submission_url": "https://codeforces.com/contest/1676/submission/156752558",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/10/2022 23:39"
+  },
   "CF156752601": {
     "contest_id": 1676,
     "language": "Rust 2021",
