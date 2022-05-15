@@ -6703,6 +6703,22 @@
     ],
     "timestamp": "May/08/2022 15:49"
   },
+  "AC31718172": {
+    "contest_id": "arc140",
+    "language": "Rust (1.42.0)",
+    "path": "atcoder/arc140/A.rs",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Right String",
+    "problem_url": "https://atcoder.jp/contests/arc140/tasks/arc140_a",
+    "submission_id": "AC31718172",
+    "submission_url": "https://atcoder.jp/contests/arc140/submissions/31718172",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/15/2022 17:57"
+  },
   "AC31721653": {
     "contest_id": "arc140",
     "language": "Java (OpenJDK 11.0.6)",
