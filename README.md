@@ -13,18 +13,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1246 | [D - Xor Sum 2](https://atcoder.jp/contests/abc098/tasks/arc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/D.java) | `AtCoder` `*500` | Jun/07/2022 23:27 | 
-1245 | [C - Attention](https://atcoder.jp/contests/abc098/tasks/arc098_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/C.java) | `AtCoder` `*300` | Jun/07/2022 23:11 | 
-1244 | [B - Cut and Count](https://atcoder.jp/contests/abc098/tasks/abc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/B.java) | `AtCoder` `*200` | Jun/07/2022 22:59 | 
-1243 | [A - Add Sub Mul](https://atcoder.jp/contests/abc098/tasks/abc098_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/A.java) | `AtCoder` `*100` | Jun/07/2022 22:46 | 
-1242 | [D - Equals](https://atcoder.jp/contests/abc097/tasks/arc097_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc097/D.java) | `AtCoder` `*400` | Jun/04/2022 17:56 | 
-1241 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc097/C.java) | `AtCoder` `*300` | Jun/04/2022 16:43 | 
-1240 | [B - Exponential](https://atcoder.jp/contests/abc097/tasks/abc097_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc097/B.java) | `AtCoder` `*200` | Jun/04/2022 16:28 | 
-1239 | [A - Colorful Transceivers](https://atcoder.jp/contests/abc097/tasks/abc097_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc097/A.java) | `AtCoder` `*100` | Jun/04/2022 16:16 | 
-1238 | [D - Five, Five Everywhere](https://atcoder.jp/contests/abc096/tasks/abc096_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc096/D.java) | `AtCoder` `*400` | Jun/04/2022 15:41 | 
-1237 | [C - Grid Repainting 2](https://atcoder.jp/contests/abc096/tasks/abc096_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc096/C.java) | `AtCoder` `*300` | Jun/04/2022 15:33 | 
-1236 | [B - Maximum Sum](https://atcoder.jp/contests/abc096/tasks/abc096_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc096/B.java) | `AtCoder` `*200` | Jun/04/2022 15:26 | 
-1235 | [A - Day of Takahashi](https://atcoder.jp/contests/abc096/tasks/abc096_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc096/A.java) | `AtCoder` `*100` | Jun/04/2022 15:22 | 
+1247 | [D - Xor Sum 2](https://atcoder.jp/contests/abc098/tasks/arc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/D.java) | `AtCoder` `*500` | Jun/07/2022 23:27 | 
+1246 | [C - Attention](https://atcoder.jp/contests/abc098/tasks/arc098_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/C.java) | `AtCoder` `*300` | Jun/07/2022 23:11 | 
+1245 | [B - Cut and Count](https://atcoder.jp/contests/abc098/tasks/abc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/B.java) | `AtCoder` `*200` | Jun/07/2022 22:59 | 
+1244 | [A - Add Sub Mul](https://atcoder.jp/contests/abc098/tasks/abc098_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/A.java) | `AtCoder` `*100` | Jun/07/2022 22:46 | 
+1243 | [D - Equals](https://atcoder.jp/contests/abc097/tasks/arc097_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc097/D.java) | `AtCoder` `*400` | Jun/04/2022 17:56 | 
+1242 | [C - K-th Substring](https://atcoder.jp/contests/abc097/tasks/arc097_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc097/C.java) | `AtCoder` `*300` | Jun/04/2022 16:43 | 
+1241 | [B - Exponential](https://atcoder.jp/contests/abc097/tasks/abc097_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc097/B.java) | `AtCoder` `*200` | Jun/04/2022 16:28 | 
+1240 | [A - Colorful Transceivers](https://atcoder.jp/contests/abc097/tasks/abc097_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc097/A.java) | `AtCoder` `*100` | Jun/04/2022 16:16 | 
+1239 | [D - Five, Five Everywhere](https://atcoder.jp/contests/abc096/tasks/abc096_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc096/D.java) | `AtCoder` `*400` | Jun/04/2022 15:41 | 
+1238 | [C - Grid Repainting 2](https://atcoder.jp/contests/abc096/tasks/abc096_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc096/C.java) | `AtCoder` `*300` | Jun/04/2022 15:33 | 
+1237 | [B - Maximum Sum](https://atcoder.jp/contests/abc096/tasks/abc096_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc096/B.java) | `AtCoder` `*200` | Jun/04/2022 15:26 | 
+1236 | [A - Day of Takahashi](https://atcoder.jp/contests/abc096/tasks/abc096_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc096/A.java) | `AtCoder` `*100` | Jun/04/2022 15:22 | 
+1235 | [B - Shorten ARC](https://atcoder.jp/contests/arc140/tasks/arc140_b) | [Java (OpenJDK 11.0.6)](./atcoder/arc140/B.java) | `AtCoder` `*400` | May/15/2022 18:22 | 
 1234 | [C - 1111gal password](https://atcoder.jp/contests/abc242/tasks/abc242_c) | [Rust (1.42.0)](./atcoder/abc242/C.rs) | `AtCoder` `*300` | May/08/2022 15:49 | 
 1233 | [B - Minimize Ordering](https://atcoder.jp/contests/abc242/tasks/abc242_b) | [Rust (1.42.0)](./atcoder/abc242/B.rs) | `AtCoder` `*200` | May/08/2022 15:37 | 
 1232 | [A - T-shirt](https://atcoder.jp/contests/abc242/tasks/abc242_a) | [Rust (1.42.0)](./atcoder/abc242/A.rs) | `AtCoder` `*100` | May/08/2022 15:29 | 

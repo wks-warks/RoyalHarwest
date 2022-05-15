@@ -6703,6 +6703,22 @@
     ],
     "timestamp": "May/08/2022 15:49"
   },
+  "AC31721653": {
+    "contest_id": "arc140",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/arc140/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Shorten ARC",
+    "problem_url": "https://atcoder.jp/contests/arc140/tasks/arc140_b",
+    "submission_id": "AC31721653",
+    "submission_url": "https://atcoder.jp/contests/arc140/submissions/31721653",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/15/2022 18:22"
+  },
   "AC32195360": {
     "contest_id": "abc096",
     "language": "Java (OpenJDK 11.0.6)",
