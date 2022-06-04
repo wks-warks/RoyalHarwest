@@ -6703,6 +6703,22 @@
     ],
     "timestamp": "May/08/2022 15:49"
   },
+  "AC32196422": {
+    "contest_id": "abc097",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc097/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Colorful Transceivers",
+    "problem_url": "https://atcoder.jp/contests/abc097/tasks/abc097_a",
+    "submission_id": "AC32196422",
+    "submission_url": "https://atcoder.jp/contests/abc097/submissions/32196422",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/04/2022 16:16"
+  },
   "AC32196727": {
     "contest_id": "abc097",
     "language": "Java (OpenJDK 11.0.6)",
