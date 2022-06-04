@@ -6703,6 +6703,22 @@
     ],
     "timestamp": "May/08/2022 15:49"
   },
+  "AC32195360": {
+    "contest_id": "abc096",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc096/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Day of Takahashi",
+    "problem_url": "https://atcoder.jp/contests/abc096/tasks/abc096_a",
+    "submission_id": "AC32195360",
+    "submission_url": "https://atcoder.jp/contests/abc096/submissions/32195360",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/04/2022 15:22"
+  },
   "AC32195433": {
     "contest_id": "abc096",
     "language": "Java (OpenJDK 11.0.6)",
