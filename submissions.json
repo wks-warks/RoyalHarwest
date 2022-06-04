@@ -6703,6 +6703,22 @@
     ],
     "timestamp": "May/08/2022 15:49"
   },
+  "AC32195433": {
+    "contest_id": "abc096",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc096/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Maximum Sum",
+    "problem_url": "https://atcoder.jp/contests/abc096/tasks/abc096_b",
+    "submission_id": "AC32195433",
+    "submission_url": "https://atcoder.jp/contests/abc096/submissions/32195433",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/04/2022 15:26"
+  },
   "AC32195586": {
     "contest_id": "abc096",
     "language": "Java (OpenJDK 11.0.6)",
