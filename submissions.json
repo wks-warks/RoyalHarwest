@@ -6703,6 +6703,22 @@
     ],
     "timestamp": "May/08/2022 15:49"
   },
+  "AC32220429": {
+    "contest_id": "abc097",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc097/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Equals",
+    "problem_url": "https://atcoder.jp/contests/abc097/tasks/arc097_b",
+    "submission_id": "AC32220429",
+    "submission_url": "https://atcoder.jp/contests/abc097/submissions/32220429",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/04/2022 17:56"
+  },
   "AC32310262": {
     "contest_id": "abc098",
     "language": "Java (OpenJDK 11.0.6)",
