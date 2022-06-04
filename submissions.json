@@ -6703,6 +6703,22 @@
     ],
     "timestamp": "May/08/2022 15:49"
   },
+  "AC32197043": {
+    "contest_id": "abc097",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc097/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "K-th Substring",
+    "problem_url": "https://atcoder.jp/contests/abc097/tasks/arc097_a",
+    "submission_id": "AC32197043",
+    "submission_url": "https://atcoder.jp/contests/abc097/submissions/32197043",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/04/2022 16:43"
+  },
   "AC32220429": {
     "contest_id": "abc097",
     "language": "Java (OpenJDK 11.0.6)",
