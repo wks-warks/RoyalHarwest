@@ -6703,6 +6703,22 @@
     ],
     "timestamp": "May/08/2022 15:49"
   },
+  "AC32310478": {
+    "contest_id": "abc098",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc098/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Xor Sum 2",
+    "problem_url": "https://atcoder.jp/contests/abc098/tasks/arc098_b",
+    "submission_id": "AC32310478",
+    "submission_url": "https://atcoder.jp/contests/abc098/submissions/32310478",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/07/2022 23:27"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",
