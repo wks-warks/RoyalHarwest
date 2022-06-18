@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1252 | [E - Takahashi's Anguish](https://atcoder.jp/contests/abc256/tasks/abc256_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/E.java) | `AtCoder` `*500` | Jun/18/2022 19:20 | 
-1251 | [D - Union of Interval](https://atcoder.jp/contests/abc256/tasks/abc256_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/D.java) | `AtCoder` `*400` | Jun/18/2022 17:58 | 
-1250 | [C - Filling 3x3 array](https://atcoder.jp/contests/abc256/tasks/abc256_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/C.java) | `AtCoder` `*300` | Jun/18/2022 17:47 | 
-1249 | [B - Batters](https://atcoder.jp/contests/abc256/tasks/abc256_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/B.java) | `AtCoder` `*200` | Jun/18/2022 17:35 | 
+1253 | [E - Takahashi's Anguish](https://atcoder.jp/contests/abc256/tasks/abc256_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/E.java) | `AtCoder` `*500` | Jun/18/2022 19:20 | 
+1252 | [D - Union of Interval](https://atcoder.jp/contests/abc256/tasks/abc256_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/D.java) | `AtCoder` `*400` | Jun/18/2022 17:58 | 
+1251 | [C - Filling 3x3 array](https://atcoder.jp/contests/abc256/tasks/abc256_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/C.java) | `AtCoder` `*300` | Jun/18/2022 17:47 | 
+1250 | [B - Batters](https://atcoder.jp/contests/abc256/tasks/abc256_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/B.java) | `AtCoder` `*200` | Jun/18/2022 17:35 | 
+1249 | [A - 2^N](https://atcoder.jp/contests/abc256/tasks/abc256_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/A.java) | `AtCoder` `*100` | Jun/18/2022 17:30 | 
 1248 | [D - Xor Sum 2](https://atcoder.jp/contests/abc098/tasks/arc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/D.java) | `AtCoder` `*500` | Jun/07/2022 23:27 | 
 1247 | [C - Attention](https://atcoder.jp/contests/abc098/tasks/arc098_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/C.java) | `AtCoder` `*300` | Jun/07/2022 23:11 | 
 1246 | [B - Cut and Count](https://atcoder.jp/contests/abc098/tasks/abc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/B.java) | `AtCoder` `*200` | Jun/07/2022 22:59 | 

@@ -6927,6 +6927,22 @@
     ],
     "timestamp": "Jun/07/2022 23:27"
   },
+  "AC32535411": {
+    "contest_id": "abc256",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc256/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "2^N",
+    "problem_url": "https://atcoder.jp/contests/abc256/tasks/abc256_a",
+    "submission_id": "AC32535411",
+    "submission_url": "https://atcoder.jp/contests/abc256/submissions/32535411",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/18/2022 17:30"
+  },
   "AC32542693": {
     "contest_id": "abc256",
     "language": "Java (OpenJDK 11.0.6)",
