@@ -22,13 +22,13 @@ public class Main implements Runnable {
             }
         }
 
-        int minWrongness = computeMinWrongness(n, c, transitionMatrix, colorMatrix);
+        long minWrongness = computeMinWrongness(n, c, transitionMatrix, colorMatrix);
         out.println(minWrongness);
         
         out.close();
     }
 
-    private static int computeMinWrongness(int n, int c, int[][] transitionMatrix, int[][] colorMatrix) {
+    private static long computeMinWrongness(int n, int c, int[][] transitionMatrix, int[][] colorMatrix) {
         int[][] wrongnessSum = new int[3][c];
 
         for (int i = 0; i < n; i++) {
@@ -56,7 +56,7 @@ public class Main implements Runnable {
             }
         }
 
-        int minWrongness = Integer.MAX_VALUE;
+        long minWrongness = Long.MAX_VALUE;
         for (int i = 0; i < c; i++) {
             for (int j = 0; j < c; j++) {
                 if (i == j) {
