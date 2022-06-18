@@ -13,18 +13,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1260 | [E - Takahashi's Anguish](https://atcoder.jp/contests/abc256/tasks/abc256_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/E.java) | `AtCoder` `*500` | Jun/18/2022 19:20 | 
-1259 | [D - Union of Interval](https://atcoder.jp/contests/abc256/tasks/abc256_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/D.java) | `AtCoder` `*400` | Jun/18/2022 17:58 | 
-1258 | [C - Filling 3x3 array](https://atcoder.jp/contests/abc256/tasks/abc256_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/C.java) | `AtCoder` `*300` | Jun/18/2022 17:47 | 
-1257 | [B - Batters](https://atcoder.jp/contests/abc256/tasks/abc256_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/B.java) | `AtCoder` `*200` | Jun/18/2022 17:35 | 
-1256 | [A - 2^N](https://atcoder.jp/contests/abc256/tasks/abc256_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/A.java) | `AtCoder` `*100` | Jun/18/2022 17:30 | 
-1255 | [D - Good Grid](https://atcoder.jp/contests/abc099/tasks/abc099_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc099/D.java) | `AtCoder` `*400` | Jun/18/2022 12:24 | 
-1254 | [D - Patisserie ABC](https://atcoder.jp/contests/abc100/tasks/abc100_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc100/D.java) | `AtCoder` `*400` | Jun/18/2022 12:03 | 
-1253 | [C - Strange Bank](https://atcoder.jp/contests/abc099/tasks/abc099_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc099/C.java) | `AtCoder` `*300` | Jun/18/2022 11:37 | 
-1252 | [C - *3 or /2](https://atcoder.jp/contests/abc100/tasks/abc100_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc100/C.java) | `AtCoder` `*300` | Jun/18/2022 11:30 | 
-1251 | [B - Ringo's Favorite Numbers](https://atcoder.jp/contests/abc100/tasks/abc100_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc100/B.java) | `AtCoder` `*200` | Jun/18/2022 11:24 | 
-1250 | [A - Happy Birthday!](https://atcoder.jp/contests/abc100/tasks/abc100_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc100/A.java) | `AtCoder` `*100` | Jun/18/2022 11:21 | 
-1249 | [B - Stone Monument](https://atcoder.jp/contests/abc099/tasks/abc099_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc099/B.java) | `AtCoder` `*200` | Jun/18/2022 11:19 | 
+1261 | [E - Takahashi's Anguish](https://atcoder.jp/contests/abc256/tasks/abc256_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/E.java) | `AtCoder` `*500` | Jun/18/2022 19:20 | 
+1260 | [D - Union of Interval](https://atcoder.jp/contests/abc256/tasks/abc256_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/D.java) | `AtCoder` `*400` | Jun/18/2022 17:58 | 
+1259 | [C - Filling 3x3 array](https://atcoder.jp/contests/abc256/tasks/abc256_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/C.java) | `AtCoder` `*300` | Jun/18/2022 17:47 | 
+1258 | [B - Batters](https://atcoder.jp/contests/abc256/tasks/abc256_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/B.java) | `AtCoder` `*200` | Jun/18/2022 17:35 | 
+1257 | [A - 2^N](https://atcoder.jp/contests/abc256/tasks/abc256_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/A.java) | `AtCoder` `*100` | Jun/18/2022 17:30 | 
+1256 | [D - Good Grid](https://atcoder.jp/contests/abc099/tasks/abc099_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc099/D.java) | `AtCoder` `*400` | Jun/18/2022 12:24 | 
+1255 | [D - Patisserie ABC](https://atcoder.jp/contests/abc100/tasks/abc100_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc100/D.java) | `AtCoder` `*400` | Jun/18/2022 12:03 | 
+1254 | [C - Strange Bank](https://atcoder.jp/contests/abc099/tasks/abc099_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc099/C.java) | `AtCoder` `*300` | Jun/18/2022 11:37 | 
+1253 | [C - *3 or /2](https://atcoder.jp/contests/abc100/tasks/abc100_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc100/C.java) | `AtCoder` `*300` | Jun/18/2022 11:30 | 
+1252 | [B - Ringo's Favorite Numbers](https://atcoder.jp/contests/abc100/tasks/abc100_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc100/B.java) | `AtCoder` `*200` | Jun/18/2022 11:24 | 
+1251 | [A - Happy Birthday!](https://atcoder.jp/contests/abc100/tasks/abc100_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc100/A.java) | `AtCoder` `*100` | Jun/18/2022 11:21 | 
+1250 | [B - Stone Monument](https://atcoder.jp/contests/abc099/tasks/abc099_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc099/B.java) | `AtCoder` `*200` | Jun/18/2022 11:19 | 
+1249 | [A - ABD](https://atcoder.jp/contests/abc099/tasks/abc099_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc099/A.java) | `AtCoder` `*100` | Jun/18/2022 11:16 | 
 1248 | [D - Xor Sum 2](https://atcoder.jp/contests/abc098/tasks/arc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/D.java) | `AtCoder` `*500` | Jun/07/2022 23:27 | 
 1247 | [C - Attention](https://atcoder.jp/contests/abc098/tasks/arc098_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/C.java) | `AtCoder` `*300` | Jun/07/2022 23:11 | 
 1246 | [B - Cut and Count](https://atcoder.jp/contests/abc098/tasks/abc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/B.java) | `AtCoder` `*200` | Jun/07/2022 22:59 | 
