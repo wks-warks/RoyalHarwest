@@ -6927,6 +6927,22 @@
     ],
     "timestamp": "Jun/07/2022 23:27"
   },
+  "AC32553322": {
+    "contest_id": "abc256",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc256/D.java",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Union of Interval",
+    "problem_url": "https://atcoder.jp/contests/abc256/tasks/abc256_d",
+    "submission_id": "AC32553322",
+    "submission_url": "https://atcoder.jp/contests/abc256/submissions/32553322",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/18/2022 17:58"
+  },
   "AC32572284": {
     "contest_id": "abc256",
     "language": "Java (OpenJDK 11.0.6)",
