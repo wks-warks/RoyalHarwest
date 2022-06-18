@@ -6927,6 +6927,22 @@
     ],
     "timestamp": "Jun/07/2022 23:27"
   },
+  "AC32572284": {
+    "contest_id": "abc256",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc256/E.java",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Takahashi's Anguish",
+    "problem_url": "https://atcoder.jp/contests/abc256/tasks/abc256_e",
+    "submission_id": "AC32572284",
+    "submission_url": "https://atcoder.jp/contests/abc256/submissions/32572284",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/18/2022 19:20"
+  },
   "CF100079184": {
     "contest_id": 1006,
     "language": "Java 11",

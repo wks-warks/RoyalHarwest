@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1249 | [E - Takahashi's Anguish](https://atcoder.jp/contests/abc256/tasks/abc256_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/E.java) | `AtCoder` `*500` | Jun/18/2022 19:20 | 
 1248 | [D - Xor Sum 2](https://atcoder.jp/contests/abc098/tasks/arc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/D.java) | `AtCoder` `*500` | Jun/07/2022 23:27 | 
 1247 | [C - Attention](https://atcoder.jp/contests/abc098/tasks/arc098_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/C.java) | `AtCoder` `*300` | Jun/07/2022 23:11 | 
 1246 | [B - Cut and Count](https://atcoder.jp/contests/abc098/tasks/abc098_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc098/B.java) | `AtCoder` `*200` | Jun/07/2022 22:59 | 
