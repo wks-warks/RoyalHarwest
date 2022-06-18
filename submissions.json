@@ -6927,6 +6927,22 @@
     ],
     "timestamp": "Jun/07/2022 23:27"
   },
+  "AC32528847": {
+    "contest_id": "abc099",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc099/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Strange Bank",
+    "problem_url": "https://atcoder.jp/contests/abc099/tasks/abc099_c",
+    "submission_id": "AC32528847",
+    "submission_url": "https://atcoder.jp/contests/abc099/submissions/32528847",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/18/2022 11:37"
+  },
   "AC32529284": {
     "contest_id": "abc100",
     "language": "Java (OpenJDK 11.0.6)",
