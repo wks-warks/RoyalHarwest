@@ -6927,6 +6927,22 @@
     ],
     "timestamp": "Jun/07/2022 23:27"
   },
+  "AC32528588": {
+    "contest_id": "abc100",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc100/A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Happy Birthday!",
+    "problem_url": "https://atcoder.jp/contests/abc100/tasks/abc100_a",
+    "submission_id": "AC32528588",
+    "submission_url": "https://atcoder.jp/contests/abc100/submissions/32528588",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/18/2022 11:21"
+  },
   "AC32528630": {
     "contest_id": "abc100",
     "language": "Java (OpenJDK 11.0.6)",
