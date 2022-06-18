@@ -6927,6 +6927,22 @@
     ],
     "timestamp": "Jun/07/2022 23:27"
   },
+  "AC32528725": {
+    "contest_id": "abc100",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc100/C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "*3 or /2",
+    "problem_url": "https://atcoder.jp/contests/abc100/tasks/abc100_c",
+    "submission_id": "AC32528725",
+    "submission_url": "https://atcoder.jp/contests/abc100/submissions/32528725",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jun/18/2022 11:30"
+  },
   "AC32528847": {
     "contest_id": "abc099",
     "language": "Java (OpenJDK 11.0.6)",
