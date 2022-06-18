@@ -6927,6 +6927,22 @@
     ],
     "timestamp": "Jun/07/2022 23:27"
   },
+  "AC32528630": {
+    "contest_id": "abc100",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder/abc100/B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Ringo's Favorite Numbers",
+    "problem_url": "https://atcoder.jp/contests/abc100/tasks/abc100_b",
+    "submission_id": "AC32528630",
+    "submission_url": "https://atcoder.jp/contests/abc100/submissions/32528630",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/18/2022 11:24"
+  },
   "AC32528725": {
     "contest_id": "abc100",
     "language": "Java (OpenJDK 11.0.6)",
