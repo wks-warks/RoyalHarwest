@@ -17298,6 +17298,25 @@
     ],
     "timestamp": "Apr/20/2022 15:12"
   },
+  "CF161204579": {
+    "contest_id": 1700,
+    "language": "Java 11",
+    "path": "codeforces/1700/D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "River Locks",
+    "problem_url": "https://codeforces.com/contest/1700/problem/D",
+    "submission_id": "CF161204579",
+    "submission_url": "https://codeforces.com/contest/1700/submission/161204579",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Jun/19/2022 15:59"
+  },
   "CF94415312": {
     "contest_id": 4,
     "language": "Java 11",
