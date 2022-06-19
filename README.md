@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1262 | [D - River Locks](https://codeforces.com/contest/1700/problem/D) | [Java 11](./codeforces/1700/D.java) | `binary search` `dp` `greedy` `math` `*1900` | Jun/19/2022 15:59 | 
+1263 | [D - River Locks](https://codeforces.com/contest/1700/problem/D) | [Java 11](./codeforces/1700/D.java) | `binary search` `dp` `greedy` `math` `*1900` | Jun/19/2022 15:59 | 
+1262 | [B - Palindromic Numbers ](https://codeforces.com/contest/1700/problem/B) | [Java 11](./codeforces/1700/B.java) | `constructive algorithms` `implementation` `math` `*1100` | Jun/19/2022 15:00 | 
 1261 | [E - Takahashi's Anguish](https://atcoder.jp/contests/abc256/tasks/abc256_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/E.java) | `AtCoder` `*500` | Jun/18/2022 19:20 | 
 1260 | [D - Union of Interval](https://atcoder.jp/contests/abc256/tasks/abc256_d) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/D.java) | `AtCoder` `*400` | Jun/18/2022 17:58 | 
 1259 | [C - Filling 3x3 array](https://atcoder.jp/contests/abc256/tasks/abc256_c) | [Java (OpenJDK 11.0.6)](./atcoder/abc256/C.java) | `AtCoder` `*300` | Jun/18/2022 17:47 | 
